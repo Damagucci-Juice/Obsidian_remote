@@ -112,3 +112,41 @@ struct CounterFeature {
 >지금은 간단한 리듀서로도 충분하고 그래서 하나의 리듀서만 존재 
 >그러나 여러 리듀서를 함께 조합하는 것이 일반적이고 나중 튜토리얼에서 보여줄 것
 
+# Step6. 
+```swift
+@Reducer
+struct CounterFeature {
+	struct State {
+		var count = 0
+	}
+
+	enum Action {
+		case decrementButtonTapped
+		case incrementButtonTapped
+	}
+
+	var body: some ReducerOf<Self> {
+		Reduce { state, action in 
+			switch action {
+			case .decrementButtonTapped:
+				state.count -= 1
+				return .none
+			case .incrementButtonTapped:
+				state.count += 1
+				return .none
+			}
+		}
+	}
+}
+```
+- 더하거나 빼는 로직이 전부
+- 반드시 `Effect`라는 값을 리턴해야 함
+- 바깥 세상에서 수행되어야 하는 영향을 나타냄
+- 이 케이스에선 아무것도 할 필요가 없음
+- 아무것도 수행할 필요가 없다는 의미로  `.none`이라는 특별한 값을 반환함 
+
+## 결론 
+더 해볼 것이 많지만, View를 연결하는 것으로 넘어가려함 
+- effect를 실행해 데이터를 시스템에 피드백하기
+- 리듀서에 의존성을 사용하기
+- 여러 리듀서를 조합하기 등등
