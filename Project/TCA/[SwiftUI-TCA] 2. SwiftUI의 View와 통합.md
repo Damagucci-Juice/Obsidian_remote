@@ -77,6 +77,63 @@ struct CounterView: View {
 - ViewStore: SwiftUI의 뷰에서 편하게 Store를 관찰하는 객체
 - 경량화된 문법을 제공
 # Step4. 
+```swift
+extension CounterFeature.State: Equatable {}
 
+
+struct CounterView: View {
+  let store: StoreOf<CounterFeature>
+
+  var body: some View {
+    WithViewStore(self.store, observe: { $0 }) { viewStore in
+      VStack {
+        Text("\(viewStore.count)")
+          .font(.largeTitle)
+          .padding()
+          .background(Color.black.opacity(0.1))
+          .cornerRadius(10)
+        HStack {
+          Button("-") {
+            viewStore.send(.decrementButtonTapped)
+          }
+          .font(.largeTitle)
+          .padding()
+          .background(Color.black.opacity(0.1))
+          .cornerRadius(10)
+
+
+          Button("+") {
+            viewStore.send(.incrementButtonTapped)
+          }
+          .font(.largeTitle)
+          .padding()
+          .background(Color.black.opacity(0.1))
+          .cornerRadius(10)
+        }
+      }
+    }
+  }
+}
+```
+- ViewStore는 State가 `Equatable`을 채택해야 사용 가능
+- ViewStore가 구조화되면 버튼을 눌렀을 때 기능의 state와 action에 접근하는 것이 가능
+>[!tip]
+>- `observe: { $0 }`으로 스토어 안에 모든 상태(state)에 접근하고 있지만, 기능은 뷰에서 필요로하는 것 보다 많은 상태를 가진다.
+>- 뷰가 자신의 일을 처리하기 위해 꼭 필요한 본질을 관찰하는지 알기 위해 [Performance](https://pointfreeco.github.io/swift-composable-architecture/main/documentation/composablearchitecture/performance/)아티클을 보세요.
+
+# Step5. 프리뷰 생성
+```swift
+struct CounterPreview: PreviewProvider {
+  static var previews: some View {
+    CounterView(
+      store: Store(initialState: CounterFeature.State()) {
+        CounterFeature()
+      }
+    )
+  }
+}
+```
+- 실제 기능을 수행하기 위해 프리뷰를 제작
+- `CounterView`를 선언 
 
 2023-12-14 작성중 ...
