@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-14.md",
+                "file": "Project/TCA/TCA, Your first feature - 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5024719238281
+    "width": 307.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "c81d8af55f079df0",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-14.md",
+                "file": "Project/TCA/TCA, Your first feature - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-14.md",
+                "file": "Project/TCA/TCA, Your first feature - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-14.md"
+                "file": "Project/TCA/TCA, Your first feature - 1.md"
               }
             }
           },
@@ -151,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,15 +169,15 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
-    "Spaces/Home/CheckList/Daily/Daily.md",
-    "Project/TCA/TCA, Your first feature.md",
+    "Project/TCA/[swiftUI-심화] TCA 톺아보기.md",
+    "Project/TCA/TCA, Your first feature - 1.md",
     "Project/TCA/TCA.md",
+    "Spaces/Home/CheckList/Daily/2023-12-14.md",
+    "Spaces/Home/CheckList/Daily/Daily.md",
     "Project/Project.md",
     "Obsidian Vault.md",
-    "Spaces/Home/CheckList/Daily/2023-12-14.md",
     "Inbox/Inbox.md",
     "Inbox/2023-12-14.md",
-    "Project/TCA/[swiftUI-심화] TCA 톺아보기.md",
     "Project/TCA/TCA 구조의 정수.png",
     "Spaces/Home/CheckList/Weekly/Weekly.md",
     "Spaces/Home/CheckList/CheckList.md",
