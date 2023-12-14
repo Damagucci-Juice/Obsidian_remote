@@ -11,11 +11,9 @@
             "id": "3fe92dc15cec97e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
-                "mode": "source",
-                "source": false
+                "file": "Project/Resume/장영진 이력서.pdf"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
+                "file": "Project/Resume/장영진 이력서.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
+                "file": "Project/Resume/장영진 이력서.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md"
+                "file": "Project/Resume/장영진 이력서.pdf"
               }
             }
           },
@@ -168,10 +166,13 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
+    "Project/Resume/Resume Map.canvas",
+    "Project/Resume/PortFolio Example.png",
+    "Project/Resume/Resume.md",
+    "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
     "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
     "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
     "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
-    "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
     "Area/Area.md",
     "Spaces/Home/CheckList/Daily/2023-12-14.md",
     "Project/TCA/TCA.md",
@@ -197,8 +198,6 @@
     "Area/Macro/Swift Markdown.md",
     "Project/Photo_on_11-30-23_at_11.39_AM__2-removebg-preview.png",
     "Area/Macro/SpriteKit Practice.md",
-    "Resource/개발일반/읽기 좋은 코드 - 변수명.md",
-    "Resource/칭찬박스/칭찬박스.md",
     "Resource/창업/BF4DEF28-0F8C-4BDA-B856-EDFFA8040E14.jpeg",
     "Resource/창업/VC는 어떤거냐.jpg",
     "Resource/창업/예창패 실태.jpg",
@@ -208,8 +207,6 @@
     "Project/Concurrency/직렬, 병렬.png",
     "Spaces/Home/CheckList",
     "Resource/Algorithm/Algorithm.canvas",
-    "Project/Resume/Resume Map.canvas",
-    "Project/Resume/PortFolio Example.png",
     "Project/Concurrency/Tasks & Queues.pdf",
     "Project/Concurrency/Task, DispatchQueue By Team.png",
     "Spaces/Dev",
