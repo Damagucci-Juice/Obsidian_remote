@@ -1,0 +1,11 @@
+# 무시해야할 폴더들
+
+자기개발/
+칭찬박스/
+창업/
+Macro/
+Resume/
+MC3/
+CheckList/
+
+.DS_Store

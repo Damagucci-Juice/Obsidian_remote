@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"3f2ee1009a46b895","type":"group","x":-760,"y":-40,"width":1480,"height":800,"label":"Safari Web Extension 만들기"},
+		{"id":"757081613c416c55","type":"group","x":-645,"y":1140,"width":1605,"height":660,"label":"해야할 일 1012~ "},
+		{"id":"082b7a55af578757","type":"group","x":-1520,"y":1190,"width":610,"height":210,"label":"Contextual menu"},
+		{"id":"3b96d8ea64209990","type":"text","text":"구성 요소","x":-390,"y":20,"width":250,"height":60},
+		{"id":"7af787ce9492d546","type":"text","text":"WWDC20, Safari Extension","x":-740,"y":-20,"width":330,"height":100},
+		{"id":"1a66a3ce682e018b","type":"link","url":"https://developer.apple.com/documentation/safariservices/safari_app_extensions/safari_app_extension_information_property_list_keys/adjusting_settings_for_contextual_menu_items","x":-1540,"y":-80,"width":642,"height":1080},
+		{"id":"45ffe5e7b0007fcc","type":"text","text":"two fingers tap","x":-1500,"y":1210,"width":250,"height":60},
+		{"id":"800935f77d09d862","type":"text","text":"Secondary Click(Right Click)","x":-1223,"y":1320,"width":250,"height":60},
+		{"id":"390933580d67d2ba","type":"text","text":"JS 호환 ","x":-100,"y":-21,"width":250,"height":60},
+		{"id":"79ce5652f1f41459","type":"text","text":"Contextual Pop up menu","x":-1180,"y":1210,"width":250,"height":60},
+		{"id":"e81c3d9df2f2db8b","type":"text","text":"Background","x":-640,"y":150,"width":250,"height":60},
+		{"id":"5adf4efcd093febe","type":"text","text":"메시지 수신과 같은 이벤트가 발생할 때 동작하는 스크립트 ","x":-660,"y":420,"width":250,"height":60},
+		{"id":"f9d1d85a3f3008fa","type":"text","text":"Manifest File","x":195,"y":152,"width":250,"height":68},
+		{"id":"c1822800c0a04178","type":"text","text":"Safari Web Extension\n- 전통적으로 우리가 아는 그것","x":120,"y":813,"width":640,"height":167},
+		{"id":"7373fbf52922188e","type":"file","file":"Project/SafariExtension/Pasted image 20231012004653.png","x":-375,"y":400,"width":400,"height":319},
+		{"id":"f22edfa978dc5ffd","type":"text","text":"Content","x":-377,"y":152,"width":250,"height":60},
+		{"id":"5d127ad678ee6d5d","type":"text","text":"Popup","x":-100,"y":152,"width":250,"height":60},
+		{"id":"cf8220c532d7e63d","type":"text","text":"적절한 자료 수집","x":-625,"y":1160,"width":250,"height":60},
+		{"id":"255c38b0210f3d59","type":"text","text":"Safari App Extension\n- 앱과 Extension 사이의 Messaging 기능에 좀 더 중점을 둔 무언가","x":840,"y":813,"width":520,"height":187},
+		{"id":"70bac1712d32a721","type":"text","text":"[SwiftUI Tutorial에서 맥앱 만들기 해보기](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app)","x":-385,"y":-399,"width":543,"height":79},
+		{"id":"0c5d45f89a456daa","type":"text","text":"Sample Safari Extension을 만들기","x":-352,"y":1160,"width":450,"height":60},
+		{"id":"ab478f60290664fc","type":"text","text":"거기서 Contextual Menu를 편집","x":-625,"y":1245,"width":385,"height":95},
+		{"id":"40ab81b27bc27cba","type":"text","text":"Selected된 내용을 어느 앱에 보내기","x":-197,"y":1235,"width":437,"height":105},
+		{"id":"11e44db63418f4c1","type":"text","text":"기회가 되면 텍스트 하이라이트가 들어가 있도록 하기","x":305,"y":1165,"width":395,"height":130},
+		{"id":"5ebdd60f26b9c2a2","type":"file","file":"Project/SafariExtension/노트 앱에서 이렇게 보인다 예시.png","x":-616,"y":1500,"width":452,"height":286},
+		{"id":"281a51c8e4bdb1e2","type":"file","file":"Project/SafariExtension/사파리 예시.png","x":-127,"y":1555,"width":400,"height":88}
+	],
+	"edges":[
+		{"id":"2efc07fdb972e5d3","fromNode":"e81c3d9df2f2db8b","fromSide":"top","toNode":"3b96d8ea64209990","toSide":"bottom"},
+		{"id":"d746444ed708d8ec","fromNode":"f22edfa978dc5ffd","fromSide":"top","toNode":"3b96d8ea64209990","toSide":"bottom"},
+		{"id":"e5950597456ab6ae","fromNode":"5d127ad678ee6d5d","fromSide":"top","toNode":"3b96d8ea64209990","toSide":"bottom"},
+		{"id":"1be49980a51cee15","fromNode":"5adf4efcd093febe","fromSide":"top","toNode":"e81c3d9df2f2db8b","toSide":"bottom"},
+		{"id":"99c791dbe6c2186c","fromNode":"7373fbf52922188e","fromSide":"top","toNode":"f22edfa978dc5ffd","toSide":"bottom"},
+		{"id":"6c2fbee99c507da3","fromNode":"082b7a55af578757","fromSide":"top","toNode":"1a66a3ce682e018b","toSide":"bottom"},
+		{"id":"bf5b7d250fb7e310","fromNode":"f9d1d85a3f3008fa","fromSide":"top","toNode":"3b96d8ea64209990","toSide":"bottom"},
+		{"id":"52f709390ad7944b","fromNode":"ab478f60290664fc","fromSide":"bottom","toNode":"281a51c8e4bdb1e2","toSide":"top"}
+	]
+}

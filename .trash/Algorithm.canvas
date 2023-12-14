@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"1688a9037737000d","x":-380,"y":200,"width":250,"height":60,"type":"text","text":"BFS"},
+		{"id":"62852e43141d5257","x":20,"y":200,"width":250,"height":60,"type":"text","text":"Queue"},
+		{"id":"f93c154791ac564a","x":20,"y":-151,"width":250,"height":60,"type":"text","text":"Stack"},
+		{"id":"b898b25d7e446611","x":-380,"y":-151,"width":250,"height":60,"type":"text","text":"DFS"},
+		{"id":"a2b3e51a077e0ab7","x":20,"y":20,"width":250,"height":60,"type":"text","text":"그래프 그림을 그려서 생각하면 쉬움 "}
+	],
+	"edges":[
+		{"id":"f927cf4be5492d2f","fromNode":"62852e43141d5257","fromSide":"left","toNode":"1688a9037737000d","toSide":"right"},
+		{"id":"cbfdf76e90d85f79","fromNode":"f93c154791ac564a","fromSide":"left","toNode":"b898b25d7e446611","toSide":"right"},
+		{"id":"16aa9f77da35b82a","fromNode":"a2b3e51a077e0ab7","fromSide":"top","toNode":"f93c154791ac564a","toSide":"bottom"},
+		{"id":"6b7e73e67b618c84","fromNode":"a2b3e51a077e0ab7","fromSide":"bottom","toNode":"62852e43141d5257","toSide":"top"}
+	]
+}

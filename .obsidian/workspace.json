@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "5a0fdb27235a191e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a0542356126a2b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fe92dc15cec97e5",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Project"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae28a2fe706b569a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f765284b3cd998ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8763090ff328715",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "86b2c43a12f15d62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "아이작",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f9dbd4ee3503841",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8170cff780fd06eb",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5024719238281
+  },
+  "right": {
+    "id": "c81d8af55f079df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f77ba8adc95e265d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09302e538fbe66ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project/Project.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa0f4fcb29e25d94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project/Project.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aece092437de71bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9970160851aac601",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project/Project.md"
+              }
+            }
+          },
+          {
+            "id": "3d1b4663c6e64a91",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a65ab3eeaf096dda",
+  "lastOpenFiles": [
+    "Project/Project.md",
+    "Inbox/User Testing (Act1).md",
+    "Inbox/Api list.md",
+    "Spaces/Home/CheckList/Daily/2023-12-14.md",
+    "Resource/SwiftUI Architecture/확장 가능하고 테스트 가능한 아키텍쳐.md",
+    "Spaces/Home/CheckList/Daily/Daily.md",
+    "Spaces/Home/CheckList/Monthly/Monthly.md",
+    "Spaces/Home/CheckList/CheckList.md",
+    "Spaces/Home/CheckList/Monthly",
+    "Spaces/Home/CheckList/Weekly/Weekly.md",
+    "Spaces/Home/CheckList/Daily",
+    "Spaces/Home/CheckList/Weekly",
+    "Spaces/Home/README.md",
+    "Spaces/Home/Home.md",
+    "Spaces/Dev/Dev.md",
+    "Area/Macro/Swift Markdown.md",
+    "Project/Photo_on_11-30-23_at_11.39_AM__2-removebg-preview.png",
+    "Area/Area.md",
+    "Area/Macro/SpriteKit Practice.md",
+    "Resource/개발일반/읽기 좋은 코드 - 변수명.md",
+    "Resource/칭찬박스/칭찬박스.md",
+    "Resource/창업/2023-11-28, 창업 지원 프로그램, 링고.md",
+    "Resource/창업/BF4DEF28-0F8C-4BDA-B856-EDFFA8040E14.jpeg",
+    "Resource/창업/VC는 어떤거냐.jpg",
+    "Resource/창업/예창패 실태.jpg",
+    "Resource/칭찬박스/동기부여.canvas",
+    "Resource/Test/Quick, Nimble 세션.md",
+    "Archive/SafariExtension/Pasted image 20231128135517.png",
+    "Archive/SafariExtension/Pasted image 20231128135759.png",
+    "Inbox/Inbox.md",
+    "Archive/Archive.md",
+    "Obsidian Vault.md",
+    "Project/Concurrency/아이작 Task & Concurrency Session.md",
+    "Project/Concurrency/직렬, 병렬.png",
+    "Area/Design/[DR] CW(창우님) 세션.md",
+    "Spaces/Home/TodayILearned/Untitled.md",
+    "Spaces/Home/CheckList",
+    "Resource/Resource.md",
+    "Resource/Algorithm/Algorithm.canvas",
+    "Project/Resume/Resume Map.canvas",
+    "Project/Resume/PortFolio Example.png",
+    "Project/Concurrency/Tasks & Queues.pdf",
+    "Project/Concurrency/Task, DispatchQueue By Team.png",
+    "Project/Concurrency/Task, DispatchQueue by Gucci.png",
+    "Spaces/Dev",
+    "Project/Resume/Career",
+    "Spaces/Home",
+    "Spaces",
+    "LICENSE",
+    "Archive/SafariExtension/용어정리.canvas",
+    "Project/SafariExtension/용어정리.canvas",
+    "Resource/Book/SecondBrain.canvas",
+    "Project/Combine/Untitled.canvas",
+    "Resource/Swift/SwiftMap.canvas",
+    "Area/Macro/기획/기획 앱 개발.canvas",
+    "Untitled 2.canvas"
+  ]
+}

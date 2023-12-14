@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"dee250f01b9dfd5f","x":-300,"y":-340,"width":400,"height":400,"type":"file","file":"2023-09-27.md"},
+		{"id":"857a9c0bb6303125","x":-150,"y":260,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"1919c9338ee07eb5","fromNode":"dee250f01b9dfd5f","fromSide":"bottom","toNode":"857a9c0bb6303125","toSide":"top"}
+	]
+}
