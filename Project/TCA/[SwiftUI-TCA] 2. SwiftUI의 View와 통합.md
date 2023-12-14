@@ -38,12 +38,45 @@ struct CounterView: View {
 # Step3.
 ```swift
 struct CounterView: View {
-	let store: StoreOf<CounterFeature>
-	
-	var body: some View {
-VStack { Text("0") .font(.largeTitle) .padding() .background(Color.black.opacity(0.1)) .cornerRadius(10) HStack { Button("-") { } .font(.largeTitle) .padding() .background(Color.black.opacity(0.1)) .cornerRadius(10) Button("+") { } .font(.largeTitle) .padding() .background(Color.black.opacity(0.1)) .cornerRadius(10) } }
-	}
+  let store: StoreOf<CounterFeature>
+
+  var body: some View {
+    VStack {
+      Text("0")
+        .font(.largeTitle)
+        .padding()
+        .background(Color.black.opacity(0.1))
+        .cornerRadius(10)
+      HStack {
+        Button("-") {
+        }
+        .font(.largeTitle)
+        .padding()
+        .background(Color.black.opacity(0.1))
+        .cornerRadius(10)
+
+
+        Button("+") {
+        }
+        .font(.largeTitle)
+        .padding()
+        .background(Color.black.opacity(0.1))
+        .cornerRadius(10)
+      }
+    }
+  }
 }
 ```
+- 버튼을 통해서 더하기 빼기를 하는 기본적인 뷰 계층
+- 현재 Count를 나타냄
+>[!note]
+> - Store로 부터 상태를 직접 읽거나, 액션에 직접 명령을 하지 못한다. 
+> - 행동(behavior)를 하기 위해 stubs를 제공함
+> - `ViewStore`를 통해 실제 실행을 할 수 있음 
+
+- ViewStore: SwiftUI의 뷰에서 편하게 Store를 관찰하는 객체
+- 경량화된 문법을 제공
+# Step4. 
+
 
 2023-12-14 작성중 ...
