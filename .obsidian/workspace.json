@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/TCA/TCA, Your first feature.md",
+                "file": "Spaces/Home/CheckList/Daily/2023-12-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/TCA/TCA, Your first feature.md",
+                "file": "Spaces/Home/CheckList/Daily/2023-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/TCA/TCA, Your first feature.md",
+                "file": "Spaces/Home/CheckList/Daily/2023-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TCA/TCA, Your first feature.md"
+                "file": "Spaces/Home/CheckList/Daily/2023-12-14.md"
               }
             }
           },
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,11 +167,13 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
-    "Project/TCA/[swiftUI-심화] TCA 톺아보기.md",
-    "Project/TCA/TCA, Your first feature.md",
-    "Project/TCA/TCA 구조의 정수.png",
-    "Spaces/Home/CheckList/Daily/2023-12-14.md",
     "Spaces/Home/CheckList/Daily/Daily.md",
+    "Spaces/Home/CheckList/Daily/2023-12-14.md",
+    "Inbox/Inbox.md",
+    "Inbox/2023-12-14.md",
+    "Project/TCA/TCA, Your first feature.md",
+    "Project/TCA/[swiftUI-심화] TCA 톺아보기.md",
+    "Project/TCA/TCA 구조의 정수.png",
     "Spaces/Home/CheckList/Weekly/Weekly.md",
     "Spaces/Home/CheckList/CheckList.md",
     "Obsidian Vault.md",
@@ -201,11 +202,9 @@
     "Resource/Test/Quick, Nimble 세션.md",
     "Archive/SafariExtension/Pasted image 20231128135517.png",
     "Archive/SafariExtension/Pasted image 20231128135759.png",
-    "Inbox/Inbox.md",
     "Archive/Archive.md",
     "Project/Concurrency/아이작 Task & Concurrency Session.md",
     "Project/Concurrency/직렬, 병렬.png",
-    "Area/Design/[DR] CW(창우님) 세션.md",
     "Spaces/Home/CheckList",
     "Resource/Algorithm/Algorithm.canvas",
     "Project/Resume/Resume Map.canvas",
