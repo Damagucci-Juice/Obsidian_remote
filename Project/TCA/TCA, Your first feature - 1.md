@@ -14,22 +14,16 @@ Counter의 로직을 캡슐화한 간단한 리듀서를 만들어 보자.
 기능에 앞으로 더 흥미로운 행동을 추가할 것이지만 지금 당장은 간단하게 시작해보자. 
 
 ## Step1. 
-- `CounterFeature.swift`라는 파일을 생성하기
-- `ComposableArchitecture`를 import하기
-
->[!note]
-> 라이브러리를 import하기 위해 SPM package나 Xcode project setting에 추가해야한다.
-
 ```Swift
 import ComposableArchitecture
 
 ```
+- `CounterFeature.swift`라는 파일을 생성하기
+- `ComposableArchitecture`를 import하기
+>[!note]
+> 라이브러리를 import하기 위해 SPM package나 Xcode project setting에 추가해야한다.
 
 ## Step2. 
-- 새로운 구조체 `CounterFeature`를 추가하고 `Reducer()` 매크로 주석을 추가 
->[!note]
->`Reducer()` 매크로는 몇가지 일을 대신해주지만 지금 시점에서는 `CounterFeature`라는 타입에 Reducer 프로토콜을 채택해준다는 것만 알고 넘어가자. 
-
 ```Swift
 import ComposableArchitecture
 
@@ -38,12 +32,12 @@ struct CounterFeature {
 	
 }
 ```
+- 새로운 구조체 `CounterFeature`를 추가하고 `Reducer()` 매크로 주석을 추가 
+>[!note]
+>`Reducer()` 매크로는 몇가지 일을 대신해주지만 지금 시점에서는 `CounterFeature`라는 타입에 Reducer 프로토콜을 채택해준다는 것만 알고 넘어가자. 
+
 
 ## Step3. 
-- Reducer를 채택하므로써 도메인 모델링 활동을 해야함
-- `State` 타입과 `Action` 타입을 생성
-- State: 기능이 작업을 하기 위해 필요한 상태를 지님, 구조체
-- Action: 사용자가 수행하는 액션을 선언, 열거형
 ```swift
 @Reducer
 struct CounterFeature {
@@ -56,14 +50,12 @@ struct CounterFeature {
 	}
 }
 ```
+- Reducer를 채택하므로써 도메인 모델링 활동을 해야함
+- `State` 타입과 `Action` 타입을 생성
+- State: 기능이 작업을 하기 위해 필요한 상태를 지님, 구조체
+- Action: 사용자가 수행하는 액션을 선언, 열거형
 
 ## Step4. 
-- 간단한 카운터 기능을 목표로, 상태(State)는 간단한 정수로 구성
-- 액션(Action)은 카운트를 증감하는 버튼을 누르는 것으로 구성
->[!tip]
->액션의 케이스 네이밍은 UI에서 사용자가 정확히 무슨 행위를 하는지로 지어주는게 최선
->`incrementButtonTapped` (O)
->`incrementCount` (X)
 ```swift
 @Reducer
 struct CounterFeature {
@@ -77,8 +69,46 @@ struct CounterFeature {
 	}
 }
 ```
+- 간단한 카운터 기능을 목표로, 상태(State)는 간단한 정수로 구성
+- 액션(Action)은 카운트를 증감하는 버튼을 누르는 것으로 구성
+>[!tip]
+>액션의 케이스 네이밍은 UI에서 사용자가 정확히 무슨 행위를 하는지로 지어주는게 최선
+>`incrementButtonTapped` (O)
+>`incrementCount` (X)
 
 ## Step5.
-- 마지막으로 리듀서의 body를 상태와 액션을 포함하는 `Reduce`를 선언
-- 이 리듀서는 사용자 액션이 주어졌을 때 State를 현재 값에서 다음 값으로 발전
+```swift
+@Reducer
+struct CounterFeature {
+	struct State {
+		var count = 0
+	}
+
+	enum Action {
+		case decrementButtonTapped
+		case incrementButtonTapped
+	}
+
+	var body: some ReducerOf<Self> {
+		Reduce { state, action in 
+			switch action {
+			case .decrementButtonTapped:
+			
+			case .incrementButtonTapped:
+			
+			}
+		}
+	}
+}
+```
+- 마지막으로 리듀서의 body를 상태와 액션을 포함하는 `Reduce`로 선언
+- 이 리듀서는 사용자 액션이 주어졌을 때 State를 현재 값에서 다음 값으로 발전시킴
 - 그 기능이 바깥 세상에서 실행하기 원하는 어떤 Effects를 반환
+- 들어오는 액션에따라 스위칭되므로써 시작함
+	- 어떤 로직을 수행해야하는지, 들어가고 나가는 어떤 상태가 제공되어야하는지를 결정
+- mutation(변이)를 직접 수행할 수 있음
+>[!note]
+>리듀서는 body 프로퍼티로 실행되는데 후에 조합하고 싶은 리듀서를 리스팅한다. 
+>지금은 간단한 리듀서로도 충분하고 그래서 하나의 리듀서만 존재 
+>그러나 여러 리듀서를 함께 조합하는 것이 일반적이고 나중 튜토리얼에서 보여줄 것
+
