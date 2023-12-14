@@ -1,3 +1,6 @@
+# 이전 아티클
+[[SwiftUI-TCA] 1. Reducer 생성]]
+
 > 1탄에서 만든 reducer를 가지고, SwiftUI 뷰와 연결하는 방법을 배움 
 - `Store`: 런타임을 나타냄
 - `ViewStore`: 런타임의 관찰자를 나타냄
@@ -33,8 +36,7 @@ struct CounterView: View {
 - Effect를 실행 가능하고 이펙트로부터 나오는 데이터에 대한 피드백을 시스템에 전달 가능
 >[!tip]
 > - `Store` 는 `let`으로만 선언가능
-
-> - 뷰에 관찰될 필요는 없다
+> - 뷰에서 관찰될 필요는 없다(`@StateObject`등 프로퍼티 래퍼를 통하지 않아도 된다는 말인듯(?))
 
 # Step3.
 ```swift
@@ -117,9 +119,9 @@ struct CounterView: View {
 }
 ```
 - ViewStore는 State가 `Equatable`을 채택해야 사용 가능
-- ViewStore가 구조화되면 버튼을 눌렀을 때 기능의 state와 action에 접근하는 것이 가능
+- 구조화된 ViewStore가 선언되면 버튼을 눌렀을 때 기능의 state와 action에 접근하는 것이 가능
 >[!tip]
->- `observe: { $0 }`으로 스토어 안에 모든 상태(state)에 접근하고 있지만, 기능은 뷰에서 필요로하는 것 보다 많은 상태를 가진다.
+>- `observe: { $0 }`으로 스토어 안에 모든 상태(state)에 접근하고 있지만, 일반적으로 기능은 뷰에서 필요로하는 것 보다 많은 상태를 가진다.
 >- 뷰가 자신의 일을 처리하기 위해 꼭 필요한 본질을 관찰하는지 알기 위해 [Performance](https://pointfreeco.github.io/swift-composable-architecture/main/documentation/composablearchitecture/performance/)아티클을 보세요.
 
 # Step5. 프리뷰 생성
