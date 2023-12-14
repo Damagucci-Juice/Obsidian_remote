@@ -1,6 +1,6 @@
 # 이전 아티클
-[[SwiftUI-TCA] 1. Reducer 생성]]
-[[SwiftUI-TCA] 2. SwiftUI의 View와 통합]]
+[[[SwiftUI-TCA] 1. Reducer 생성]]
+[[[SwiftUI-TCA] 2. SwiftUI의 View와 통합]]
 
 > TCA를 채택한 코드를 실행하기 위해 시작점을 변경하는 방법을 배움
 
@@ -80,4 +80,8 @@ struct MyApp: App {
   }
 }
 ```
-- `_printChanges(_:)`: 콘솔에 리듀서가 처리하는 모든 액션을 프린트함
+- `_printChanges(_:)`: 리듀서가 처리하는 모든 액션을 콘솔에 출력하고, 액션을 처리한 후 상태가 어떻게 변했는지도 출력 
+- 오직 변경된 상태와 컬렉션의 요소만을 프린트
+
+# Step5. 
+- 앱을 구동해서 "-", "+" 버튼을 눌러보면 콘솔에 로그가 찍히는 것을 확인 가능

@@ -1,5 +1,5 @@
 # 이전 아티클
-[[SwiftUI-TCA] 1. Reducer 생성]]
+[[[SwiftUI-TCA] 1. Reducer 생성]]
 
 > 1탄에서 만든 reducer를 가지고, SwiftUI 뷰와 연결하는 방법을 배움 
 - `Store`: 런타임을 나타냄

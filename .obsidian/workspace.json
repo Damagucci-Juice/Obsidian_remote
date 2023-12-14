@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
+                "file": "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
+                "file": "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
+                "file": "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md"
+                "file": "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md"
               }
             }
           },
@@ -168,9 +168,11 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
+    "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
     "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
     "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
-    "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
+    "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
+    "Area/Area.md",
     "Spaces/Home/CheckList/Daily/2023-12-14.md",
     "Project/TCA/TCA.md",
     "Project/TCA/[swiftUI-심화] TCA 톺아보기.md",
@@ -194,11 +196,9 @@
     "Spaces/Dev/Dev.md",
     "Area/Macro/Swift Markdown.md",
     "Project/Photo_on_11-30-23_at_11.39_AM__2-removebg-preview.png",
-    "Area/Area.md",
     "Area/Macro/SpriteKit Practice.md",
     "Resource/개발일반/읽기 좋은 코드 - 변수명.md",
     "Resource/칭찬박스/칭찬박스.md",
-    "Resource/창업/2023-11-28, 창업 지원 프로그램, 링고.md",
     "Resource/창업/BF4DEF28-0F8C-4BDA-B856-EDFFA8040E14.jpeg",
     "Resource/창업/VC는 어떤거냐.jpg",
     "Resource/창업/예창패 실태.jpg",
