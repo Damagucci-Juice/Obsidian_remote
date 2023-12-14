@@ -11,9 +11,11 @@
             "id": "3fe92dc15cec97e5",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Project"
+                "file": "Project/TCA/TCA, Your first feature.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Project.md",
+                "file": "Project/TCA/TCA, Your first feature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Project.md",
+                "file": "Project/TCA/TCA, Your first feature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Project.md"
+                "file": "Project/TCA/TCA, Your first feature.md"
               }
             }
           },
@@ -144,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,18 +166,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8170cff780fd06eb",
+  "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
+    "Project/TCA/[swiftUI-심화] TCA 톺아보기.md",
+    "Project/TCA/TCA, Your first feature.md",
+    "Project/TCA/TCA 구조의 정수.png",
+    "Spaces/Home/CheckList/Daily/2023-12-14.md",
+    "Spaces/Home/CheckList/Daily/Daily.md",
+    "Spaces/Home/CheckList/Weekly/Weekly.md",
+    "Spaces/Home/CheckList/CheckList.md",
+    "Obsidian Vault.md",
     "Project/Project.md",
     "Inbox/User Testing (Act1).md",
     "Inbox/Api list.md",
-    "Spaces/Home/CheckList/Daily/2023-12-14.md",
     "Resource/SwiftUI Architecture/확장 가능하고 테스트 가능한 아키텍쳐.md",
-    "Spaces/Home/CheckList/Daily/Daily.md",
     "Spaces/Home/CheckList/Monthly/Monthly.md",
-    "Spaces/Home/CheckList/CheckList.md",
     "Spaces/Home/CheckList/Monthly",
-    "Spaces/Home/CheckList/Weekly/Weekly.md",
     "Spaces/Home/CheckList/Daily",
     "Spaces/Home/CheckList/Weekly",
     "README.md",
@@ -196,19 +203,15 @@
     "Archive/SafariExtension/Pasted image 20231128135759.png",
     "Inbox/Inbox.md",
     "Archive/Archive.md",
-    "Obsidian Vault.md",
     "Project/Concurrency/아이작 Task & Concurrency Session.md",
     "Project/Concurrency/직렬, 병렬.png",
     "Area/Design/[DR] CW(창우님) 세션.md",
-    "Spaces/Home/TodayILearned/Untitled.md",
     "Spaces/Home/CheckList",
-    "Resource/Resource.md",
     "Resource/Algorithm/Algorithm.canvas",
     "Project/Resume/Resume Map.canvas",
     "Project/Resume/PortFolio Example.png",
     "Project/Concurrency/Tasks & Queues.pdf",
     "Project/Concurrency/Task, DispatchQueue By Team.png",
-    "Project/Concurrency/Task, DispatchQueue by Gucci.png",
     "Spaces/Dev",
     "Project/Resume/Career",
     "Spaces/Home",
