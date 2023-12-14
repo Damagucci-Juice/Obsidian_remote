@@ -32,8 +32,9 @@ struct CounterView: View {
 - 상태를 업데이트하기 위해 액션을 처리할 수 있는 객체를 의미
 - Effect를 실행 가능하고 이펙트로부터 나오는 데이터에 대한 피드백을 시스템에 전달 가능
 >[!tip]
-> `Store` 는 `let`으로만 선언가능
-> 뷰에 관찰될 필요는 없다
+> - `Store` 는 `let`으로만 선언가능
+
+> - 뷰에 관찰될 필요는 없다
 
 # Step3.
 ```swift
@@ -135,5 +136,25 @@ struct CounterPreview: PreviewProvider {
 ```
 - 실제 기능을 수행하기 위해 프리뷰를 제작
 - `CounterView`를 선언 
+- `StoreOf<CounterFeature>`에 기능이 시작하길 원하는 초기 상태를 제공하면서 선언
+- 후행 클로저에 기능을 구동할 `Reducer`를 제공
+- 이렇게 하면 프리뷰를 통해 counter 기능이 뷰로 수행되는 것 확인 가능
+- 기능의 모든 상태와 행위가 `Reducer`에 포함되어 있어서 어떻게 수행하는지 변경하기 위해 다른 리듀서로도 프리뷰를 구동 가능(?)
 
-2023-12-14 작성중 ...
+# Step6. 프리뷰에서 리듀서 교체
+```swift
+struct CounterPreview: PreviewProvider {
+  static var previews: some View {
+    CounterView(
+      store: Store(initialState: CounterFeature.State()) {
+       // CounterFeature()
+      }
+    )
+  }
+}
+```
+- 리듀서를 제공하는 줄을 주석 처리
+- 스토어는 아무 상태 변경이나 영향이 없는 리듀서를 받음 
+- 어떠한 로직이나 행위에 대한 걱정 없이 시각적으로 프리뷰를 사용하도록 해줌
+
+# [출처](https://pointfreeco.github.io/swift-composable-architecture/main/tutorials/composablearchitecture/01-01-yourfirstfeature#Create-a-reducer)

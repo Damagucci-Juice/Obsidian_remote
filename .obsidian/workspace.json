@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5024719238281,
-    "collapsed": true
+    "width": 307.5024719238281
   },
   "right": {
     "id": "c81d8af55f079df0",
@@ -169,10 +168,10 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
-    "Spaces/Home/CheckList/Daily/2023-12-14.md",
-    "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
-    "Project/TCA/TCA.md",
     "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
+    "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
+    "Spaces/Home/CheckList/Daily/2023-12-14.md",
+    "Project/TCA/TCA.md",
     "Project/TCA/[swiftUI-심화] TCA 톺아보기.md",
     "Spaces/Home/CheckList/Daily/Daily.md",
     "Project/Project.md",
