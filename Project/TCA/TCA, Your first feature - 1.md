@@ -4,7 +4,9 @@
 기능의 행동과 논리를 수행하기 위해 `reducer`를 생성하는 법을 배우고, 그 기능을 SwiftUI의 View와 연결하는 법을 배운다. 
 
 # Section 1, Reducer 생성
-Composable Architecture에서 기능이 지어지는 기본 단위는 `Reducer()` 매크로와 `Reducer` 프로토콜이다. 이 프로토콜을 준수하는 것은 앱의 기능의 로직과 행동을 나타낸다. 이는 액션이 시스템에 전달되었을 때 현재 상태를 다음 상태로 진화하는 방법 바깥 세상과 시스템 내부로 데이터를 다시 피드백하는 소통 방식을 포함한다. 
+- Composable Architecture에서 기능이 지어지는 기본 단위는 `Reducer()` 매크로와 `Reducer` 프로토콜 
+- 프로토콜을 준수하는 것은 앱의 기능의 로직과 행동을 나타냄 
+- 액션이 시스템에 전달되었을 때 현재 상태를 다음 상태로 진화하는 방법과 바깥 세상과 시스템 내부로 데이터를 다시 피드백하는 소통 방식을 포함
 
 그리고 가장 중요하게는 **기능의 핵심 로직과 행동이 SwiftUI의 View와 완벽하게 분리되어 독립적으로 지어진다는 것이다.** 이는 독립적으로 개발하고 재사용과 테스트를 용이하게 한다. 
 
@@ -42,7 +44,6 @@ struct CounterFeature {
 - `State` 타입과 `Action` 타입을 생성
 - State: 기능이 작업을 하기 위해 필요한 상태를 지님, 구조체
 - Action: 사용자가 수행하는 액션을 선언, 열거형
-
 ```swift
 @Reducer
 struct CounterFeature {
@@ -57,4 +58,27 @@ struct CounterFeature {
 ```
 
 ## Step4. 
-- 
+- 간단한 카운터 기능을 목표로, 상태(State)는 간단한 정수로 구성
+- 액션(Action)은 카운트를 증감하는 버튼을 누르는 것으로 구성
+>[!tip]
+>액션의 케이스 네이밍은 UI에서 사용자가 정확히 무슨 행위를 하는지로 지어주는게 최선
+>`incrementButtonTapped` (O)
+>`incrementCount` (X)
+```swift
+@Reducer
+struct CounterFeature {
+	struct State {
+		var count = 0
+	}
+
+	enum Action {
+		case decrementButtonTapped
+		case incrementButtonTapped
+	}
+}
+```
+
+## Step5.
+- 마지막으로 리듀서의 body를 상태와 액션을 포함하는 `Reduce`를 선언
+- 이 리듀서는 사용자 액션이 주어졌을 때 State를 현재 값에서 다음 값으로 발전
+- 그 기능이 바깥 세상에서 실행하기 원하는 어떤 Effects를 반환
