@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5024719238281,
-    "collapsed": true
+    "width": 307.5024719238281
   },
   "right": {
     "id": "c81d8af55f079df0",
@@ -169,6 +168,8 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
+    "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
+    "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
     "Project/Resume/장영진 이력서.pdf",
     "Project/Resume/장영진_노션이력서.pdf",
     "Project/Resume/장영진 iOS 개발자.pdf",
@@ -176,7 +177,6 @@
     "Project/Resume/Resume Map.canvas",
     "Project/Resume/PortFolio Example.png",
     "Project/Resume/Resume.md",
-    "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
     "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
     "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
     "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
@@ -217,7 +217,6 @@
     "Project/Concurrency/Tasks & Queues.pdf",
     "Project/Concurrency/Task, DispatchQueue By Team.png",
     "Spaces/Dev",
-    "Project/Resume/Career",
     "Archive/SafariExtension/용어정리.canvas",
     "Project/SafariExtension/용어정리.canvas",
     "Resource/Book/SecondBrain.canvas",
