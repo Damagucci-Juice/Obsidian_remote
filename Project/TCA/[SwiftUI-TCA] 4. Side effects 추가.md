@@ -117,7 +117,148 @@ struct CounterView: View {
 - 화면 밑에 프로그레스 뷰를 넣을 예정 
 - 아직 `CounterFeature`에서 isLoading, fact를 넣지는 않았음
 
-# Step3. 
+# Step3. 기존 리듀서 
+```swift
+import ComposableArchitecture
+
+
+@Reducer
+struct CounterFeature {
+  struct State: Equatable {
+    var count = 0
+  }
+
+  enum Action {
+    case decrementButtonTapped
+    case incrementButtonTapped
+  }
+
+  var body: some ReducerOf<Self> {
+    Reduce { state, action in
+      switch action {
+      case .decrementButtonTapped:
+        state.count -= 1
+        return .none
+        
+      case .incrementButtonTapped:
+        state.count += 1
+        return .none
+      }
+    }
+  }
+}
+```
+- 보내진 액션에 대해 상태를 변경하는 간단한 리듀서
+
+# Step4. 
+```swift
+import ComposableArchitecture
+
+
+@Reducer
+struct CounterFeature {
+  struct State: Equatable {
+    var count = 0
+    var fact: String?
+    var isLoading = false
+  }
+
+
+  enum Action {
+    case decrementButtonTapped
+    case factButtonTapped
+    case incrementButtonTapped
+  }
+
+
+  var body: some ReducerOf<Self> {
+    Reduce { state, action in
+      switch action {
+      case .decrementButtonTapped:
+        state.count -= 1
+        state.fact = nil
+        return .none
+
+
+      case .factButtonTapped:
+        state.fact = nil
+        state.isLoading = true
+        return .none
+
+
+      case .incrementButtonTapped:
+        state.count += 1
+        state.fact = nil
+        return .none
+      }
+    }
+  }
+}
+```
+- 뷰에 적힌 대로 상태와 액션을 추가
+- fact, isLoading 상태가 필요
+- factButtonTapped 액션이 필요
+- 리듀서에 있는 액션을 수행해서  isLoading을 토글
+- `factButtonTapped`가 눌렸을 때 fact 상태를 초기화
+- 다른 케이스 처럼 `.none`을 반환
+
+# Step5. 
+```swift
+import ComposableArchitecture
+
+
+@Reducer
+struct CounterFeature {
+  struct State: Equatable {
+    var count = 0
+    var fact: String?
+    var isLoading = false
+  }
+
+
+  enum Action {
+    case decrementButtonTapped
+    case factButtonTapped
+    case incrementButtonTapped
+  }
+
+
+  var body: some ReducerOf<Self> {
+    Reduce { state, action in
+      switch action {
+      case .decrementButtonTapped:
+        state.count -= 1
+        state.fact = nil
+        return .none
+        
+      case .factButtonTapped:
+        state.fact = nil
+        state.isLoading = true
+        
+        let (data, _) = try await URLSession.shared
+          .data(from: URL(string: "http://numbersapi.com/\(state.count)")!)
+        // 🛑 'async' call in a function that does not support concurrency
+        // 🛑 Errors thrown from here are not handled
+        
+        state.fact = String(decoding: data, as: UTF8.self)
+        state.isLoading = false
+        
+        return .none
+        
+      case .incrementButtonTapped:
+        state.count += 1
+        state.fact = nil
+        return .none
+      }
+    }
+  }
+}
+```
+- [numbersapi.com](numbersapi.com) 에 요청해서 사이드 이펙트를 수행하기
+- 단순히 URLSession을 리듀서에서 사용하고 싶지만 그것은 불가함 
+- TCA는 단순하고 순수한 상태 전환과 복잡하고 지저분한 사이드 이펙트를 분리
+- 
+
 
 
 2023-12-15 작성중...
