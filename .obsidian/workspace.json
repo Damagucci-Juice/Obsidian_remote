@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/TCA/[swiftUI-심화] TCA 톺아보기.md",
+                "file": "Inbox/Api list.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/TCA/[swiftUI-심화] TCA 톺아보기.md",
+                "file": "Inbox/Api list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/TCA/[swiftUI-심화] TCA 톺아보기.md",
+                "file": "Inbox/Api list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TCA/[swiftUI-심화] TCA 톺아보기.md"
+                "file": "Inbox/Api list.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
+    "Project/TCA/[swiftUI-심화] TCA 톺아보기.md",
     "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
     "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
     "Project/Resume/장영진 이력서.pdf",
@@ -183,7 +184,6 @@
     "Area/Area.md",
     "Spaces/Home/CheckList/Daily/2023-12-14.md",
     "Project/TCA/TCA.md",
-    "Project/TCA/[swiftUI-심화] TCA 톺아보기.md",
     "Spaces/Home/CheckList/Daily/Daily.md",
     "Project/Project.md",
     "Obsidian Vault.md",
