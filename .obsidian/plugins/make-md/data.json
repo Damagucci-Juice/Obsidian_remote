@@ -57,10 +57,9 @@
     "Spaces/Home///Resource/Resource/자기개발",
     "Spaces/Home/Spaces/Home/CheckList/Spaces/Home/CheckList/Weekly",
     "Spaces/Home///Inbox",
-    "Spaces/Home///Project",
-    "Spaces/Home///Area",
     "Spaces/Home///Project/Project/TCA",
-    "Spaces/Home//"
+    "Spaces/Home//",
+    "Spaces/Home///Resource"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
