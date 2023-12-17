@@ -60,3 +60,5 @@ https://gist.github.com/pilgwon/ea05e2207ab68bdd1f49dff97b293b17
 https://medium.com/riiid-teamblog-kr/riiid%EC%9D%98-swift-composable-architecture-231a665e5f47
 
 https://medium.com/@Jager-yoo/swiftui-tca-store-vs-viewstore-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EA%B0%80-%EC%9E%88%EC%9D%84%EA%B9%8C-40fce12e02f6
+
+https://ridibooks.com/books/2773000087
