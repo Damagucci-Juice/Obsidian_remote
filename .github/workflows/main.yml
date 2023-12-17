@@ -31,12 +31,12 @@ jobs:
     
     - name: Exectue python
       run: |
-        python ./.github/src/update-readme.py
+        python ./.github/makeREADME.py
 
     - name: Set up Git user name and email
       run: |
-        git config --global user.name 'lys7aves'
-        git config --global user.email 'lys7aves@gmail.com'
+        git config --global user.name 'Damagucci-Juice'
+        git config --global user.email 'jsr9874@gmail.com'
         
     - name: Commit and push changes
       run: |
