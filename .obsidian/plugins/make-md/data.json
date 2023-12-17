@@ -59,7 +59,8 @@
     "Spaces/Home///Inbox",
     "Spaces/Home///Project",
     "Spaces/Home///Area",
-    "Spaces/Home///Project/Project/TCA"
+    "Spaces/Home///Project/Project/TCA",
+    "Spaces/Home//"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
