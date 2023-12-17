@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Api list.md",
+                "file": "Project/TCA/[swiftUI-TCA] TCA 톺아보기.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Api list.md",
+                "file": "Project/TCA/[swiftUI-TCA] TCA 톺아보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Api list.md",
+                "file": "Project/TCA/[swiftUI-TCA] TCA 톺아보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Api list.md"
+                "file": "Project/TCA/[swiftUI-TCA] TCA 톺아보기.md"
               }
             }
           },
@@ -168,7 +168,8 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
-    "Project/TCA/[swiftUI-심화] TCA 톺아보기.md",
+    "Inbox/Api list.md",
+    "Project/TCA/[swiftUI-TCA] TCA 톺아보기.md",
     "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
     "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
     "Project/Resume/장영진 이력서.pdf",
@@ -193,7 +194,6 @@
     "Spaces/Home/CheckList/Weekly/Weekly.md",
     "Spaces/Home/CheckList/CheckList.md",
     "Inbox/User Testing (Act1).md",
-    "Inbox/Api list.md",
     "Resource/SwiftUI Architecture/확장 가능하고 테스트 가능한 아키텍쳐.md",
     "Spaces/Home/CheckList/Monthly/Monthly.md",
     "Spaces/Home/CheckList/Monthly",
