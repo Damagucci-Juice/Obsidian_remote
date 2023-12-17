@@ -64,3 +64,5 @@ https://medium.com/@Jager-yoo/swiftui-tca-store-vs-viewstore-%EB%AC%B4%EC%8A%A8-
 https://ridibooks.com/books/2773000087
 
 https://axiomatic-fuschia-666.notion.site/Notion-PDF-QR-7509eb22e69049f48bc8d4e79161d635
+
+2023.12.17 작성중..
