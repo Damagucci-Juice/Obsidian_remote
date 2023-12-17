@@ -6,7 +6,7 @@ import re
 dir_path = "."
 
 # ignore 파일을 읽어서 패턴 목록을 리스트로 저장
-with open('./.github/config/.ignore', 'r') as f:
+with open('./.gitignore', 'r') as f:
     ignore = f.readlines()
 patterns = []
 for p in ignore:
