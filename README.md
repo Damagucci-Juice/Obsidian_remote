@@ -4,9 +4,9 @@ A collection of notes and solutions on various mathematical topics.
 ---
 
 ### 3 most recent study
-- [workspace.json]("./.obsidian/workspace.json") - Sun Dec 17 2023
-- [types.json]("./.obsidian/types.json") - Sun Dec 17 2023
-- [manifest.json]("./.obsidian/plugins/obsidian-git/manifest.json") - Sun Dec 17 2023
+- [workspace.json]("./.obsidian/workspace.json") - Mon Dec 18 2023
+- [types.json]("./.obsidian/types.json") - Mon Dec 18 2023
+- [manifest.json]("./.obsidian/plugins/obsidian-git/manifest.json") - Mon Dec 18 2023
 
 ### Categories
 - [.obsidian](#.obsidian)
@@ -28,685 +28,686 @@ A collection of notes and solutions on various mathematical topics.
 - [.github](#.github)
 
 ### [.obsidian](#.obsidian)
-- [workspace.json]("./.obsidian/workspace.json") - Sun Dec 17 2023
-- [types.json]("./.obsidian/types.json") - Sun Dec 17 2023
+- [workspace.json]("./.obsidian/workspace.json") - Mon Dec 18 2023
+- [types.json]("./.obsidian/types.json") - Mon Dec 18 2023
 - [plugins]("./.obsidian/plugins")
   - [obsidian-git]("./.obsidian/plugins/obsidian-git")
-    - [manifest.json]("./.obsidian/plugins/obsidian-git/manifest.json") - Sun Dec 17 2023
-    - [styles.css]("./.obsidian/plugins/obsidian-git/styles.css") - Sun Dec 17 2023
-    - [data.json]("./.obsidian/plugins/obsidian-git/data.json") - Sun Dec 17 2023
-    - [main.js]("./.obsidian/plugins/obsidian-git/main.js") - Sun Dec 17 2023
+    - [manifest.json]("./.obsidian/plugins/obsidian-git/manifest.json") - Mon Dec 18 2023
+    - [styles.css]("./.obsidian/plugins/obsidian-git/styles.css") - Mon Dec 18 2023
+    - [data.json]("./.obsidian/plugins/obsidian-git/data.json") - Mon Dec 18 2023
+    - [main.js]("./.obsidian/plugins/obsidian-git/main.js") - Mon Dec 18 2023
   - [obsius-publish]("./.obsidian/plugins/obsius-publish")
-    - [manifest.json]("./.obsidian/plugins/obsius-publish/manifest.json") - Sun Dec 17 2023
-    - [main.js]("./.obsidian/plugins/obsius-publish/main.js") - Sun Dec 17 2023
+    - [manifest.json]("./.obsidian/plugins/obsius-publish/manifest.json") - Mon Dec 18 2023
+    - [main.js]("./.obsidian/plugins/obsius-publish/main.js") - Mon Dec 18 2023
   - [highlightr-plugin]("./.obsidian/plugins/highlightr-plugin")
-    - [manifest.json]("./.obsidian/plugins/highlightr-plugin/manifest.json") - Sun Dec 17 2023
-    - [styles.css]("./.obsidian/plugins/highlightr-plugin/styles.css") - Sun Dec 17 2023
-    - [main.js]("./.obsidian/plugins/highlightr-plugin/main.js") - Sun Dec 17 2023
+    - [manifest.json]("./.obsidian/plugins/highlightr-plugin/manifest.json") - Mon Dec 18 2023
+    - [styles.css]("./.obsidian/plugins/highlightr-plugin/styles.css") - Mon Dec 18 2023
+    - [main.js]("./.obsidian/plugins/highlightr-plugin/main.js") - Mon Dec 18 2023
   - [obsidian-hover-editor]("./.obsidian/plugins/obsidian-hover-editor")
-    - [manifest.json]("./.obsidian/plugins/obsidian-hover-editor/manifest.json") - Sun Dec 17 2023
-    - [styles.css]("./.obsidian/plugins/obsidian-hover-editor/styles.css") - Sun Dec 17 2023
-    - [main.js]("./.obsidian/plugins/obsidian-hover-editor/main.js") - Sun Dec 17 2023
+    - [manifest.json]("./.obsidian/plugins/obsidian-hover-editor/manifest.json") - Mon Dec 18 2023
+    - [styles.css]("./.obsidian/plugins/obsidian-hover-editor/styles.css") - Mon Dec 18 2023
+    - [main.js]("./.obsidian/plugins/obsidian-hover-editor/main.js") - Mon Dec 18 2023
   - [obsidian-excalidraw-plugin]("./.obsidian/plugins/obsidian-excalidraw-plugin")
-    - [manifest.json]("./.obsidian/plugins/obsidian-excalidraw-plugin/manifest.json") - Sun Dec 17 2023
-    - [styles.css]("./.obsidian/plugins/obsidian-excalidraw-plugin/styles.css") - Sun Dec 17 2023
-    - [data.json]("./.obsidian/plugins/obsidian-excalidraw-plugin/data.json") - Sun Dec 17 2023
-    - [main.js]("./.obsidian/plugins/obsidian-excalidraw-plugin/main.js") - Sun Dec 17 2023
+    - [manifest.json]("./.obsidian/plugins/obsidian-excalidraw-plugin/manifest.json") - Mon Dec 18 2023
+    - [styles.css]("./.obsidian/plugins/obsidian-excalidraw-plugin/styles.css") - Mon Dec 18 2023
+    - [data.json]("./.obsidian/plugins/obsidian-excalidraw-plugin/data.json") - Mon Dec 18 2023
+    - [main.js]("./.obsidian/plugins/obsidian-excalidraw-plugin/main.js") - Mon Dec 18 2023
   - [calendar]("./.obsidian/plugins/calendar")
-    - [manifest.json]("./.obsidian/plugins/calendar/manifest.json") - Sun Dec 17 2023
-    - [data.json]("./.obsidian/plugins/calendar/data.json") - Sun Dec 17 2023
-    - [main.js]("./.obsidian/plugins/calendar/main.js") - Sun Dec 17 2023
-  - [templater-obsidian/manifest.json]("./.obsidian/plugins/templater-obsidian/manifest.json") - Sun Dec 17 2023
+    - [manifest.json]("./.obsidian/plugins/calendar/manifest.json") - Mon Dec 18 2023
+    - [data.json]("./.obsidian/plugins/calendar/data.json") - Mon Dec 18 2023
+    - [main.js]("./.obsidian/plugins/calendar/main.js") - Mon Dec 18 2023
+  - [templater-obsidian/manifest.json]("./.obsidian/plugins/templater-obsidian/manifest.json") - Mon Dec 18 2023
   - [make-md]("./.obsidian/plugins/make-md")
-    - [manifest.json]("./.obsidian/plugins/make-md/manifest.json") - Sun Dec 17 2023
-    - [styles.css]("./.obsidian/plugins/make-md/styles.css") - Sun Dec 17 2023
+    - [manifest.json]("./.obsidian/plugins/make-md/manifest.json") - Mon Dec 18 2023
+    - [styles.css]("./.obsidian/plugins/make-md/styles.css") - Mon Dec 18 2023
     - [backups]("./.obsidian/plugins/make-md/backups")
-      - [Spaces 2023-11-27 09-31.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-27_09-31.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-13 17-28.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_17-28.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 22-32.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-32.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-15 21-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-15_21-16.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 14-43.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_14-43.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 20-40.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-40.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-02 00-18.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_00-18.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-29 20-29.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_20-29.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-17 11-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-17_11-16.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 18-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_18-53.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 22-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-42.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-06 19-57.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_19-57.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-23 08-51.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-23_08-51.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-12-13 23-32.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-32.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-22.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-22.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 18-57.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_18-57.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 10-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_10-10.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-13 18-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_18-10.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-03 00-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-23.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-03 22-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-03_22-46.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-28 14-33.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_14-33.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-21 17-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_17-11.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-30 16-29.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-30_16-29.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-27 00-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_00-16.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 20-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-58.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-10 16-47.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-10_16-47.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-23 08-52.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-23_08-52.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-29 17-32.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-32.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-23 08-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-23_08-49.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-29 17-36.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-36.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-04 01-38.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_01-38.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-21 13-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_13-24.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 20-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-39.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-31 16-07.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_16-07.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-39.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-01 15-05.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-01_15-05.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-21 13-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_13-30.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-05 11-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_11-23.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-21 13-25.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_13-25.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-29 17-33.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-33.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-27 00-15.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_00-15.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-17 11-08.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-17_11-08.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-12-14 00-20.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-14_00-20.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 20-38.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-38.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-05 10-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_10-46.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-12 14-59.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-12_14-59.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 22-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-30.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-03 01-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_01-10.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-03 23-12.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-03_23-12.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-24.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-14.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-14.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-10 09-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-10_09-58.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-13.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-13.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-28 14-29.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_14-29.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-22 16-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-22_16-10.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-23.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-21 15-01.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-21_15-01.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-07 19-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-07_19-49.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-08 14-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_14-42.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-05.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-05.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 01-45.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_01-45.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-22 12-21.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-22_12-21.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-28 17-34.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_17-34.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-28 13-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-26.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-21 15-52.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-21_15-52.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-13 18-15.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_18-15.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 18-55.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_18-55.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-04 10-13.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_10-13.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-03 00-07.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-07.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-07 10-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-07_10-48.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 21-07.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_21-07.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-13 18-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_18-16.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-06 17-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_17-10.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-09 19-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-09_19-46.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-22 19-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-22_19-26.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-06 00-13.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-06_00-13.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-13 18-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_18-11.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-21 08-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-21_08-46.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-28 13-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-58.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-09 17-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-09_17-10.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-29 19-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_19-53.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 10-54.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_10-54.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 22-44.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-44.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-24.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 10-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_10-48.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 22-29.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-29.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-12-13 23-41.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-41.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-10 09-20.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-10_09-20.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-37.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-29 19-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_19-49.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 11-18.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_11-18.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-06.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-06.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-23.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-03 23-14.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-03_23-14.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 20-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-46.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-03 23-15.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-03_23-15.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-06 01-04.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-06_01-04.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-01 11-55.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-01_11-55.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-06 17-22.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_17-22.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-11.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-05 10-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_10-53.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-12-03 11-31.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-03_11-31.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 21-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_21-11.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-13 18-06.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_18-06.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-08 15-20.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_15-20.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-20 11-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-20_11-48.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-01 12-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-01_12-11.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 22-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-37.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-05 10-41.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_10-41.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-04 01-44.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_01-44.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-30 23-52.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-30_23-52.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-28 13-19.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-19.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-12-13 23-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-30.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-29 20-44.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_20-44.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-06 16-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_16-42.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-33.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-33.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-34.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-34.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-28 14-07.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_14-07.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 22-51.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_22-51.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-23 10-19.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-23_10-19.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-12-13 23-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-37.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-21 14-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-21_14-53.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 00-18.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_00-18.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-29 17-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-42.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 22-36.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-36.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-31 15-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_15-24.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-28.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-28.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-08 23-17.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-08_23-17.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-08 15-19.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_15-19.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 14-44.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_14-44.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-40.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-40.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-03 08-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_08-39.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-25 12-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-25_12-49.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-05 09-27.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_09-27.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-06 12-21.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_12-21.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-18 23-28.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-18_23-28.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-31 09-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_09-58.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-27.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-27.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-13 18-20.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_18-20.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-30 23-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-30_23-53.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-15 19-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-15_19-58.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-08 15-21.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_15-21.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-04 12-05.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_12-05.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-18 20-13.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-18_20-13.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-03 00-06.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-06.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-31 15-22.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_15-22.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-48.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-20.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-20.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-19 22-44.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-19_22-44.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-03 00-02.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-02.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-27 11-36.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_11-36.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 09-43.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_09-43.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-36.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-36.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-07 10-50.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-07_10-50.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 00-19.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_00-19.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 09-41.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_09-41.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 20-59.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-59.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-03 22-45.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-03_22-45.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-02 00-17.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_00-17.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 15-03.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_15-03.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-29 17-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-30.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-20 10-40.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-20_10-40.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 11-35.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_11-35.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-30 11-45.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-30_11-45.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-06 19-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_19-58.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-22 17-21.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-22_17-21.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-25 12-34.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-25_12-34.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-15 22-57.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-15_22-57.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-04 11-13.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_11-13.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-16.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-21 10-08.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_10-08.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-11.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-09 20-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-09_20-11.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-12 20-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-12_20-58.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-26.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-17 11-17.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-17_11-17.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-03 00-04.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-04.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-17 15-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-17_15-53.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-27.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-27.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 22-33.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-33.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-18.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-18.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 20-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-37.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-28 14-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_14-24.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-03 00-05.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-05.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-15 19-57.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-15_19-57.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-16 22-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-16_22-23.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-06 19-00.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_19-00.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-12-13 23-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-53.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-22 16-19.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-22_16-19.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-03 00-08.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-08.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-10 12-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-10_12-24.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-13 17-29.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_17-29.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 18-54.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_18-54.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 22-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-46.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-03 23-17.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-03_23-17.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-08 23-33.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-08_23-33.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-17 09-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-17_09-49.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-03 23-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-03_23-16.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-01 14-59.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-01_14-59.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-12 00-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-12_00-46.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-02 08-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_08-58.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-07 20-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-07_20-16.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-15 13-05.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-15_13-05.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-10 09-59.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-10_09-59.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-03 00-09.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-09.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-29.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-29.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-05 10-51.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_10-51.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-30 23-44.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-30_23-44.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-29 17-40.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-40.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 10-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_10-49.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-07 19-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-07_19-48.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 20-45.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-45.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-25 14-25.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-25_14-25.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-12-10 10-43.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-10_10-43.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-29 17-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-37.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-29 17-31.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-31.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-24 01-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-24_01-16.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-18 23-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-18_23-26.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-25.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-25.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-15 14-36.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-15_14-36.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-12 00-19.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-12_00-19.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-12-14 00-01.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-14_00-01.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-22 19-59.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-22_19-59.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-06 18-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_18-42.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-12-10 20-12.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-10_20-12.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-17 11-18.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-17_11-18.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-27 00-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_00-26.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-05 10-38.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_10-38.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 09-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_09-42.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-02 08-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_08-53.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-02 08-52.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_08-52.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-10 09-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-10_09-53.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-04 01-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_01-39.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-21 10-12.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_10-12.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-27 11-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_11-39.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-05 00-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_00-53.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-23 19-02.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-23_19-02.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-12 15-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-12_15-30.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-07 10-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-07_10-49.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-16 03-08.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-16_03-08.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-30.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 22-38.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-38.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-30 20-02.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-30_20-02.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 20-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-42.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-13 09-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-13_09-24.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-28 13-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-24.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-28 13-55.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-55.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-22 16-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-22_16-11.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-03 00-03.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-03.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-27 10-02.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_10-02.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 10-44.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_10-44.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-27 11-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_11-37.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-12-13 23-38.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-38.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-02 11-54.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_11-54.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-15 21-15.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-15_21-15.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-31.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-31.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 02-12.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_02-12.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-12-13 23-29.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-29.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-47.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-47.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-08 23-19.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-08_23-19.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-06 16-59.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_16-59.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-17 11-14.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-17_11-14.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-23 08-54.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-23_08-54.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-05 16-34.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_16-34.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 10-59.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_10-59.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-21 13-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_13-23.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-28 13-33.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-33.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 22-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-39.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-30 23-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-30_23-30.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-31 15-17.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_15-17.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-27 10-52.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-27_10-52.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-28 13-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-10.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-10 09-31.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-10_09-31.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-12 00-43.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-12_00-43.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-31 16-56.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_16-56.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-18 23-27.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-18_23-27.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-21.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-21.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-12 00-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-12_00-42.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-25 12-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-25_12-37.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-10 09-52.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-10_09-52.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 20-56.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-56.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-05 18-18.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_18-18.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-31 00-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_00-30.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-23 18-55.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-23_18-55.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-05 18-04.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_18-04.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 22-41.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-41.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 20-57.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-57.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 10-45.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_10-45.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-21 10-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_10-11.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-09 14-17.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-09_14-17.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-08 15-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_15-16.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-21 13-31.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_13-31.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-08 23-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-08_23-24.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-04 09-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_09-58.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-27 23-45.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-27_23-45.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-08 13-55.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_13-55.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-12.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-12.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-09 09-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-09_09-26.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-06 17-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_17-23.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-31 00-15.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_00-15.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-31 15-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_15-23.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-04 10-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_10-46.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-06 18-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_18-39.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-16 22-22.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-16_22-22.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-12 14-05.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-12_14-05.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-16 11-25.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-16_11-25.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-04 01-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_01-37.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-13 17-31.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_17-31.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-35.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-35.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-08 14-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_14-16.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-27 23-47.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-27_23-47.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-32.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-32.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 22-36.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_22-36.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-12-13 23-40.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-40.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-26.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-14.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-14.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 20-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-49.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-20 18-08.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-20_18-08.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-17 09-50.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-17_09-50.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-38.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-38.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-04 01-40.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_01-40.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-15 13-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-15_13-48.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-09 16-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-09_16-26.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 22-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-48.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-18 16-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-18_16-23.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 20-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-53.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-28 14-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_14-10.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-08 14-43.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_14-43.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 22-40.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-40.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-26 22-47.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-47.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-28 13-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-48.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-18 16-22.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-18_16-22.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-19 01-17.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-17.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-05 11-35.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_11-35.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-04 11-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_11-11.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-29 19-50.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_19-50.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-07 19-47.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-07_19-47.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-08 23-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-08_23-23.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-08 23-20.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-08_23-20.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-16 18-56.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_18-56.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-25 12-50.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-25_12-50.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-13 17-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_17-30.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-04 10-47.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_10-47.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-23 09-13.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-13.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-08 15-04.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_15-04.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-17 11-15.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-17_11-15.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-06 18-43.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_18-43.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-02 08-55.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_08-55.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-10 09-33.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-10_09-33.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-27 10-09.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_10-09.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-30 20-41.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-41.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-18 16-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-18_16-24.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-05 11-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_11-39.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-09-27 00-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_00-23.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-02 08-54.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_08-54.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-25 12-38.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-25_12-38.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-06 17-02.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_17-02.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-08 13-54.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_13-54.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-01 17-50.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-01_17-50.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-10-18 16-21.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-18_16-21.mdb") - Sun Dec 17 2023
-      - [Spaces 2023-11-28 14-21.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_14-21.mdb") - Sun Dec 17 2023
-    - [data.json]("./.obsidian/plugins/make-md/data.json") - Sun Dec 17 2023
-    - [main.js]("./.obsidian/plugins/make-md/main.js") - Sun Dec 17 2023
-    - [Spaces.mdb]("./.obsidian/plugins/make-md/Spaces.mdb") - Sun Dec 17 2023
+      - [Spaces 2023-11-27 09-31.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-27_09-31.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-13 17-28.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_17-28.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 22-32.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-32.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-15 21-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-15_21-16.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 14-43.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_14-43.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 20-40.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-40.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-02 00-18.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_00-18.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-29 20-29.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_20-29.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-17 11-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-17_11-16.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 18-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_18-53.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 22-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-42.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-06 19-57.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_19-57.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-23 08-51.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-23_08-51.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-12-13 23-32.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-32.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-22.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-22.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 18-57.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_18-57.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 10-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_10-10.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-13 18-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_18-10.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-03 00-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-23.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-03 22-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-03_22-46.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-28 14-33.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_14-33.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-21 17-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_17-11.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-30 16-29.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-30_16-29.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-27 00-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_00-16.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 20-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-58.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-10 16-47.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-10_16-47.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-23 08-52.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-23_08-52.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-29 17-32.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-32.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-23 08-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-23_08-49.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-29 17-36.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-36.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-04 01-38.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_01-38.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-21 13-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_13-24.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 20-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-39.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-31 16-07.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_16-07.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-39.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-01 15-05.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-01_15-05.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-21 13-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_13-30.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-05 11-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_11-23.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-21 13-25.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_13-25.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-29 17-33.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-33.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-27 00-15.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_00-15.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-17 11-08.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-17_11-08.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-12-14 00-20.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-14_00-20.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 20-38.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-38.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-05 10-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_10-46.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-12 14-59.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-12_14-59.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 22-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-30.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-03 01-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_01-10.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-03 23-12.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-03_23-12.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-24.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-14.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-14.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-10 09-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-10_09-58.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-13.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-13.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-28 14-29.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_14-29.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-22 16-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-22_16-10.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-23.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-21 15-01.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-21_15-01.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-07 19-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-07_19-49.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-08 14-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_14-42.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-05.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-05.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 01-45.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_01-45.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-22 12-21.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-22_12-21.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-28 17-34.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_17-34.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-28 13-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-26.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-21 15-52.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-21_15-52.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-13 18-15.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_18-15.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 18-55.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_18-55.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-04 10-13.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_10-13.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-03 00-07.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-07.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-07 10-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-07_10-48.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 21-07.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_21-07.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-13 18-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_18-16.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-06 17-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_17-10.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-09 19-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-09_19-46.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-22 19-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-22_19-26.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-06 00-13.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-06_00-13.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-13 18-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_18-11.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-21 08-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-21_08-46.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-28 13-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-58.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-09 17-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-09_17-10.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-29 19-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_19-53.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 10-54.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_10-54.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 22-44.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-44.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-24.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 10-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_10-48.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 22-29.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-29.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-12-13 23-41.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-41.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-10 09-20.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-10_09-20.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-37.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-29 19-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_19-49.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 11-18.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_11-18.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-06.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-06.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-23.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-03 23-14.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-03_23-14.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 20-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-46.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-03 23-15.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-03_23-15.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-06 01-04.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-06_01-04.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-01 11-55.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-01_11-55.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-06 17-22.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_17-22.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-11.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-05 10-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_10-53.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-12-03 11-31.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-03_11-31.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 21-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_21-11.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-13 18-06.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_18-06.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-08 15-20.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_15-20.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-20 11-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-20_11-48.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-01 12-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-01_12-11.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 22-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-37.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-05 10-41.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_10-41.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-04 01-44.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_01-44.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-30 23-52.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-30_23-52.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-28 13-19.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-19.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-12-13 23-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-30.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-29 20-44.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_20-44.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-06 16-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_16-42.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-33.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-33.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-34.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-34.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-28 14-07.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_14-07.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 22-51.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_22-51.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-23 10-19.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-23_10-19.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-12-13 23-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-37.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-21 14-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-21_14-53.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 00-18.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_00-18.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-29 17-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-42.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 22-36.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-36.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-31 15-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_15-24.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-28.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-28.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-08 23-17.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-08_23-17.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-08 15-19.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_15-19.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 14-44.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_14-44.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-40.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-40.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-03 08-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_08-39.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-25 12-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-25_12-49.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-05 09-27.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_09-27.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-06 12-21.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_12-21.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-18 23-28.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-18_23-28.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-31 09-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_09-58.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-27.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-27.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-13 18-20.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_18-20.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-30 23-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-30_23-53.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-15 19-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-15_19-58.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-08 15-21.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_15-21.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-04 12-05.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_12-05.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-18 20-13.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-18_20-13.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-03 00-06.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-06.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-31 15-22.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_15-22.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-48.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-20.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-20.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-19 22-44.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-19_22-44.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-03 00-02.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-02.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-27 11-36.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_11-36.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 09-43.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_09-43.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-36.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-36.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-07 10-50.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-07_10-50.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 00-19.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_00-19.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 09-41.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_09-41.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 20-59.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-59.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-03 22-45.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-03_22-45.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-02 00-17.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_00-17.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 15-03.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_15-03.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-29 17-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-30.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-20 10-40.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-20_10-40.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 11-35.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_11-35.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-30 11-45.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-30_11-45.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-06 19-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_19-58.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-22 17-21.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-22_17-21.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-25 12-34.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-25_12-34.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-15 22-57.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-15_22-57.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-04 11-13.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_11-13.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-16.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-21 10-08.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_10-08.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-11.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-09 20-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-09_20-11.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-12 20-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-12_20-58.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-26.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-17 11-17.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-17_11-17.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-03 00-04.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-04.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-17 15-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-17_15-53.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-27.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-27.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 22-33.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-33.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-18.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-18.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 20-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-37.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-28 14-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_14-24.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-03 00-05.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-05.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-15 19-57.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-15_19-57.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-16 22-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-16_22-23.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-06 19-00.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_19-00.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-12-13 23-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-53.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-22 16-19.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-22_16-19.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-03 00-08.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-08.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-10 12-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-10_12-24.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-13 17-29.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_17-29.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 18-54.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_18-54.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 22-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-46.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-03 23-17.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-03_23-17.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-08 23-33.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-08_23-33.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-17 09-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-17_09-49.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-03 23-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-03_23-16.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-01 14-59.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-01_14-59.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-12 00-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-12_00-46.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-02 08-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_08-58.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-07 20-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-07_20-16.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-15 13-05.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-15_13-05.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-10 09-59.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-10_09-59.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-03 00-09.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-09.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-29.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-29.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-05 10-51.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_10-51.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-30 23-44.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-30_23-44.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-29 17-40.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-40.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 10-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_10-49.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-07 19-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-07_19-48.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 20-45.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-45.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-25 14-25.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-25_14-25.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-12-10 10-43.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-10_10-43.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-29 17-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-37.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-29 17-31.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_17-31.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-24 01-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-24_01-16.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-18 23-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-18_23-26.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-25.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-25.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-15 14-36.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-15_14-36.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-12 00-19.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-12_00-19.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-12-14 00-01.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-14_00-01.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-22 19-59.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-22_19-59.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-06 18-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_18-42.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-12-10 20-12.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-10_20-12.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-17 11-18.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-17_11-18.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-27 00-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_00-26.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-05 10-38.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_10-38.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 09-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_09-42.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-02 08-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_08-53.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-02 08-52.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_08-52.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-10 09-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-10_09-53.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-04 01-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_01-39.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-21 10-12.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_10-12.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-27 11-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_11-39.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-05 00-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_00-53.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-23 19-02.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-23_19-02.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-12 15-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-12_15-30.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-07 10-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-07_10-49.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-16 03-08.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-16_03-08.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-30.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 22-38.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-38.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-30 20-02.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-30_20-02.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 20-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-42.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-13 09-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-13_09-24.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-28 13-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-24.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-28 13-55.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-55.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-22 16-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-22_16-11.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-03 00-03.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-03_00-03.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-27 10-02.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_10-02.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 10-44.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_10-44.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-27 11-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_11-37.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-12-13 23-38.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-38.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-02 11-54.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_11-54.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-15 21-15.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-15_21-15.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-31.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-31.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 02-12.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_02-12.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-12-13 23-29.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-29.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-47.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-47.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-08 23-19.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-08_23-19.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-06 16-59.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_16-59.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-17 11-14.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-17_11-14.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-23 08-54.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-23_08-54.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-05 16-34.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_16-34.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 10-59.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_10-59.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-21 13-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_13-23.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-28 13-33.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-33.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 22-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-39.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-30 23-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-30_23-30.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-31 15-17.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_15-17.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-27 10-52.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-27_10-52.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-28 13-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-10.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-10 09-31.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-10_09-31.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-12 00-43.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-12_00-43.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-31 16-56.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_16-56.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-18 23-27.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-18_23-27.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-21.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-21.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-12 00-42.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-12_00-42.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-25 12-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-25_12-37.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-10 09-52.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-10_09-52.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 20-56.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-56.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-05 18-18.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_18-18.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-31 00-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_00-30.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-23 18-55.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-23_18-55.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-05 18-04.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_18-04.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 22-41.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-41.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 20-57.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-57.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 10-45.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_10-45.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-21 10-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_10-11.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-09 14-17.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-09_14-17.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-08 15-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_15-16.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-21 13-31.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-21_13-31.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-08 23-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-08_23-24.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-04 09-58.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_09-58.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-27 23-45.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-27_23-45.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-08 13-55.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_13-55.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-12.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-12.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-09 09-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-09_09-26.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-06 17-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_17-23.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-31 00-15.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_00-15.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-31 15-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-31_15-23.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-04 10-46.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_10-46.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-06 18-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_18-39.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-16 22-22.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-16_22-22.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-12 14-05.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-12_14-05.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-16 11-25.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-16_11-25.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-04 01-37.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_01-37.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-13 17-31.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_17-31.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-35.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-35.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-08 14-16.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_14-16.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-27 23-47.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-27_23-47.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-32.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-32.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 22-36.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_22-36.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-12-13 23-40.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-12-13_23-40.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-26.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-14.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-14.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 20-49.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-49.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-20 18-08.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-20_18-08.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-17 09-50.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-17_09-50.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-38.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-38.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-04 01-40.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_01-40.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-15 13-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-15_13-48.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-09 16-26.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-09_16-26.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 22-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-48.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-18 16-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-18_16-23.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 20-53.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-53.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-28 14-10.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_14-10.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-08 14-43.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_14-43.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 22-40.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-40.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-26 22-47.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-26_22-47.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-28 13-48.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_13-48.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-18 16-22.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-18_16-22.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-19 01-17.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-19_01-17.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-05 11-35.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_11-35.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-04 11-11.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_11-11.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-29 19-50.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-29_19-50.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-07 19-47.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-07_19-47.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-08 23-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-08_23-23.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-08 23-20.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-08_23-20.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-16 18-56.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-16_18-56.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-25 12-50.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-25_12-50.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-13 17-30.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-13_17-30.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-04 10-47.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-04_10-47.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-23 09-13.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-23_09-13.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-08 15-04.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_15-04.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-17 11-15.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-17_11-15.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-06 18-43.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_18-43.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-02 08-55.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_08-55.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-10 09-33.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-10_09-33.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-27 10-09.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_10-09.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-30 20-41.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-30_20-41.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-18 16-24.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-18_16-24.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-05 11-39.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-05_11-39.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-09-27 00-23.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-09-27_00-23.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-02 08-54.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-02_08-54.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-25 12-38.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-25_12-38.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-06 17-02.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-06_17-02.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-08 13-54.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-08_13-54.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-01 17-50.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-01_17-50.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-10-18 16-21.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-10-18_16-21.mdb") - Mon Dec 18 2023
+      - [Spaces 2023-11-28 14-21.mdb]("./.obsidian/plugins/make-md/backups/Spaces_2023-11-28_14-21.mdb") - Mon Dec 18 2023
+    - [data.json]("./.obsidian/plugins/make-md/data.json") - Mon Dec 18 2023
+    - [main.js]("./.obsidian/plugins/make-md/main.js") - Mon Dec 18 2023
+    - [Spaces.mdb]("./.obsidian/plugins/make-md/Spaces.mdb") - Mon Dec 18 2023
   - [dataview]("./.obsidian/plugins/dataview")
-    - [manifest.json]("./.obsidian/plugins/dataview/manifest.json") - Sun Dec 17 2023
-    - [styles.css]("./.obsidian/plugins/dataview/styles.css") - Sun Dec 17 2023
-    - [main.js]("./.obsidian/plugins/dataview/main.js") - Sun Dec 17 2023
+    - [manifest.json]("./.obsidian/plugins/dataview/manifest.json") - Mon Dec 18 2023
+    - [styles.css]("./.obsidian/plugins/dataview/styles.css") - Mon Dec 18 2023
+    - [main.js]("./.obsidian/plugins/dataview/main.js") - Mon Dec 18 2023
   - [obsidian-kanban]("./.obsidian/plugins/obsidian-kanban")
-    - [manifest.json]("./.obsidian/plugins/obsidian-kanban/manifest.json") - Sun Dec 17 2023
-    - [styles.css]("./.obsidian/plugins/obsidian-kanban/styles.css") - Sun Dec 17 2023
-    - [main.js]("./.obsidian/plugins/obsidian-kanban/main.js") - Sun Dec 17 2023
+    - [manifest.json]("./.obsidian/plugins/obsidian-kanban/manifest.json") - Mon Dec 18 2023
+    - [styles.css]("./.obsidian/plugins/obsidian-kanban/styles.css") - Mon Dec 18 2023
+    - [main.js]("./.obsidian/plugins/obsidian-kanban/main.js") - Mon Dec 18 2023
   - [cm-editor-syntax-highlight-obsidian]("./.obsidian/plugins/cm-editor-syntax-highlight-obsidian")
-    - [manifest.json]("./.obsidian/plugins/cm-editor-syntax-highlight-obsidian/manifest.json") - Sun Dec 17 2023
-    - [styles.css]("./.obsidian/plugins/cm-editor-syntax-highlight-obsidian/styles.css") - Sun Dec 17 2023
-    - [main.js]("./.obsidian/plugins/cm-editor-syntax-highlight-obsidian/main.js") - Sun Dec 17 2023
+    - [manifest.json]("./.obsidian/plugins/cm-editor-syntax-highlight-obsidian/manifest.json") - Mon Dec 18 2023
+    - [styles.css]("./.obsidian/plugins/cm-editor-syntax-highlight-obsidian/styles.css") - Mon Dec 18 2023
+    - [main.js]("./.obsidian/plugins/cm-editor-syntax-highlight-obsidian/main.js") - Mon Dec 18 2023
   - [table-editor-obsidian]("./.obsidian/plugins/table-editor-obsidian")
-    - [manifest.json]("./.obsidian/plugins/table-editor-obsidian/manifest.json") - Sun Dec 17 2023
-    - [styles.css]("./.obsidian/plugins/table-editor-obsidian/styles.css") - Sun Dec 17 2023
-    - [data.json]("./.obsidian/plugins/table-editor-obsidian/data.json") - Sun Dec 17 2023
-    - [main.js]("./.obsidian/plugins/table-editor-obsidian/main.js") - Sun Dec 17 2023
+    - [manifest.json]("./.obsidian/plugins/table-editor-obsidian/manifest.json") - Mon Dec 18 2023
+    - [styles.css]("./.obsidian/plugins/table-editor-obsidian/styles.css") - Mon Dec 18 2023
+    - [data.json]("./.obsidian/plugins/table-editor-obsidian/data.json") - Mon Dec 18 2023
+    - [main.js]("./.obsidian/plugins/table-editor-obsidian/main.js") - Mon Dec 18 2023
   - [obsidian-tasks-plugin]("./.obsidian/plugins/obsidian-tasks-plugin")
-    - [manifest.json]("./.obsidian/plugins/obsidian-tasks-plugin/manifest.json") - Sun Dec 17 2023
-    - [styles.css]("./.obsidian/plugins/obsidian-tasks-plugin/styles.css") - Sun Dec 17 2023
-    - [main.js]("./.obsidian/plugins/obsidian-tasks-plugin/main.js") - Sun Dec 17 2023
-- [community-plugins.json]("./.obsidian/community-plugins.json") - Sun Dec 17 2023
-- [hotkeys.json]("./.obsidian/hotkeys.json") - Sun Dec 17 2023
-- [graph.json]("./.obsidian/graph.json") - Sun Dec 17 2023
-- [core-plugins-migration.json]("./.obsidian/core-plugins-migration.json") - Sun Dec 17 2023
-- [core-plugins.json]("./.obsidian/core-plugins.json") - Sun Dec 17 2023
-- [app.json]("./.obsidian/app.json") - Sun Dec 17 2023
-- [appearance.json]("./.obsidian/appearance.json") - Sun Dec 17 2023
-- [daily-notes.json]("./.obsidian/daily-notes.json") - Sun Dec 17 2023
+    - [manifest.json]("./.obsidian/plugins/obsidian-tasks-plugin/manifest.json") - Mon Dec 18 2023
+    - [styles.css]("./.obsidian/plugins/obsidian-tasks-plugin/styles.css") - Mon Dec 18 2023
+    - [main.js]("./.obsidian/plugins/obsidian-tasks-plugin/main.js") - Mon Dec 18 2023
+- [community-plugins.json]("./.obsidian/community-plugins.json") - Mon Dec 18 2023
+- [hotkeys.json]("./.obsidian/hotkeys.json") - Mon Dec 18 2023
+- [graph.json]("./.obsidian/graph.json") - Mon Dec 18 2023
+- [core-plugins-migration.json]("./.obsidian/core-plugins-migration.json") - Mon Dec 18 2023
+- [core-plugins.json]("./.obsidian/core-plugins.json") - Mon Dec 18 2023
+- [app.json]("./.obsidian/app.json") - Mon Dec 18 2023
+- [appearance.json]("./.obsidian/appearance.json") - Mon Dec 18 2023
+- [daily-notes.json]("./.obsidian/daily-notes.json") - Mon Dec 18 2023
 
 ### [.git](#.git)
-- [shallow]("./.git/shallow") - Sun Dec 17 2023
+- [shallow]("./.git/shallow") - Mon Dec 18 2023
 - [logs]("./.git/logs")
   - [refs]("./.git/logs/refs")
-    - [heads/main]("./.git/logs/refs/heads/main") - Sun Dec 17 2023
-    - [remotes/origin/main]("./.git/logs/refs/remotes/origin/main") - Sun Dec 17 2023
-  - [HEAD]("./.git/logs/HEAD") - Sun Dec 17 2023
+    - [heads/main]("./.git/logs/refs/heads/main") - Mon Dec 18 2023
+    - [remotes/origin/main]("./.git/logs/refs/remotes/origin/main") - Mon Dec 18 2023
+  - [HEAD]("./.git/logs/HEAD") - Mon Dec 18 2023
 - [hooks]("./.git/hooks")
-  - [pre-commit.sample]("./.git/hooks/pre-commit.sample") - Sun Dec 17 2023
-  - [post-update.sample]("./.git/hooks/post-update.sample") - Sun Dec 17 2023
-  - [pre-push.sample]("./.git/hooks/pre-push.sample") - Sun Dec 17 2023
-  - [update.sample]("./.git/hooks/update.sample") - Sun Dec 17 2023
-  - [pre-merge-commit.sample]("./.git/hooks/pre-merge-commit.sample") - Sun Dec 17 2023
-  - [pre-rebase.sample]("./.git/hooks/pre-rebase.sample") - Sun Dec 17 2023
-  - [applypatch-msg.sample]("./.git/hooks/applypatch-msg.sample") - Sun Dec 17 2023
-  - [prepare-commit-msg.sample]("./.git/hooks/prepare-commit-msg.sample") - Sun Dec 17 2023
-  - [sendemail-validate.sample]("./.git/hooks/sendemail-validate.sample") - Sun Dec 17 2023
-  - [push-to-checkout.sample]("./.git/hooks/push-to-checkout.sample") - Sun Dec 17 2023
-  - [fsmonitor-watchman.sample]("./.git/hooks/fsmonitor-watchman.sample") - Sun Dec 17 2023
-  - [commit-msg.sample]("./.git/hooks/commit-msg.sample") - Sun Dec 17 2023
-  - [pre-receive.sample]("./.git/hooks/pre-receive.sample") - Sun Dec 17 2023
-  - [pre-applypatch.sample]("./.git/hooks/pre-applypatch.sample") - Sun Dec 17 2023
-- [config]("./.git/config") - Sun Dec 17 2023
-- [index]("./.git/index") - Sun Dec 17 2023
+  - [pre-commit.sample]("./.git/hooks/pre-commit.sample") - Mon Dec 18 2023
+  - [post-update.sample]("./.git/hooks/post-update.sample") - Mon Dec 18 2023
+  - [pre-push.sample]("./.git/hooks/pre-push.sample") - Mon Dec 18 2023
+  - [update.sample]("./.git/hooks/update.sample") - Mon Dec 18 2023
+  - [pre-merge-commit.sample]("./.git/hooks/pre-merge-commit.sample") - Mon Dec 18 2023
+  - [pre-rebase.sample]("./.git/hooks/pre-rebase.sample") - Mon Dec 18 2023
+  - [applypatch-msg.sample]("./.git/hooks/applypatch-msg.sample") - Mon Dec 18 2023
+  - [prepare-commit-msg.sample]("./.git/hooks/prepare-commit-msg.sample") - Mon Dec 18 2023
+  - [sendemail-validate.sample]("./.git/hooks/sendemail-validate.sample") - Mon Dec 18 2023
+  - [push-to-checkout.sample]("./.git/hooks/push-to-checkout.sample") - Mon Dec 18 2023
+  - [fsmonitor-watchman.sample]("./.git/hooks/fsmonitor-watchman.sample") - Mon Dec 18 2023
+  - [commit-msg.sample]("./.git/hooks/commit-msg.sample") - Mon Dec 18 2023
+  - [pre-receive.sample]("./.git/hooks/pre-receive.sample") - Mon Dec 18 2023
+  - [pre-applypatch.sample]("./.git/hooks/pre-applypatch.sample") - Mon Dec 18 2023
+- [config]("./.git/config") - Mon Dec 18 2023
+- [index]("./.git/index") - Mon Dec 18 2023
 - [refs]("./.git/refs")
-  - [heads/main]("./.git/refs/heads/main") - Sun Dec 17 2023
-  - [remotes/origin/main]("./.git/refs/remotes/origin/main") - Sun Dec 17 2023
-- [FETCH_HEAD]("./.git/FETCH_HEAD") - Sun Dec 17 2023
-- [info/exclude]("./.git/info/exclude") - Sun Dec 17 2023
-- [description]("./.git/description") - Sun Dec 17 2023
+  - [heads/main]("./.git/refs/heads/main") - Mon Dec 18 2023
+  - [remotes/origin/main]("./.git/refs/remotes/origin/main") - Mon Dec 18 2023
+- [FETCH_HEAD]("./.git/FETCH_HEAD") - Mon Dec 18 2023
+- [info/exclude]("./.git/info/exclude") - Mon Dec 18 2023
+- [description]("./.git/description") - Mon Dec 18 2023
 - [objects/pack]("./.git/objects/pack")
-  - [pack-9e8bb693c5229ecb565be70fa7dd5e5e695ad863.rev]("./.git/objects/pack/pack-9e8bb693c5229ecb565be70fa7dd5e5e695ad863.rev") - Sun Dec 17 2023
-  - [pack-9e8bb693c5229ecb565be70fa7dd5e5e695ad863.idx]("./.git/objects/pack/pack-9e8bb693c5229ecb565be70fa7dd5e5e695ad863.idx") - Sun Dec 17 2023
-  - [pack-9e8bb693c5229ecb565be70fa7dd5e5e695ad863.pack]("./.git/objects/pack/pack-9e8bb693c5229ecb565be70fa7dd5e5e695ad863.pack") - Sun Dec 17 2023
-- [HEAD]("./.git/HEAD") - Sun Dec 17 2023
+  - [pack-0d9876dbcadce2a560c765f81987ba26e63944ad.rev]("./.git/objects/pack/pack-0d9876dbcadce2a560c765f81987ba26e63944ad.rev") - Mon Dec 18 2023
+  - [pack-0d9876dbcadce2a560c765f81987ba26e63944ad.idx]("./.git/objects/pack/pack-0d9876dbcadce2a560c765f81987ba26e63944ad.idx") - Mon Dec 18 2023
+  - [pack-0d9876dbcadce2a560c765f81987ba26e63944ad.pack]("./.git/objects/pack/pack-0d9876dbcadce2a560c765f81987ba26e63944ad.pack") - Mon Dec 18 2023
+- [HEAD]("./.git/HEAD") - Mon Dec 18 2023
 
 ### [Obsidian Vault.md](#Obsidian Vault.md)
 
 ### [Resource](#Resource)
 - [Xcode]("./Resource/Xcode")
-  - [여러 앱 타겟 단일 info.plist.md]("./Resource/Xcode/여러_앱_타겟_단일_info.plist.md") - Sun Dec 17 2023
-  - [CoreLocation, 위치.md]("./Resource/Xcode/CoreLocation,_위치.md") - Sun Dec 17 2023
+  - [여러 앱 타겟 단일 info.plist.md]("./Resource/Xcode/여러_앱_타겟_단일_info.plist.md") - Mon Dec 18 2023
+  - [CoreLocation, 위치.md]("./Resource/Xcode/CoreLocation,_위치.md") - Mon Dec 18 2023
 - [SwiftUI]("./Resource/SwiftUI")
-  - [Stack 안에서 공통된 align을 따르고 싶지 않을때, .alignmentGuide.md]("./Resource/SwiftUI/Stack_안에서_공통된_align을_따르고_싶지_않을때,_.alignmentGuide.md") - Sun Dec 17 2023
-  - [VStack, HStack 기본 스페이싱 잡혀있음.md]("./Resource/SwiftUI/VStack,_HStack_기본_스페이싱_잡혀있음.md") - Sun Dec 17 2023
-  - [Custom ProgressView, Gauge.md]("./Resource/SwiftUI/Custom_ProgressView,_Gauge.md") - Sun Dec 17 2023
-  - [.fullScreenCover, .Sheet에서 Cancel 버튼 없애는 방법.md]("./Resource/SwiftUI/.fullScreenCover,_.Sheet에서_Cancel_버튼_없애는_방법.md") - Sun Dec 17 2023
-  - [버전 별로 다른 도형 색칠.md]("./Resource/SwiftUI/버전_별로_다른_도형_색칠.md") - Sun Dec 17 2023
-  - [Text Border, Text Stroke.md]("./Resource/SwiftUI/Text_Border,_Text_Stroke.md") - Sun Dec 17 2023
-  - [Gradation 퍼센트로 나누기.md]("./Resource/SwiftUI/Gradation_퍼센트로_나누기.md") - Sun Dec 17 2023
-  - [Canvas, TimeLineView.md]("./Resource/SwiftUI/Canvas,_TimeLineView.md") - Sun Dec 17 2023
-  - [.fullScreenCover, .sheet 문제.md]("./Resource/SwiftUI/.fullScreenCover,_.sheet_문제.md") - Sun Dec 17 2023
-  - [EnvironmentObject 를 여러 단계로 전달하기.md]("./Resource/SwiftUI/EnvironmentObject_를_여러_단계로_전달하기.md") - Sun Dec 17 2023
-  - [List-Section, Dictionary.md]("./Resource/SwiftUI/List-Section,_Dictionary.md") - Sun Dec 17 2023
-  - [헤더 누르면 토글 열리는 테이블뷰, disclosureGroup,.md]("./Resource/SwiftUI/헤더_누르면_토글_열리는_테이블뷰,_disclosureGroup,.md") - Sun Dec 17 2023
-  - [색상 추가 방법 - Color Assets.md]("./Resource/SwiftUI/색상_추가_방법_-_Color_Assets.md") - Sun Dec 17 2023
-  - [.fullScreenCover, .Sheet에서 Cancel 버튼 없애는 방법ntitled.md]("./Resource/SwiftUI/.fullScreenCover,_.Sheet에서_Cancel_버튼_없애는_방법ntitled.md") - Sun Dec 17 2023
-  - [fullScreenCover, .Sheet에서 Cancel 버튼 없애는 방법.md]("./Resource/SwiftUI/fullScreenCover,_.Sheet에서_Cancel_버튼_없애는_방법.md") - Sun Dec 17 2023
-  - [overlay alinement.md]("./Resource/SwiftUI/overlay_alinement.md") - Sun Dec 17 2023
-  - [InsettableShape.md]("./Resource/SwiftUI/InsettableShape.md") - Sun Dec 17 2023
-  - [.space/context.mdb]("./Resource/SwiftUI/.space/context.mdb") - Sun Dec 17 2023
-  - [Multiline Text를 넣는 방법.md]("./Resource/SwiftUI/Multiline_Text를_넣는_방법.md") - Sun Dec 17 2023
-  - [Text Shimmer 파동이 왼쪽에서 오른쪽으로 지나감.md]("./Resource/SwiftUI/Text_Shimmer_파동이_왼쪽에서_오른쪽으로_지나감.md") - Sun Dec 17 2023
-  - [Custom Font 적용 문제.md]("./Resource/SwiftUI/Custom_Font_적용_문제.md") - Sun Dec 17 2023
-  - [WEARECODING해요.pdf]("./Resource/SwiftUI/WEARECODING해요.pdf") - Sun Dec 17 2023
-  - [fullScreenCover, sheet modifer 특징.md]("./Resource/SwiftUI/fullScreenCover,_sheet_modifer_특징.md") - Sun Dec 17 2023
-  - [화면에 딱 맞게 글자 크기 조절, Text, FontSize, Frame Fit, MinimumScaleFactor.md]("./Resource/SwiftUI/화면에_딱_맞게_글자_크기_조절,_Text,_FontSize,_Frame_Fit,_MinimumScaleFactor.md") - Sun Dec 17 2023
-  - [Image Carousel.md]("./Resource/SwiftUI/Image_Carousel.md") - Sun Dec 17 2023
-  - [특정 모서리만 둥근 사각형.md]("./Resource/SwiftUI/특정_모서리만_둥근_사각형.md") - Sun Dec 17 2023
-  - [item hover.md]("./Resource/SwiftUI/item_hover.md") - Sun Dec 17 2023
-  - [화면 사이즈와 폰트의 동적인 조정.md]("./Resource/SwiftUI/화면_사이즈와_폰트의_동적인_조정.md") - Sun Dec 17 2023
-  - [Ripple View-파문 애니메이션.md]("./Resource/SwiftUI/Ripple_View-파문_애니메이션.md") - Sun Dec 17 2023
-  - [.md]("./Resource/SwiftUI/.md") - Sun Dec 17 2023
-  - [VStack에서 width를 할당하는 기준.md]("./Resource/SwiftUI/VStack에서_width를_할당하는_기준.md") - Sun Dec 17 2023
-- [Algorithm/Preorder와 Inoder로 원래 Tree 추출하기.md]("./Resource/Algorithm/Preorder와_Inoder로_원래_Tree_추출하기.md") - Sun Dec 17 2023
+  - [Stack 안에서 공통된 align을 따르고 싶지 않을때, .alignmentGuide.md]("./Resource/SwiftUI/Stack_안에서_공통된_align을_따르고_싶지_않을때,_.alignmentGuide.md") - Mon Dec 18 2023
+  - [VStack, HStack 기본 스페이싱 잡혀있음.md]("./Resource/SwiftUI/VStack,_HStack_기본_스페이싱_잡혀있음.md") - Mon Dec 18 2023
+  - [Custom ProgressView, Gauge.md]("./Resource/SwiftUI/Custom_ProgressView,_Gauge.md") - Mon Dec 18 2023
+  - [.fullScreenCover, .Sheet에서 Cancel 버튼 없애는 방법.md]("./Resource/SwiftUI/.fullScreenCover,_.Sheet에서_Cancel_버튼_없애는_방법.md") - Mon Dec 18 2023
+  - [버전 별로 다른 도형 색칠.md]("./Resource/SwiftUI/버전_별로_다른_도형_색칠.md") - Mon Dec 18 2023
+  - [Text Border, Text Stroke.md]("./Resource/SwiftUI/Text_Border,_Text_Stroke.md") - Mon Dec 18 2023
+  - [Gradation 퍼센트로 나누기.md]("./Resource/SwiftUI/Gradation_퍼센트로_나누기.md") - Mon Dec 18 2023
+  - [Canvas, TimeLineView.md]("./Resource/SwiftUI/Canvas,_TimeLineView.md") - Mon Dec 18 2023
+  - [.fullScreenCover, .sheet 문제.md]("./Resource/SwiftUI/.fullScreenCover,_.sheet_문제.md") - Mon Dec 18 2023
+  - [EnvironmentObject 를 여러 단계로 전달하기.md]("./Resource/SwiftUI/EnvironmentObject_를_여러_단계로_전달하기.md") - Mon Dec 18 2023
+  - [List-Section, Dictionary.md]("./Resource/SwiftUI/List-Section,_Dictionary.md") - Mon Dec 18 2023
+  - [헤더 누르면 토글 열리는 테이블뷰, disclosureGroup,.md]("./Resource/SwiftUI/헤더_누르면_토글_열리는_테이블뷰,_disclosureGroup,.md") - Mon Dec 18 2023
+  - [색상 추가 방법 - Color Assets.md]("./Resource/SwiftUI/색상_추가_방법_-_Color_Assets.md") - Mon Dec 18 2023
+  - [.fullScreenCover, .Sheet에서 Cancel 버튼 없애는 방법ntitled.md]("./Resource/SwiftUI/.fullScreenCover,_.Sheet에서_Cancel_버튼_없애는_방법ntitled.md") - Mon Dec 18 2023
+  - [fullScreenCover, .Sheet에서 Cancel 버튼 없애는 방법.md]("./Resource/SwiftUI/fullScreenCover,_.Sheet에서_Cancel_버튼_없애는_방법.md") - Mon Dec 18 2023
+  - [overlay alinement.md]("./Resource/SwiftUI/overlay_alinement.md") - Mon Dec 18 2023
+  - [InsettableShape.md]("./Resource/SwiftUI/InsettableShape.md") - Mon Dec 18 2023
+  - [.space/context.mdb]("./Resource/SwiftUI/.space/context.mdb") - Mon Dec 18 2023
+  - [Multiline Text를 넣는 방법.md]("./Resource/SwiftUI/Multiline_Text를_넣는_방법.md") - Mon Dec 18 2023
+  - [Text Shimmer 파동이 왼쪽에서 오른쪽으로 지나감.md]("./Resource/SwiftUI/Text_Shimmer_파동이_왼쪽에서_오른쪽으로_지나감.md") - Mon Dec 18 2023
+  - [Custom Font 적용 문제.md]("./Resource/SwiftUI/Custom_Font_적용_문제.md") - Mon Dec 18 2023
+  - [WEARECODING해요.pdf]("./Resource/SwiftUI/WEARECODING해요.pdf") - Mon Dec 18 2023
+  - [fullScreenCover, sheet modifer 특징.md]("./Resource/SwiftUI/fullScreenCover,_sheet_modifer_특징.md") - Mon Dec 18 2023
+  - [화면에 딱 맞게 글자 크기 조절, Text, FontSize, Frame Fit, MinimumScaleFactor.md]("./Resource/SwiftUI/화면에_딱_맞게_글자_크기_조절,_Text,_FontSize,_Frame_Fit,_MinimumScaleFactor.md") - Mon Dec 18 2023
+  - [Image Carousel.md]("./Resource/SwiftUI/Image_Carousel.md") - Mon Dec 18 2023
+  - [특정 모서리만 둥근 사각형.md]("./Resource/SwiftUI/특정_모서리만_둥근_사각형.md") - Mon Dec 18 2023
+  - [item hover.md]("./Resource/SwiftUI/item_hover.md") - Mon Dec 18 2023
+  - [화면 사이즈와 폰트의 동적인 조정.md]("./Resource/SwiftUI/화면_사이즈와_폰트의_동적인_조정.md") - Mon Dec 18 2023
+  - [Ripple View-파문 애니메이션.md]("./Resource/SwiftUI/Ripple_View-파문_애니메이션.md") - Mon Dec 18 2023
+  - [.md]("./Resource/SwiftUI/.md") - Mon Dec 18 2023
+  - [VStack에서 width를 할당하는 기준.md]("./Resource/SwiftUI/VStack에서_width를_할당하는_기준.md") - Mon Dec 18 2023
+- [Algorithm/Preorder와 Inoder로 원래 Tree 추출하기.md]("./Resource/Algorithm/Preorder와_Inoder로_원래_Tree_추출하기.md") - Mon Dec 18 2023
 - [Test]("./Resource/Test")
-  - [Test.md]("./Resource/Test/Test.md") - Sun Dec 17 2023
-  - [Quick, Nimble 세션.md]("./Resource/Test/Quick,_Nimble_세션.md") - Sun Dec 17 2023
+  - [Test.md]("./Resource/Test/Test.md") - Mon Dec 18 2023
+  - [Quick, Nimble 세션.md]("./Resource/Test/Quick,_Nimble_세션.md") - Mon Dec 18 2023
 - [Swift]("./Resource/Swift")
-  - [AutoClosure.md]("./Resource/Swift/AutoClosure.md") - Sun Dec 17 2023
-  - [Swift Data.md]("./Resource/Swift/Swift_Data.md") - Sun Dec 17 2023
-  - [load Json.md]("./Resource/Swift/load_Json.md") - Sun Dec 17 2023
-  - [Swift.md]("./Resource/Swift/Swift.md") - Sun Dec 17 2023
-  - [Altheman Session.md]("./Resource/Swift/Altheman_Session.md") - Sun Dec 17 2023
-  - [async property.md]("./Resource/Swift/async_property.md") - Sun Dec 17 2023
-  - [ReturnSwitch.png]("./Resource/Swift/ReturnSwitch.png") - Sun Dec 17 2023
-  - [아이작 swift Syntax.md]("./Resource/Swift/아이작_swift_Syntax.md") - Sun Dec 17 2023
-  - [SwiftMap.canvas]("./Resource/Swift/SwiftMap.canvas") - Sun Dec 17 2023
-- [개발일반/읽기 좋은 코드 - 변수명.md]("./Resource/개발일반/읽기_좋은_코드_-_변수명.md") - Sun Dec 17 2023
+  - [AutoClosure.md]("./Resource/Swift/AutoClosure.md") - Mon Dec 18 2023
+  - [Swift Data.md]("./Resource/Swift/Swift_Data.md") - Mon Dec 18 2023
+  - [load Json.md]("./Resource/Swift/load_Json.md") - Mon Dec 18 2023
+  - [Swift.md]("./Resource/Swift/Swift.md") - Mon Dec 18 2023
+  - [Altheman Session.md]("./Resource/Swift/Altheman_Session.md") - Mon Dec 18 2023
+  - [async property.md]("./Resource/Swift/async_property.md") - Mon Dec 18 2023
+  - [ReturnSwitch.png]("./Resource/Swift/ReturnSwitch.png") - Mon Dec 18 2023
+  - [아이작 swift Syntax.md]("./Resource/Swift/아이작_swift_Syntax.md") - Mon Dec 18 2023
+  - [SwiftMap.canvas]("./Resource/Swift/SwiftMap.canvas") - Mon Dec 18 2023
+- [개발일반/읽기 좋은 코드 - 변수명.md]("./Resource/개발일반/읽기_좋은_코드_-_변수명.md") - Mon Dec 18 2023
 - [SwiftUI Architecture]("./Resource/SwiftUI_Architecture")
-  - [확장 가능하고 테스트 가능한 아키텍쳐.md]("./Resource/SwiftUI_Architecture/확장_가능하고_테스트_가능한_아키텍쳐.md") - Sun Dec 17 2023
-  - [CleanArchitecture.md]("./Resource/SwiftUI_Architecture/CleanArchitecture.md") - Sun Dec 17 2023
-  - [SwiftUI Architecture.md]("./Resource/SwiftUI_Architecture/SwiftUI_Architecture.md") - Sun Dec 17 2023
-- [Book/SecondBrain.canvas]("./Resource/Book/SecondBrain.canvas") - Sun Dec 17 2023
+  - [확장 가능하고 테스트 가능한 아키텍쳐.md]("./Resource/SwiftUI_Architecture/확장_가능하고_테스트_가능한_아키텍쳐.md") - Mon Dec 18 2023
+  - [CleanArchitecture.md]("./Resource/SwiftUI_Architecture/CleanArchitecture.md") - Mon Dec 18 2023
+  - [SwiftUI Architecture.md]("./Resource/SwiftUI_Architecture/SwiftUI_Architecture.md") - Mon Dec 18 2023
+- [Book/SecondBrain.canvas]("./Resource/Book/SecondBrain.canvas") - Mon Dec 18 2023
 - [CICD]("./Resource/CICD")
-  - [앱 제출 - Provisioning.md]("./Resource/CICD/앱_제출_-_Provisioning.md") - Sun Dec 17 2023
-  - [Pull Request Template.md]("./Resource/CICD/Pull_Request_Template.md") - Sun Dec 17 2023
-  - [GitHub - Discord Connection 디스코드 알림봇, 웹훅 webhook.md]("./Resource/CICD/GitHub_-_Discord_Connection_디스코드_알림봇,_웹훅_webhook.md") - Sun Dec 17 2023
-  - [How to avoid app reject.md]("./Resource/CICD/How_to_avoid_app_reject.md") - Sun Dec 17 2023
+  - [앱 제출 - Provisioning.md]("./Resource/CICD/앱_제출_-_Provisioning.md") - Mon Dec 18 2023
+  - [Pull Request Template.md]("./Resource/CICD/Pull_Request_Template.md") - Mon Dec 18 2023
+  - [GitHub - Discord Connection 디스코드 알림봇, 웹훅 webhook.md]("./Resource/CICD/GitHub_-_Discord_Connection_디스코드_알림봇,_웹훅_webhook.md") - Mon Dec 18 2023
+  - [How to avoid app reject.md]("./Resource/CICD/How_to_avoid_app_reject.md") - Mon Dec 18 2023
 - [Combine]("./Resource/Combine")
-  - [Combine.md]("./Resource/Combine/Combine.md") - Sun Dec 17 2023
-  - [Just.md]("./Resource/Combine/Just.md") - Sun Dec 17 2023
-  - [.eraseToAnyPublisher().md]("./Resource/Combine/.eraseToAnyPublisher().md") - Sun Dec 17 2023
-  - [CurrentValueSubject.md]("./Resource/Combine/CurrentValueSubject.md") - Sun Dec 17 2023
-  - [sink-receiveCompletion.md]("./Resource/Combine/sink-receiveCompletion.md") - Sun Dec 17 2023
-  - [.re.md]("./Resource/Combine/.re.md") - Sun Dec 17 2023
-  - [Publisher.md]("./Resource/Combine/Publisher.md") - Sun Dec 17 2023
-  - [Subscribers.md]("./Resource/Combine/Subscribers.md") - Sun Dec 17 2023
-  - [PassthroughSubject.md]("./Resource/Combine/PassthroughSubject.md") - Sun Dec 17 2023
-  - [Combine Leeo & JASON.md]("./Resource/Combine/Combine_Leeo_&_JASON.md") - Sun Dec 17 2023
-  - [sink.md]("./Resource/Combine/sink.md") - Sun Dec 17 2023
-  - [Combine이 어느 스레드에서 실행될지 결정하는 로직.md]("./Resource/Combine/Combine이_어느_스레드에서_실행될지_결정하는_로직.md") - Sun Dec 17 2023
-  - [TryMap.md]("./Resource/Combine/TryMap.md") - Sun Dec 17 2023
-  - [AnyCancellable.md]("./Resource/Combine/AnyCancellable.md") - Sun Dec 17 2023
-  - [AnyPublisher<T, Never>.md]("./Resource/Combine/AnyPublisher<T,_Never>.md") - Sun Dec 17 2023
-  - [receive-on.md]("./Resource/Combine/receive-on.md") - Sun Dec 17 2023
-  - [Store.md]("./Resource/Combine/Store.md") - Sun Dec 17 2023
-  - [flatMap.md]("./Resource/Combine/flatMap.md") - Sun Dec 17 2023
-  - [subscribe-on.md]("./Resource/Combine/subscribe-on.md") - Sun Dec 17 2023
-- [.md]("./Resource/.md") - Sun Dec 17 2023
-- [Resource.md]("./Resource/Resource.md") - Sun Dec 17 2023
+  - [Combine.md]("./Resource/Combine/Combine.md") - Mon Dec 18 2023
+  - [Just.md]("./Resource/Combine/Just.md") - Mon Dec 18 2023
+  - [.eraseToAnyPublisher().md]("./Resource/Combine/.eraseToAnyPublisher().md") - Mon Dec 18 2023
+  - [CurrentValueSubject.md]("./Resource/Combine/CurrentValueSubject.md") - Mon Dec 18 2023
+  - [sink-receiveCompletion.md]("./Resource/Combine/sink-receiveCompletion.md") - Mon Dec 18 2023
+  - [.re.md]("./Resource/Combine/.re.md") - Mon Dec 18 2023
+  - [Publisher.md]("./Resource/Combine/Publisher.md") - Mon Dec 18 2023
+  - [Subscribers.md]("./Resource/Combine/Subscribers.md") - Mon Dec 18 2023
+  - [PassthroughSubject.md]("./Resource/Combine/PassthroughSubject.md") - Mon Dec 18 2023
+  - [Combine Leeo & JASON.md]("./Resource/Combine/Combine_Leeo_&_JASON.md") - Mon Dec 18 2023
+  - [sink.md]("./Resource/Combine/sink.md") - Mon Dec 18 2023
+  - [Combine이 어느 스레드에서 실행될지 결정하는 로직.md]("./Resource/Combine/Combine이_어느_스레드에서_실행될지_결정하는_로직.md") - Mon Dec 18 2023
+  - [TryMap.md]("./Resource/Combine/TryMap.md") - Mon Dec 18 2023
+  - [AnyCancellable.md]("./Resource/Combine/AnyCancellable.md") - Mon Dec 18 2023
+  - [AnyPublisher<T, Never>.md]("./Resource/Combine/AnyPublisher<T,_Never>.md") - Mon Dec 18 2023
+  - [receive-on.md]("./Resource/Combine/receive-on.md") - Mon Dec 18 2023
+  - [Store.md]("./Resource/Combine/Store.md") - Mon Dec 18 2023
+  - [flatMap.md]("./Resource/Combine/flatMap.md") - Mon Dec 18 2023
+  - [subscribe-on.md]("./Resource/Combine/subscribe-on.md") - Mon Dec 18 2023
+- [.md]("./Resource/.md") - Mon Dec 18 2023
+- [Resource.md]("./Resource/Resource.md") - Mon Dec 18 2023
 
 ### [.space/context.mdb](#.space/context.mdb)
 
 ### [Project](#Project)
 - [Concurrency]("./Project/Concurrency")
-  - [아이작 Task & Concurrency Session.md]("./Project/Concurrency/아이작_Task_&_Concurrency_Session.md") - Sun Dec 17 2023
-  - [직렬, 병렬.png]("./Project/Concurrency/직렬,_병렬.png") - Sun Dec 17 2023
-  - [Task, DispatchQueue By Team.png]("./Project/Concurrency/Task,_DispatchQueue_By_Team.png") - Sun Dec 17 2023
-  - [Tasks & Queues.pdf]("./Project/Concurrency/Tasks_&_Queues.pdf") - Sun Dec 17 2023
-  - [Task, DispatchQueue by Gucci.png]("./Project/Concurrency/Task,_DispatchQueue_by_Gucci.png") - Sun Dec 17 2023
-- [.space/context.mdb]("./Project/.space/context.mdb") - Sun Dec 17 2023
-- [Project.md]("./Project/Project.md") - Sun Dec 17 2023
+  - [아이작 Task & Concurrency Session.md]("./Project/Concurrency/아이작_Task_&_Concurrency_Session.md") - Mon Dec 18 2023
+  - [직렬, 병렬.png]("./Project/Concurrency/직렬,_병렬.png") - Mon Dec 18 2023
+  - [Task, DispatchQueue By Team.png]("./Project/Concurrency/Task,_DispatchQueue_By_Team.png") - Mon Dec 18 2023
+  - [Tasks & Queues.pdf]("./Project/Concurrency/Tasks_&_Queues.pdf") - Mon Dec 18 2023
+  - [Task, DispatchQueue by Gucci.png]("./Project/Concurrency/Task,_DispatchQueue_by_Gucci.png") - Mon Dec 18 2023
+- [.space/context.mdb]("./Project/.space/context.mdb") - Mon Dec 18 2023
+- [Project.md]("./Project/Project.md") - Mon Dec 18 2023
 - [TCA]("./Project/TCA")
-  - [[SwiftUI-TCA] 5. 네트워크 요청 수행.md]("./Project/TCA/[SwiftUI-TCA]_5._네트워크_요청_수행.md") - Sun Dec 17 2023
-  - [TCA.md]("./Project/TCA/TCA.md") - Sun Dec 17 2023
-  - [[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md]("./Project/TCA/[SwiftUI-TCA]_2._SwiftUI의_View와_통합.md") - Sun Dec 17 2023
-  - [.space/context.mdb]("./Project/TCA/.space/context.mdb") - Sun Dec 17 2023
-  - [[swiftUI-TCA] TCA 톺아보기.md]("./Project/TCA/[swiftUI-TCA]_TCA_톺아보기.md") - Sun Dec 17 2023
-  - [[SwiftUI-TCA] 4. Side effects 추가.md]("./Project/TCA/[SwiftUI-TCA]_4._Side_effects_추가.md") - Sun Dec 17 2023
-  - [TCA 구조의 정수.png]("./Project/TCA/TCA_구조의_정수.png") - Sun Dec 17 2023
-  - [[SwiftUI-TCA] 1. Reducer 생성.md]("./Project/TCA/[SwiftUI-TCA]_1._Reducer_생성.md") - Sun Dec 17 2023
-  - [[SwiftUI-TCA] 3. 앱과 연결.md]("./Project/TCA/[SwiftUI-TCA]_3._앱과_연결.md") - Sun Dec 17 2023
+  - [[SwiftUI-TCA] 5. 네트워크 요청 수행.md]("./Project/TCA/[SwiftUI-TCA]_5._네트워크_요청_수행.md") - Mon Dec 18 2023
+  - [TCA.md]("./Project/TCA/TCA.md") - Mon Dec 18 2023
+  - [[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md]("./Project/TCA/[SwiftUI-TCA]_2._SwiftUI의_View와_통합.md") - Mon Dec 18 2023
+  - [.space/context.mdb]("./Project/TCA/.space/context.mdb") - Mon Dec 18 2023
+  - [[swiftUI-TCA] TCA 톺아보기.md]("./Project/TCA/[swiftUI-TCA]_TCA_톺아보기.md") - Mon Dec 18 2023
+  - [[ToyProject].md]("./Project/TCA/[ToyProject].md") - Mon Dec 18 2023
+  - [[SwiftUI-TCA] 4. Side effects 추가.md]("./Project/TCA/[SwiftUI-TCA]_4._Side_effects_추가.md") - Mon Dec 18 2023
+  - [TCA 구조의 정수.png]("./Project/TCA/TCA_구조의_정수.png") - Mon Dec 18 2023
+  - [[SwiftUI-TCA] 1. Reducer 생성.md]("./Project/TCA/[SwiftUI-TCA]_1._Reducer_생성.md") - Mon Dec 18 2023
+  - [[SwiftUI-TCA] 3. 앱과 연결.md]("./Project/TCA/[SwiftUI-TCA]_3._앱과_연결.md") - Mon Dec 18 2023
 
 ### [Area](#Area)
-- [Area.md]("./Area/Area.md") - Sun Dec 17 2023
-- [.space/context.mdb]("./Area/.space/context.mdb") - Sun Dec 17 2023
-- [Obsidian/Callouts.md]("./Area/Obsidian/Callouts.md") - Sun Dec 17 2023
+- [Area.md]("./Area/Area.md") - Mon Dec 18 2023
+- [.space/context.mdb]("./Area/.space/context.mdb") - Mon Dec 18 2023
+- [Obsidian/Callouts.md]("./Area/Obsidian/Callouts.md") - Mon Dec 18 2023
 
 ### [LICENSE](#LICENSE)
 
 ### [.gitattributes](#.gitattributes)
 
 ### [Spaces/Home](#Spaces/Home)
-- [.space/context.mdb]("./Spaces/Home/.space/context.mdb") - Sun Dec 17 2023
-- [Home.md]("./Spaces/Home/Home.md") - Sun Dec 17 2023
+- [.space/context.mdb]("./Spaces/Home/.space/context.mdb") - Mon Dec 18 2023
+- [Home.md]("./Spaces/Home/Home.md") - Mon Dec 18 2023
 
 ### [.trash](#.trash)
-- [2023-09-29.md]("./.trash/2023-09-29.md") - Sun Dec 17 2023
-- [asdfass.md]("./.trash/asdfass.md") - Sun Dec 17 2023
-- [Untitled 12.md]("./.trash/Untitled_12.md") - Sun Dec 17 2023
-- [2023-12-14.md]("./.trash/2023-12-14.md") - Sun Dec 17 2023
-- [Untitled 9.md]("./.trash/Untitled_9.md") - Sun Dec 17 2023
-- [Untitled 8.md]("./.trash/Untitled_8.md") - Sun Dec 17 2023
-- [A norm.md]("./.trash/A_norm.md") - Sun Dec 17 2023
-- [[DR] CW(창우님) 세션.md]("./.trash/[DR]_CW(창우님)_세션.md") - Sun Dec 17 2023
-- [B Norm.md]("./.trash/B_Norm.md") - Sun Dec 17 2023
-- [Photo_on_11-30-23_at_11.39_AM__2-removebg-preview.png]("./.trash/Photo_on_11-30-23_at_11.39_AM__2-removebg-preview.png") - Sun Dec 17 2023
-- [Untitled 1.canvas]("./.trash/Untitled_1.canvas") - Sun Dec 17 2023
-- [Untitled.md]("./.trash/Untitled.md") - Sun Dec 17 2023
-- [Untitled.canvas]("./.trash/Untitled.canvas") - Sun Dec 17 2023
-- [이력서 작성시 고려할 사항들.md]("./.trash/이력서_작성시_고려할_사항들.md") - Sun Dec 17 2023
-- [store-in.md]("./.trash/store-in.md") - Sun Dec 17 2023
-- [Algorithm.canvas]("./.trash/Algorithm.canvas") - Sun Dec 17 2023
-- [Untitled 3.md]("./.trash/Untitled_3.md") - Sun Dec 17 2023
-- [Untitled 7.md]("./.trash/Untitled_7.md") - Sun Dec 17 2023
-- [Untitled 5.md]("./.trash/Untitled_5.md") - Sun Dec 17 2023
-- [Project/Project.md]("./.trash/Project/Project.md") - Sun Dec 17 2023
-- [Dev/Dev.md]("./.trash/Dev/Dev.md") - Sun Dec 17 2023
-- [아이작-호제, 단 질문.md]("./.trash/아이작-호제,_단_질문.md") - Sun Dec 17 2023
-- [Untitled 13.md]("./.trash/Untitled_13.md") - Sun Dec 17 2023
-- [Untitled 2.canvas]("./.trash/Untitled_2.canvas") - Sun Dec 17 2023
-- [Untitled 11.md]("./.trash/Untitled_11.md") - Sun Dec 17 2023
-- [Untitled 4.md]("./.trash/Untitled_4.md") - Sun Dec 17 2023
-- [Untitled 2 2.canvas]("./.trash/Untitled_2_2.canvas") - Sun Dec 17 2023
+- [2023-09-29.md]("./.trash/2023-09-29.md") - Mon Dec 18 2023
+- [asdfass.md]("./.trash/asdfass.md") - Mon Dec 18 2023
+- [Untitled 12.md]("./.trash/Untitled_12.md") - Mon Dec 18 2023
+- [2023-12-14.md]("./.trash/2023-12-14.md") - Mon Dec 18 2023
+- [Untitled 9.md]("./.trash/Untitled_9.md") - Mon Dec 18 2023
+- [Untitled 8.md]("./.trash/Untitled_8.md") - Mon Dec 18 2023
+- [A norm.md]("./.trash/A_norm.md") - Mon Dec 18 2023
+- [[DR] CW(창우님) 세션.md]("./.trash/[DR]_CW(창우님)_세션.md") - Mon Dec 18 2023
+- [B Norm.md]("./.trash/B_Norm.md") - Mon Dec 18 2023
+- [Photo_on_11-30-23_at_11.39_AM__2-removebg-preview.png]("./.trash/Photo_on_11-30-23_at_11.39_AM__2-removebg-preview.png") - Mon Dec 18 2023
+- [Untitled 1.canvas]("./.trash/Untitled_1.canvas") - Mon Dec 18 2023
+- [Untitled.md]("./.trash/Untitled.md") - Mon Dec 18 2023
+- [Untitled.canvas]("./.trash/Untitled.canvas") - Mon Dec 18 2023
+- [이력서 작성시 고려할 사항들.md]("./.trash/이력서_작성시_고려할_사항들.md") - Mon Dec 18 2023
+- [store-in.md]("./.trash/store-in.md") - Mon Dec 18 2023
+- [Algorithm.canvas]("./.trash/Algorithm.canvas") - Mon Dec 18 2023
+- [Untitled 3.md]("./.trash/Untitled_3.md") - Mon Dec 18 2023
+- [Untitled 7.md]("./.trash/Untitled_7.md") - Mon Dec 18 2023
+- [Untitled 5.md]("./.trash/Untitled_5.md") - Mon Dec 18 2023
+- [Project/Project.md]("./.trash/Project/Project.md") - Mon Dec 18 2023
+- [Dev/Dev.md]("./.trash/Dev/Dev.md") - Mon Dec 18 2023
+- [아이작-호제, 단 질문.md]("./.trash/아이작-호제,_단_질문.md") - Mon Dec 18 2023
+- [Untitled 13.md]("./.trash/Untitled_13.md") - Mon Dec 18 2023
+- [Untitled 2.canvas]("./.trash/Untitled_2.canvas") - Mon Dec 18 2023
+- [Untitled 11.md]("./.trash/Untitled_11.md") - Mon Dec 18 2023
+- [Untitled 4.md]("./.trash/Untitled_4.md") - Mon Dec 18 2023
+- [Untitled 2 2.canvas]("./.trash/Untitled_2_2.canvas") - Mon Dec 18 2023
 - [Career]("./.trash/Career")
-  - [Career.mdb]("./.trash/Career/Career.mdb") - Sun Dec 17 2023
-  - [Career.md]("./.trash/Career/Career.md") - Sun Dec 17 2023
-- [Untitled 2.md]("./.trash/Untitled_2.md") - Sun Dec 17 2023
-- [Untitled 10.md]("./.trash/Untitled_10.md") - Sun Dec 17 2023
-- [hello world.md]("./.trash/hello_world.md") - Sun Dec 17 2023
-- [2023-10-30.md]("./.trash/2023-10-30.md") - Sun Dec 17 2023
-- [장영진 이력서.key]("./.trash/장영진_이력서.key") - Sun Dec 17 2023
-- [Untitled 6.md]("./.trash/Untitled_6.md") - Sun Dec 17 2023
-- [helllo w777orld.md]("./.trash/helllo_w777orld.md") - Sun Dec 17 2023
-- [2023-09-27.md]("./.trash/2023-09-27.md") - Sun Dec 17 2023
-- [내가 해온 것들.md]("./.trash/내가_해온_것들.md") - Sun Dec 17 2023
-- [asfsdf.md]("./.trash/asfsdf.md") - Sun Dec 17 2023
-- [Design.md]("./.trash/Design.md") - Sun Dec 17 2023
+  - [Career.mdb]("./.trash/Career/Career.mdb") - Mon Dec 18 2023
+  - [Career.md]("./.trash/Career/Career.md") - Mon Dec 18 2023
+- [Untitled 2.md]("./.trash/Untitled_2.md") - Mon Dec 18 2023
+- [Untitled 10.md]("./.trash/Untitled_10.md") - Mon Dec 18 2023
+- [hello world.md]("./.trash/hello_world.md") - Mon Dec 18 2023
+- [2023-10-30.md]("./.trash/2023-10-30.md") - Mon Dec 18 2023
+- [장영진 이력서.key]("./.trash/장영진_이력서.key") - Mon Dec 18 2023
+- [Untitled 6.md]("./.trash/Untitled_6.md") - Mon Dec 18 2023
+- [helllo w777orld.md]("./.trash/helllo_w777orld.md") - Mon Dec 18 2023
+- [2023-09-27.md]("./.trash/2023-09-27.md") - Mon Dec 18 2023
+- [내가 해온 것들.md]("./.trash/내가_해온_것들.md") - Mon Dec 18 2023
+- [asfsdf.md]("./.trash/asfsdf.md") - Mon Dec 18 2023
+- [Design.md]("./.trash/Design.md") - Mon Dec 18 2023
 
 ### [.gitignore](#.gitignore)
 
 ### [Archive](#Archive)
-- [Archive.md]("./Archive/Archive.md") - Sun Dec 17 2023
+- [Archive.md]("./Archive/Archive.md") - Mon Dec 18 2023
 - [Image Inbox]("./Archive/Image_Inbox")
-  - [Pasted image 20231023091344.png]("./Archive/Image_Inbox/Pasted_image_20231023091344.png") - Sun Dec 17 2023
-  - [Pasted image 20231010095832.png]("./Archive/Image_Inbox/Pasted_image_20231010095832.png") - Sun Dec 17 2023
-  - [파동 이미지를 보여주는 코드 흐름.png]("./Archive/Image_Inbox/파동_이미지를_보여주는_코드_흐름.png") - Sun Dec 17 2023
-  - [App Store 등록 전 스크린샷 만들기.md]("./Archive/Image_Inbox/App_Store_등록_전_스크린샷_만들기.md") - Sun Dec 17 2023
-  - [IMG_4071.jpg]("./Archive/Image_Inbox/IMG_4071.jpg") - Sun Dec 17 2023
-  - [Pasted image 20231010095320.png]("./Archive/Image_Inbox/Pasted_image_20231010095320.png") - Sun Dec 17 2023
-  - [ToggleTableViewItem.png]("./Archive/Image_Inbox/ToggleTableViewItem.png") - Sun Dec 17 2023
-  - [Pasted image 20231023091416.png]("./Archive/Image_Inbox/Pasted_image_20231023091416.png") - Sun Dec 17 2023
-  - [기분좋음.png]("./Archive/Image_Inbox/기분좋음.png") - Sun Dec 17 2023
-  - [Pasted image 20231021133104.png]("./Archive/Image_Inbox/Pasted_image_20231021133104.png") - Sun Dec 17 2023
-  - [Pasted image 20231022192657.png]("./Archive/Image_Inbox/Pasted_image_20231022192657.png") - Sun Dec 17 2023
-  - [뷰 모디파이어 익스텐션.png]("./Archive/Image_Inbox/뷰_모디파이어_익스텐션.png") - Sun Dec 17 2023
-  - [어쩌다돼지.png]("./Archive/Image_Inbox/어쩌다돼지.png") - Sun Dec 17 2023
-  - [GitHub-Mark.png]("./Archive/Image_Inbox/GitHub-Mark.png") - Sun Dec 17 2023
-  - [디모데전서 2장 11절.png]("./Archive/Image_Inbox/디모데전서_2장_11절.png") - Sun Dec 17 2023
-  - [Pasted image 20231013181612.png]("./Archive/Image_Inbox/Pasted_image_20231013181612.png") - Sun Dec 17 2023
-  - [Pasted image 20231021133027.png]("./Archive/Image_Inbox/Pasted_image_20231021133027.png") - Sun Dec 17 2023
-  - [WWDC HealthKit 참조1.png]("./Archive/Image_Inbox/WWDC_HealthKit_참조1.png") - Sun Dec 17 2023
-  - [App_Store_(iOS).png]("./Archive/Image_Inbox/App_Store_(iOS).png") - Sun Dec 17 2023
-  - [WWDC HealthKit 참조2.png]("./Archive/Image_Inbox/WWDC_HealthKit_참조2.png") - Sun Dec 17 2023
-  - [Pasted image 20231022195910.png]("./Archive/Image_Inbox/Pasted_image_20231022195910.png") - Sun Dec 17 2023
-  - [hovering.png]("./Archive/Image_Inbox/hovering.png") - Sun Dec 17 2023
+  - [Pasted image 20231023091344.png]("./Archive/Image_Inbox/Pasted_image_20231023091344.png") - Mon Dec 18 2023
+  - [Pasted image 20231010095832.png]("./Archive/Image_Inbox/Pasted_image_20231010095832.png") - Mon Dec 18 2023
+  - [파동 이미지를 보여주는 코드 흐름.png]("./Archive/Image_Inbox/파동_이미지를_보여주는_코드_흐름.png") - Mon Dec 18 2023
+  - [App Store 등록 전 스크린샷 만들기.md]("./Archive/Image_Inbox/App_Store_등록_전_스크린샷_만들기.md") - Mon Dec 18 2023
+  - [IMG_4071.jpg]("./Archive/Image_Inbox/IMG_4071.jpg") - Mon Dec 18 2023
+  - [Pasted image 20231010095320.png]("./Archive/Image_Inbox/Pasted_image_20231010095320.png") - Mon Dec 18 2023
+  - [ToggleTableViewItem.png]("./Archive/Image_Inbox/ToggleTableViewItem.png") - Mon Dec 18 2023
+  - [Pasted image 20231023091416.png]("./Archive/Image_Inbox/Pasted_image_20231023091416.png") - Mon Dec 18 2023
+  - [기분좋음.png]("./Archive/Image_Inbox/기분좋음.png") - Mon Dec 18 2023
+  - [Pasted image 20231021133104.png]("./Archive/Image_Inbox/Pasted_image_20231021133104.png") - Mon Dec 18 2023
+  - [Pasted image 20231022192657.png]("./Archive/Image_Inbox/Pasted_image_20231022192657.png") - Mon Dec 18 2023
+  - [뷰 모디파이어 익스텐션.png]("./Archive/Image_Inbox/뷰_모디파이어_익스텐션.png") - Mon Dec 18 2023
+  - [어쩌다돼지.png]("./Archive/Image_Inbox/어쩌다돼지.png") - Mon Dec 18 2023
+  - [GitHub-Mark.png]("./Archive/Image_Inbox/GitHub-Mark.png") - Mon Dec 18 2023
+  - [디모데전서 2장 11절.png]("./Archive/Image_Inbox/디모데전서_2장_11절.png") - Mon Dec 18 2023
+  - [Pasted image 20231013181612.png]("./Archive/Image_Inbox/Pasted_image_20231013181612.png") - Mon Dec 18 2023
+  - [Pasted image 20231021133027.png]("./Archive/Image_Inbox/Pasted_image_20231021133027.png") - Mon Dec 18 2023
+  - [WWDC HealthKit 참조1.png]("./Archive/Image_Inbox/WWDC_HealthKit_참조1.png") - Mon Dec 18 2023
+  - [App_Store_(iOS).png]("./Archive/Image_Inbox/App_Store_(iOS).png") - Mon Dec 18 2023
+  - [WWDC HealthKit 참조2.png]("./Archive/Image_Inbox/WWDC_HealthKit_참조2.png") - Mon Dec 18 2023
+  - [Pasted image 20231022195910.png]("./Archive/Image_Inbox/Pasted_image_20231022195910.png") - Mon Dec 18 2023
+  - [hovering.png]("./Archive/Image_Inbox/hovering.png") - Mon Dec 18 2023
 - [SafariExtension]("./Archive/SafariExtension")
-  - [노트 앱에서 이렇게 보인다 예시.png]("./Archive/SafariExtension/노트_앱에서_이렇게_보인다_예시.png") - Sun Dec 17 2023
-  - [SafariExtension.md]("./Archive/SafariExtension/SafariExtension.md") - Sun Dec 17 2023
-  - [Pasted image 20231128135759.png]("./Archive/SafariExtension/Pasted_image_20231128135759.png") - Sun Dec 17 2023
-  - [웨슬리 제안.md]("./Archive/SafariExtension/웨슬리_제안.md") - Sun Dec 17 2023
-  - [.space/context.mdb]("./Archive/SafariExtension/.space/context.mdb") - Sun Dec 17 2023
-  - [Pasted image 20231128135517.png]("./Archive/SafariExtension/Pasted_image_20231128135517.png") - Sun Dec 17 2023
-  - [Pasted image 20231012004653.png]("./Archive/SafariExtension/Pasted_image_20231012004653.png") - Sun Dec 17 2023
-  - [사파리 예시.png]("./Archive/SafariExtension/사파리_예시.png") - Sun Dec 17 2023
-  - [Creating a Safari web extension.md]("./Archive/SafariExtension/Creating_a_Safari_web_extension.md") - Sun Dec 17 2023
-  - [용어정리.canvas]("./Archive/SafariExtension/용어정리.canvas") - Sun Dec 17 2023
+  - [노트 앱에서 이렇게 보인다 예시.png]("./Archive/SafariExtension/노트_앱에서_이렇게_보인다_예시.png") - Mon Dec 18 2023
+  - [SafariExtension.md]("./Archive/SafariExtension/SafariExtension.md") - Mon Dec 18 2023
+  - [Pasted image 20231128135759.png]("./Archive/SafariExtension/Pasted_image_20231128135759.png") - Mon Dec 18 2023
+  - [웨슬리 제안.md]("./Archive/SafariExtension/웨슬리_제안.md") - Mon Dec 18 2023
+  - [.space/context.mdb]("./Archive/SafariExtension/.space/context.mdb") - Mon Dec 18 2023
+  - [Pasted image 20231128135517.png]("./Archive/SafariExtension/Pasted_image_20231128135517.png") - Mon Dec 18 2023
+  - [Pasted image 20231012004653.png]("./Archive/SafariExtension/Pasted_image_20231012004653.png") - Mon Dec 18 2023
+  - [사파리 예시.png]("./Archive/SafariExtension/사파리_예시.png") - Mon Dec 18 2023
+  - [Creating a Safari web extension.md]("./Archive/SafariExtension/Creating_a_Safari_web_extension.md") - Mon Dec 18 2023
+  - [용어정리.canvas]("./Archive/SafariExtension/용어정리.canvas") - Mon Dec 18 2023
 
 ### [Context/spacesLastSync.log](#Context/spacesLastSync.log)
 
 ### [README.md](#README.md)
 
 ### [Inbox](#Inbox)
-- [User Testing (Act1).md]("./Inbox/User_Testing_(Act1).md") - Sun Dec 17 2023
-- [Api list.md]("./Inbox/Api_list.md") - Sun Dec 17 2023
-- [.space/context.mdb]("./Inbox/.space/context.mdb") - Sun Dec 17 2023
-- [Inbox.md]("./Inbox/Inbox.md") - Sun Dec 17 2023
-- [spacesLastSync.log]("./Inbox/spacesLastSync.log") - Sun Dec 17 2023
-- [.md]("./Inbox/.md") - Sun Dec 17 2023
+- [User Testing (Act1).md]("./Inbox/User_Testing_(Act1).md") - Mon Dec 18 2023
+- [Api list.md]("./Inbox/Api_list.md") - Mon Dec 18 2023
+- [.space/context.mdb]("./Inbox/.space/context.mdb") - Mon Dec 18 2023
+- [Inbox.md]("./Inbox/Inbox.md") - Mon Dec 18 2023
+- [spacesLastSync.log]("./Inbox/spacesLastSync.log") - Mon Dec 18 2023
+- [.md]("./Inbox/.md") - Mon Dec 18 2023
 
 ### [.github](#.github)
-- [makeREADME.py]("./.github/makeREADME.py") - Sun Dec 17 2023
-- [workflows/main.yml]("./.github/workflows/main.yml") - Sun Dec 17 2023
+- [makeREADME.py]("./.github/makeREADME.py") - Mon Dec 18 2023
+- [workflows/main.yml]("./.github/workflows/main.yml") - Mon Dec 18 2023
 
