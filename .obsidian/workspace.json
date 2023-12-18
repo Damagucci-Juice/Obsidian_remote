@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/TCA/[ToyProject].md",
+                "file": "Spaces/Home/CheckList/Daily/2023-12-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/TCA/[ToyProject].md",
+                "file": "Spaces/Home/CheckList/Daily/2023-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/TCA/[ToyProject].md",
+                "file": "Spaces/Home/CheckList/Daily/2023-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TCA/[ToyProject].md"
+                "file": "Spaces/Home/CheckList/Daily/2023-12-18.md"
               }
             }
           },
@@ -168,25 +168,26 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
-    "Archive/TravelTalk/iPhone 14 - 431.png",
-    "Archive/TravelTalk/iPhone 14 - 426.png",
-    "Archive/TravelTalk/iPhone 14 - 363.png",
-    "Archive/TravelTalk/iPhone 14 - 425.png",
-    "Archive/TravelTalk/iPhone 14 - 406.png",
-    "Archive/TravelTalk/iPhone 14 - 399.png",
-    "Archive/TravelTalk/iPhone 14 - 391.png",
+    "Project/TCA/[ToyProject].md",
+    "Spaces/Home/CheckList/Daily/2023-12-18.md",
+    "Archive/TravelTalk/result2.png",
+    "Archive/TravelTalk/result.png",
+    "Archive/TravelTalk/listening.png",
+    "Archive/TravelTalk/main1.png",
+    "Archive/TravelTalk/onboarding2.png",
+    "Archive/TravelTalk/onboarding1.png",
+    "Archive/TravelTalk/onboarding.png",
+    "Area/Macro/ImageBox/App Main Images On AppStore.zip",
+    "Area/Macro/ImageBox/Archive.zip",
+    "Area/Macro/ImageBox/앱스토어 32.png",
+    "Area/Macro/ImageBox/앱스토어 31.png",
+    "Area/Macro/ImageBox/앱스토어 30.png",
     "Archive/TravelTalk",
     "Area/Macro/ImageBox/앱 대표 사진.zip",
-    "Area/Macro/ImageBox/Archive.zip",
-    "Area/Macro/ImageBox/앱스토어 13.png",
-    "Area/Macro/ImageBox/앱스토어 8.png",
-    "Area/Macro/ImageBox/앱스토어 12.png",
-    "Area/Macro/ImageBox/앱스토어 11.png",
     "Project/TCA/[SwiftUI-TCA] 6. 타이머 관리.md",
     "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
     "Project/TCA/[SwiftUI-TCA] TCA 톺아보기.md",
     "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
-    "Project/TCA/[ToyProject].md",
     "Project/TCA/TCA.md",
     "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
     "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
@@ -215,7 +216,6 @@
     "Spaces/Home/CheckList/CheckList.md",
     "Spaces/Home/CheckList/Monthly",
     "Spaces/Home/CheckList/Daily",
-    "Spaces/Home/CheckList/Weekly",
     "Resource/Algorithm/Algorithm.canvas",
     "Archive/SafariExtension/용어정리.canvas",
     "Project/SafariExtension/용어정리.canvas",
