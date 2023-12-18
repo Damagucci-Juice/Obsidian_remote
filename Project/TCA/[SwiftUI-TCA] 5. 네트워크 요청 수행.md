@@ -164,6 +164,69 @@ struct CounterFeature {
 }
 ```
 - state.fact를 .run안에서 변경하는 것은 불가
-- 
+- `sendable` 클로저가 `inout` 상태를 캡쳐하는 것은 불가능하기 때문에 컴파일러가 변경을 막는다. 
+- 이 점이 State 변경을 Reducer안에 Effect에서 막은 이유
+
+# Step4. 가져온 정보를 action을 통해 다시 받기 
+```swift
+import ComposableArchitecture
+
+
+@Reducer
+struct CounterFeature {
+  struct State: Equatable {
+    var count = 0
+    var fact: String?
+    var isLoading = false
+  }
+
+
+  enum Action {
+    case decrementButtonTapped
+    case factButtonTapped
+    case factResponse(String)
+    case incrementButtonTapped
+  }
+
+
+  var body: some ReducerOf<Self> {
+    Reduce { state, action in
+      switch action {
+      case .decrementButtonTapped:
+        state.count -= 1
+        state.fact = nil
+        return .none
+        
+      case .factButtonTapped:
+        state.fact = nil
+        state.isLoading = true
+        return .run { [count = state.count] send in
+          let (data, _) = try await URLSession.shared
+            .data(from: URL(string: "http://numbersapi.com/\(count)")!)
+          let fact = String(decoding: data, as: UTF8.self)
+          await send(.factResponse(fact))
+        }
+        
+      case let .factResponse(fact):
+        state.fact = fact
+        state.isLoading = false
+        return .none
+        
+      case .incrementButtonTapped:
+        state.count += 1
+        state.fact = nil
+        return .none
+      }
+    }
+  }
+}
+```
+- 네트워크 요청에 응답 정보를 effect로 부터 reducer로 가져오기 위해서 `factResponse`라는 Action이 필요
+- 이 액션은 연관 값(Associated value)를 스트링으로 가지고 있을 것
+- 비동기 작업후에 Effect안에서 이 액션을 send 하고 나서,
+- 이 액션 안에서 isLoading과 fact를 업데이트 가능
+
+>[!warning]
+> 현재는 에러를 무시하지만, 더 완성도 있는 앱이 되기 위해서 에러 핸들링을 해야하는데, 이 때 `TaskResult` 반환되는 에러에 적절한 행동을 정의
 
 2023.12.15 작성중 ...
