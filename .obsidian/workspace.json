@@ -11,14 +11,11 @@
             "id": "3fe92dc15cec97e5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Resource/칭찬박스/동기부여.canvas",
-                "viewState": {
-                  "x": 540,
-                  "y": 310,
-                  "zoom": -0.4527182745508625
-                }
+                "file": "Project/TCA/[ToyProject].md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/칭찬박스/동기부여.canvas",
+                "file": "Project/TCA/[ToyProject].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/칭찬박스/동기부여.canvas",
+                "file": "Project/TCA/[ToyProject].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/칭찬박스/동기부여.canvas"
+                "file": "Project/TCA/[ToyProject].md"
               }
             }
           },
@@ -171,10 +168,21 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
+    "Project/TCA/TCA.md",
+    "Project/TCA/[ToyProject].md",
     "Project/TCA/[swiftUI-TCA] TCA 톺아보기.md",
-    "Inbox/Api list.md",
+    "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
+    "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
+    "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
     "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
     "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
+    "Resource/Xcode/여러 앱 타겟 단일 info.plist.md",
+    "Resource/Xcode/CoreLocation, 위치.md",
+    "Resource/개발일반/읽기 좋은 코드 - 변수명.md",
+    "Resource/자기개발/북적북적 개발자 박성은.md",
+    "Resource/자기개발/파인만 기법.md",
+    "Resource/칭찬박스/동기부여.canvas",
+    "Inbox/Api list.md",
     "Project/Resume/장영진 이력서.pdf",
     "Project/Resume/장영진_노션이력서.pdf",
     "Project/Resume/장영진 iOS 개발자.pdf",
@@ -182,12 +190,8 @@
     "Project/Resume/Resume Map.canvas",
     "Project/Resume/PortFolio Example.png",
     "Project/Resume/Resume.md",
-    "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
-    "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
-    "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
     "Area/Area.md",
     "Spaces/Home/CheckList/Daily/2023-12-14.md",
-    "Project/TCA/TCA.md",
     "Spaces/Home/CheckList/Daily/Daily.md",
     "Project/Project.md",
     "Obsidian Vault.md",
@@ -198,20 +202,13 @@
     "Spaces/Home/CheckList/CheckList.md",
     "Inbox/User Testing (Act1).md",
     "Resource/SwiftUI Architecture/확장 가능하고 테스트 가능한 아키텍쳐.md",
-    "Spaces/Home/CheckList/Monthly/Monthly.md",
     "Spaces/Home/CheckList/Monthly",
     "Spaces/Home/CheckList/Daily",
     "Spaces/Home/CheckList/Weekly",
-    "README.md",
-    "Spaces/Home/Home.md",
-    "Spaces/Dev/Dev.md",
-    "Area/Macro/Swift Markdown.md",
     "Project/Photo_on_11-30-23_at_11.39_AM__2-removebg-preview.png",
-    "Area/Macro/SpriteKit Practice.md",
     "Resource/창업/BF4DEF28-0F8C-4BDA-B856-EDFFA8040E14.jpeg",
     "Resource/창업/VC는 어떤거냐.jpg",
     "Resource/창업/예창패 실태.jpg",
-    "Resource/칭찬박스/동기부여.canvas",
     "Archive/SafariExtension/Pasted image 20231128135517.png",
     "Archive/SafariExtension/Pasted image 20231128135759.png",
     "Project/Concurrency/직렬, 병렬.png",
