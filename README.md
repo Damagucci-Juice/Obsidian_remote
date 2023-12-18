@@ -486,9 +486,9 @@ A collection of notes and solutions on various mathematical topics.
 - [info/exclude]("./.git/info/exclude") - Mon Dec 18 2023
 - [description]("./.git/description") - Mon Dec 18 2023
 - [objects/pack]("./.git/objects/pack")
-  - [pack-b71ce532b66b7cd3eb60103adeacab8f545f93ba.rev]("./.git/objects/pack/pack-b71ce532b66b7cd3eb60103adeacab8f545f93ba.rev") - Mon Dec 18 2023
-  - [pack-b71ce532b66b7cd3eb60103adeacab8f545f93ba.idx]("./.git/objects/pack/pack-b71ce532b66b7cd3eb60103adeacab8f545f93ba.idx") - Mon Dec 18 2023
-  - [pack-b71ce532b66b7cd3eb60103adeacab8f545f93ba.pack]("./.git/objects/pack/pack-b71ce532b66b7cd3eb60103adeacab8f545f93ba.pack") - Mon Dec 18 2023
+  - [pack-02fdd15168f6d7f966d5b05fdf158457dc64f4d3.pack]("./.git/objects/pack/pack-02fdd15168f6d7f966d5b05fdf158457dc64f4d3.pack") - Mon Dec 18 2023
+  - [pack-02fdd15168f6d7f966d5b05fdf158457dc64f4d3.idx]("./.git/objects/pack/pack-02fdd15168f6d7f966d5b05fdf158457dc64f4d3.idx") - Mon Dec 18 2023
+  - [pack-02fdd15168f6d7f966d5b05fdf158457dc64f4d3.rev]("./.git/objects/pack/pack-02fdd15168f6d7f966d5b05fdf158457dc64f4d3.rev") - Mon Dec 18 2023
 - [HEAD]("./.git/HEAD") - Mon Dec 18 2023
 
 ### [Obsidian Vault.md](#Obsidian Vault.md)
@@ -594,10 +594,10 @@ A collection of notes and solutions on various mathematical topics.
   - [[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md]("./Project/TCA/[SwiftUI-TCA]_2._SwiftUI의_View와_통합.md") - Mon Dec 18 2023
   - [.space/context.mdb]("./Project/TCA/.space/context.mdb") - Mon Dec 18 2023
   - [[swiftUI-TCA] TCA 톺아보기.md]("./Project/TCA/[swiftUI-TCA]_TCA_톺아보기.md") - Mon Dec 18 2023
-  - [[ToyProject].md]("./Project/TCA/[ToyProject].md") - Mon Dec 18 2023
   - [[SwiftUI-TCA] 4. Side effects 추가.md]("./Project/TCA/[SwiftUI-TCA]_4._Side_effects_추가.md") - Mon Dec 18 2023
   - [TCA 구조의 정수.png]("./Project/TCA/TCA_구조의_정수.png") - Mon Dec 18 2023
   - [[SwiftUI-TCA] 6. 타이머 관리.md]("./Project/TCA/[SwiftUI-TCA]_6._타이머_관리.md") - Mon Dec 18 2023
+  - [[ToyProject] 나만의 핀터레스트, 무드보드.md]("./Project/TCA/[ToyProject]_나만의_핀터레스트,_무드보드.md") - Mon Dec 18 2023
   - [[SwiftUI-TCA] 1. Reducer 생성.md]("./Project/TCA/[SwiftUI-TCA]_1._Reducer_생성.md") - Mon Dec 18 2023
   - [[SwiftUI-TCA] 3. 앱과 연결.md]("./Project/TCA/[SwiftUI-TCA]_3._앱과_연결.md") - Mon Dec 18 2023
 
