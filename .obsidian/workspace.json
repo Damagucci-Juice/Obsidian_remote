@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
+                "file": "Project/TCA/[ToyProject].md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5024719238281,
-    "collapsed": true
+    "width": 307.5024719238281
   },
   "right": {
     "id": "c81d8af55f079df0",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
+                "file": "Project/TCA/[ToyProject].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
+                "file": "Project/TCA/[ToyProject].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md"
+                "file": "Project/TCA/[ToyProject].md"
               }
             }
           },
@@ -169,11 +168,12 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
-    "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
+    "Project/TCA/[SwiftUI-TCA] 6. 타이머 관리.md",
     "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
+    "Project/TCA/[SwiftUI-TCA] TCA 톺아보기.md",
+    "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
     "Project/TCA/[ToyProject].md",
     "Project/TCA/TCA.md",
-    "Project/TCA/[swiftUI-TCA] TCA 톺아보기.md",
     "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
     "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
     "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
@@ -202,7 +202,6 @@
     "Spaces/Home/CheckList/Weekly/Weekly.md",
     "Spaces/Home/CheckList/CheckList.md",
     "Inbox/User Testing (Act1).md",
-    "Resource/SwiftUI Architecture/확장 가능하고 테스트 가능한 아키텍쳐.md",
     "Spaces/Home/CheckList/Monthly",
     "Spaces/Home/CheckList/Daily",
     "Spaces/Home/CheckList/Weekly",

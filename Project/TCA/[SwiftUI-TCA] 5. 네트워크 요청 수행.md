@@ -227,6 +227,7 @@ struct CounterFeature {
 - 이 액션 안에서 isLoading과 fact를 업데이트 가능
 
 >[!warning]
-> 현재는 에러를 무시하지만, 더 완성도 있는 앱이 되기 위해서 에러 핸들링을 해야하는데, 이 때 `TaskResult` 반환되는 에러에 적절한 행동을 정의
+> 현재는 에러를 무시하지만, 더 완성도 있는 앱이 되기 위해서 에러 핸들링을 해야하는데, 이 때 `TaskResult`를 이용해 반환되는 에러에 대한 리듀서의 적절한 행동을 정의
 
-2023.12.15 작성중 ...
+# 참조
+- https://pointfreeco.github.io/swift-composable-architecture/main/tutorials/composablearchitecture/01-02-addingsideeffects
