@@ -486,9 +486,9 @@ A collection of notes and solutions on various mathematical topics.
 - [info/exclude]("./.git/info/exclude") - Mon Dec 18 2023
 - [description]("./.git/description") - Mon Dec 18 2023
 - [objects/pack]("./.git/objects/pack")
-  - [pack-e025ddeca84be06662a8ce2563535bf505553f92.idx]("./.git/objects/pack/pack-e025ddeca84be06662a8ce2563535bf505553f92.idx") - Mon Dec 18 2023
-  - [pack-e025ddeca84be06662a8ce2563535bf505553f92.pack]("./.git/objects/pack/pack-e025ddeca84be06662a8ce2563535bf505553f92.pack") - Mon Dec 18 2023
-  - [pack-e025ddeca84be06662a8ce2563535bf505553f92.rev]("./.git/objects/pack/pack-e025ddeca84be06662a8ce2563535bf505553f92.rev") - Mon Dec 18 2023
+  - [pack-8d1e99577ff3f14364be11066058e2f8c59d73fd.rev]("./.git/objects/pack/pack-8d1e99577ff3f14364be11066058e2f8c59d73fd.rev") - Mon Dec 18 2023
+  - [pack-8d1e99577ff3f14364be11066058e2f8c59d73fd.pack]("./.git/objects/pack/pack-8d1e99577ff3f14364be11066058e2f8c59d73fd.pack") - Mon Dec 18 2023
+  - [pack-8d1e99577ff3f14364be11066058e2f8c59d73fd.idx]("./.git/objects/pack/pack-8d1e99577ff3f14364be11066058e2f8c59d73fd.idx") - Mon Dec 18 2023
 - [HEAD]("./.git/HEAD") - Mon Dec 18 2023
 
 ### [Obsidian Vault.md](#Obsidian Vault.md)
@@ -661,6 +661,14 @@ A collection of notes and solutions on various mathematical topics.
 
 ### [Archive](#Archive)
 - [Archive.md]("./Archive/Archive.md") - Mon Dec 18 2023
+- [TravelTalk]("./Archive/TravelTalk")
+  - [iPhone 14 - 426.png]("./Archive/TravelTalk/iPhone_14_-_426.png") - Mon Dec 18 2023
+  - [iPhone 14 - 363.png]("./Archive/TravelTalk/iPhone_14_-_363.png") - Mon Dec 18 2023
+  - [iPhone 14 - 399.png]("./Archive/TravelTalk/iPhone_14_-_399.png") - Mon Dec 18 2023
+  - [iPhone 14 - 431.png]("./Archive/TravelTalk/iPhone_14_-_431.png") - Mon Dec 18 2023
+  - [iPhone 14 - 391.png]("./Archive/TravelTalk/iPhone_14_-_391.png") - Mon Dec 18 2023
+  - [iPhone 14 - 406.png]("./Archive/TravelTalk/iPhone_14_-_406.png") - Mon Dec 18 2023
+  - [iPhone 14 - 425.png]("./Archive/TravelTalk/iPhone_14_-_425.png") - Mon Dec 18 2023
 - [Image Inbox]("./Archive/Image_Inbox")
   - [Pasted image 20231023091344.png]("./Archive/Image_Inbox/Pasted_image_20231023091344.png") - Mon Dec 18 2023
   - [Pasted image 20231010095832.png]("./Archive/Image_Inbox/Pasted_image_20231010095832.png") - Mon Dec 18 2023
