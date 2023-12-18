@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/TCA/[ToyProject].md",
+                "file": "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5024719238281
+    "width": 307.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "c81d8af55f079df0",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/TCA/[ToyProject].md",
+                "file": "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/TCA/[ToyProject].md",
+                "file": "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TCA/[ToyProject].md"
+                "file": "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md"
               }
             }
           },
@@ -168,14 +169,14 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
-    "Project/TCA/TCA.md",
+    "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
+    "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
     "Project/TCA/[ToyProject].md",
+    "Project/TCA/TCA.md",
     "Project/TCA/[swiftUI-TCA] TCA 톺아보기.md",
     "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
     "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
     "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
-    "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
-    "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
     "Resource/Xcode/여러 앱 타겟 단일 info.plist.md",
     "Resource/Xcode/CoreLocation, 위치.md",
     "Resource/개발일반/읽기 좋은 코드 - 변수명.md",
