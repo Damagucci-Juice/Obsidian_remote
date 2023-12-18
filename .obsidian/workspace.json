@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-18.md",
+                "file": "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-18.md",
+                "file": "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-18.md",
+                "file": "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-18.md"
+                "file": "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md"
               }
             }
           },
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +167,8 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
-    "Project/TCA/[ToyProject].md",
     "Spaces/Home/CheckList/Daily/2023-12-18.md",
+    "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
     "Archive/TravelTalk/result2.png",
     "Archive/TravelTalk/result.png",
     "Archive/TravelTalk/listening.png",
