@@ -486,9 +486,9 @@ A collection of notes and solutions on various mathematical topics.
 - [info/exclude]("./.git/info/exclude") - Mon Dec 18 2023
 - [description]("./.git/description") - Mon Dec 18 2023
 - [objects/pack]("./.git/objects/pack")
-  - [pack-8d1e99577ff3f14364be11066058e2f8c59d73fd.rev]("./.git/objects/pack/pack-8d1e99577ff3f14364be11066058e2f8c59d73fd.rev") - Mon Dec 18 2023
-  - [pack-8d1e99577ff3f14364be11066058e2f8c59d73fd.pack]("./.git/objects/pack/pack-8d1e99577ff3f14364be11066058e2f8c59d73fd.pack") - Mon Dec 18 2023
-  - [pack-8d1e99577ff3f14364be11066058e2f8c59d73fd.idx]("./.git/objects/pack/pack-8d1e99577ff3f14364be11066058e2f8c59d73fd.idx") - Mon Dec 18 2023
+  - [pack-b71ce532b66b7cd3eb60103adeacab8f545f93ba.rev]("./.git/objects/pack/pack-b71ce532b66b7cd3eb60103adeacab8f545f93ba.rev") - Mon Dec 18 2023
+  - [pack-b71ce532b66b7cd3eb60103adeacab8f545f93ba.idx]("./.git/objects/pack/pack-b71ce532b66b7cd3eb60103adeacab8f545f93ba.idx") - Mon Dec 18 2023
+  - [pack-b71ce532b66b7cd3eb60103adeacab8f545f93ba.pack]("./.git/objects/pack/pack-b71ce532b66b7cd3eb60103adeacab8f545f93ba.pack") - Mon Dec 18 2023
 - [HEAD]("./.git/HEAD") - Mon Dec 18 2023
 
 ### [Obsidian Vault.md](#Obsidian Vault.md)
@@ -662,13 +662,13 @@ A collection of notes and solutions on various mathematical topics.
 ### [Archive](#Archive)
 - [Archive.md]("./Archive/Archive.md") - Mon Dec 18 2023
 - [TravelTalk]("./Archive/TravelTalk")
-  - [iPhone 14 - 426.png]("./Archive/TravelTalk/iPhone_14_-_426.png") - Mon Dec 18 2023
-  - [iPhone 14 - 363.png]("./Archive/TravelTalk/iPhone_14_-_363.png") - Mon Dec 18 2023
-  - [iPhone 14 - 399.png]("./Archive/TravelTalk/iPhone_14_-_399.png") - Mon Dec 18 2023
-  - [iPhone 14 - 431.png]("./Archive/TravelTalk/iPhone_14_-_431.png") - Mon Dec 18 2023
+  - [listening.png]("./Archive/TravelTalk/listening.png") - Mon Dec 18 2023
+  - [onboarding1.png]("./Archive/TravelTalk/onboarding1.png") - Mon Dec 18 2023
+  - [result2.png]("./Archive/TravelTalk/result2.png") - Mon Dec 18 2023
+  - [onboarding2.png]("./Archive/TravelTalk/onboarding2.png") - Mon Dec 18 2023
   - [iPhone 14 - 391.png]("./Archive/TravelTalk/iPhone_14_-_391.png") - Mon Dec 18 2023
-  - [iPhone 14 - 406.png]("./Archive/TravelTalk/iPhone_14_-_406.png") - Mon Dec 18 2023
-  - [iPhone 14 - 425.png]("./Archive/TravelTalk/iPhone_14_-_425.png") - Mon Dec 18 2023
+  - [main1.png]("./Archive/TravelTalk/main1.png") - Mon Dec 18 2023
+  - [result.png]("./Archive/TravelTalk/result.png") - Mon Dec 18 2023
 - [Image Inbox]("./Archive/Image_Inbox")
   - [Pasted image 20231023091344.png]("./Archive/Image_Inbox/Pasted_image_20231023091344.png") - Mon Dec 18 2023
   - [Pasted image 20231010095832.png]("./Archive/Image_Inbox/Pasted_image_20231010095832.png") - Mon Dec 18 2023
