@@ -55,9 +55,7 @@
     "Spaces/Home//",
     "Spaces/Home///Project/Project/TCA",
     "Spaces/Home/Spaces/Home/CheckList",
-    "Spaces/Home/Spaces/Home/CheckList/Spaces/Home/CheckList/Daily",
-    "Spaces/Home/Spaces/Home/CheckList/Spaces/Home/CheckList/Monthly",
-    "Spaces/Home/Spaces/Home/CheckList/Spaces/Home/CheckList/Weekly"
+    "Spaces/Home///Project"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
