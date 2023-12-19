@@ -486,9 +486,9 @@ A collection of notes and solutions on various mathematical topics.
 - [info/exclude]("./.git/info/exclude") - Tue Dec 19 2023
 - [description]("./.git/description") - Tue Dec 19 2023
 - [objects/pack]("./.git/objects/pack")
-  - [pack-d269141a2d9d9e3e8889ab1aa545e8897baad9aa.rev]("./.git/objects/pack/pack-d269141a2d9d9e3e8889ab1aa545e8897baad9aa.rev") - Tue Dec 19 2023
-  - [pack-d269141a2d9d9e3e8889ab1aa545e8897baad9aa.idx]("./.git/objects/pack/pack-d269141a2d9d9e3e8889ab1aa545e8897baad9aa.idx") - Tue Dec 19 2023
-  - [pack-d269141a2d9d9e3e8889ab1aa545e8897baad9aa.pack]("./.git/objects/pack/pack-d269141a2d9d9e3e8889ab1aa545e8897baad9aa.pack") - Tue Dec 19 2023
+  - [pack-555dd4f6612d5b59ce4a3a7ec3516bad70bab1b4.rev]("./.git/objects/pack/pack-555dd4f6612d5b59ce4a3a7ec3516bad70bab1b4.rev") - Tue Dec 19 2023
+  - [pack-555dd4f6612d5b59ce4a3a7ec3516bad70bab1b4.idx]("./.git/objects/pack/pack-555dd4f6612d5b59ce4a3a7ec3516bad70bab1b4.idx") - Tue Dec 19 2023
+  - [pack-555dd4f6612d5b59ce4a3a7ec3516bad70bab1b4.pack]("./.git/objects/pack/pack-555dd4f6612d5b59ce4a3a7ec3516bad70bab1b4.pack") - Tue Dec 19 2023
 - [HEAD]("./.git/HEAD") - Tue Dec 19 2023
 
 ### [Obsidian Vault.md](#Obsidian Vault.md)
@@ -592,6 +592,7 @@ A collection of notes and solutions on various mathematical topics.
   - [[SwiftUI-TCA] 5. 네트워크 요청 수행.md]("./Project/TCA/[SwiftUI-TCA]_5._네트워크_요청_수행.md") - Tue Dec 19 2023
   - [TCA.md]("./Project/TCA/TCA.md") - Tue Dec 19 2023
   - [[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md]("./Project/TCA/[SwiftUI-TCA]_2._SwiftUI의_View와_통합.md") - Tue Dec 19 2023
+  - [[SwiftUI-TCA] 7. 기능 Test 도입.md]("./Project/TCA/[SwiftUI-TCA]_7._기능_Test_도입.md") - Tue Dec 19 2023
   - [.space/context.mdb]("./Project/TCA/.space/context.mdb") - Tue Dec 19 2023
   - [[swiftUI-TCA] TCA 톺아보기.md]("./Project/TCA/[swiftUI-TCA]_TCA_톺아보기.md") - Tue Dec 19 2023
   - [[SwiftUI-TCA] 4. Side effects 추가.md]("./Project/TCA/[SwiftUI-TCA]_4._Side_effects_추가.md") - Tue Dec 19 2023
