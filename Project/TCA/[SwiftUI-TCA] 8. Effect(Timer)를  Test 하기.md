@@ -187,4 +187,155 @@ final class CounterFeatureTests: XCTestCase {
 - 이렇게 하면 테스트를 통과할 것
 - 만약에 10초 뒤에를 테스트하고 싶다면 우리는 꼼짝없이 10초를 기다려야함
 - 이게 진짜 원하는게 맞는가? 
-- 전역적이고 조정 불가능한 `Task.sleep` 함수 대신 
+- 실제 시간을 기다리도록 하는 전역적이고 조정 불가능한 `Task.sleep` 함수 대신 다른것을 써야함 
+- `SwiftClock`을 사용
+	- 시뮬레이터와 장치에서 돌아가는 연속적인 시계를 제공
+	- 테스트에서는 조절 가능한 test clock을 사용
+	- 다행히 TCA는 조절 가능한 시계도 기본으로 제공
+
+# Step7. TCA 타이머 추가
+```swift 
+import ComposableArchitecture
+
+
+@Reducer
+struct CounterFeature {
+  struct State: Equatable {
+    var count = 0
+    var fact: String?
+    var isLoading = false
+    var isTimerRunning = false
+  }
+
+
+  enum Action {
+    case decrementButtonTapped
+    case factButtonTapped
+    case factResponse(String)
+    case incrementButtonTapped
+    case timerTick
+    case toggleTimerButtonTapped
+  }
+
+
+  enum CancelID { case timer }
+
+
+  @Dependency(\.continuousClock) var clock
+
+
+  var body: some ReducerOf<Self> {
+    Reduce { state, action in
+      switch action {
+      case .decrementButtonTapped:
+        state.count -= 1
+        state.fact = nil
+        return .none
+        
+      case .factButtonTapped:
+        state.fact = nil
+        state.isLoading = true
+        return .run { [count = state.count] send in
+          let (data, _) = try await URLSession.shared
+            .data(from: URL(string: "http://numbersapi.com/\(count)")!)
+          let fact = String(decoding: data, as: UTF8.self)
+          await send(.factResponse(fact))
+        }
+        
+      case let .factResponse(fact):
+        state.fact = fact
+        state.isLoading = false
+        return .none
+        
+      case .incrementButtonTapped:
+        state.count += 1
+        state.fact = nil
+        return .none
+        
+      case .timerTick:
+        state.count += 1
+        state.fact = nil
+        return .none
+        
+      case .toggleTimerButtonTapped:
+        state.isTimerRunning.toggle()
+        if state.isTimerRunning {
+          return .run { send in
+            for await _ in self.clock.timer(interval: .seconds(1)) {
+              await send(.timerTick)
+            }
+          }
+          .cancellable(id: CancelID.timer)
+        } else {
+          return .cancel(id: CancelID.timer)
+        }
+      }
+    }
+  }
+}
+```
+- `CounterFeature.swift` 파일에서 리듀서에 연속 시계에 대한 종속성을 추가 
+- 후에 실행하면 Task.sleep 대신 Clock을 이용하고 있는 것을 확인
+- 앞단에서 시간에 기반한 약간의 비동기 작업 덕분에 이제 즉각적이고 결정론적으로 간단한 테스트가 즉시 통과하는 것을 볼 수 있음
+```swift
+import ComposableArchitecture
+import XCTest
+
+
+@MainActor
+final class CounterFeatureTests: XCTestCase {
+  func testTimer() async {
+    let store = TestStore(initialState: CounterFeature.State()) {
+      CounterFeature()
+    }
+
+
+    await store.send(.toggleTimerButtonTapped) {
+      $0.isTimerRunning = true
+    }
+    await store.receive(\.timerTick, timeout: .seconds(2)) {
+      $0.count = 1
+    }
+    await store.send(.toggleTimerButtonTapped) {
+      $0.isTimerRunning = false
+    }
+  }
+}
+```
+
+# Step8. 테스트에 의존성 시계 추가
+```swift
+import ComposableArchitecture
+import XCTest
+
+
+@MainActor
+final class CounterFeatureTests: XCTestCase {
+  func testTimer() async {
+    let clock = TestClock()
+
+
+    let store = TestStore(initialState: CounterFeature.State()) {
+      CounterFeature()
+    } withDependencies: {
+      $0.continuousClock = clock
+    }
+
+
+    await store.send(.toggleTimerButtonTapped) {
+      $0.isTimerRunning = true
+    }
+    await clock.advance(by: .seconds(1))
+    await store.receive(\.timerTick) {
+      $0.count = 1
+    }
+    await store.send(.toggleTimerButtonTapped) {
+      $0.isTimerRunning = false
+    }
+  }
+}
+```
+- testTimer 메서드 상단에 의존성 테스트 시계 선언하고 의존성 주입
+- 기능의 리듀서에서 사용할 것으로 예상되는 시계
+- 이렇게 하면 테스트가 timerTick 액션을 받기 전에 실험용 시계에 1초 증가하라고 명령 가능
+- 즉시 통과하고, 100% 통과할 것이라 자신 
