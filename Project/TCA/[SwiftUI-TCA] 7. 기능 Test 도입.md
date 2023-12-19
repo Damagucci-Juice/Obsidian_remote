@@ -33,4 +33,52 @@ final class CounterFeatureTests: XCTestCase {
 }
 ```
 - 기본적인 구조는 위와 같음 
-- 테스트가 `async`를 채택하고 있음
+- 테스트가 선제적으로 `async`를 채택하고 있음
+- TCA에서 비동기를 활용하고 있기 때문
+
+# Step2. TestStore 생성
+```swift
+import ComposableArchitecture
+import XCTest
+
+
+@MainActor
+final class CounterFeatureTests: XCTestCase {
+  func testCounter() async {
+    let store = TestStore(initialState: CounterFeature.State()) {
+      CounterFeature()
+    }
+  }
+}
+```
+- TestStore를 생성
+	- 액션이 시스템에 보내짐에 따라서 기능이 어떤식으로 변화하하는지 행태를 검증하기 쉽게 해주는 도구
+- Store를 생성하는 것과 마찬가지로 시작 기본 상태를 제공
+- 후행 클로저에 이 기능을 수행할 리듀서를 명시
+
+# Step3. 액션 보내기 
+```swift
+import ComposableArchitecture
+import XCTest
+
+
+@MainActor
+final class CounterFeatureTests: XCTestCase {
+  func testCounter() async {
+    let store = TestStore(initialState: CounterFeature.State()) {
+      CounterFeature()
+    }
+
+
+    await store.send(.incrementButtonTapped)
+    await store.send(.decrementButtonTapped)
+  }
+}
+```
+- 사용자가 실제 하는 것처럼 에뮬레이팅하여 스토어에 액션을 보낼 수 있음
+- 더하고 빼기 기능을 한번씩 수행
+>[!note]
+>- 테스트스토어의 `send(_:assert:file:line:)`메서드는 비동기 코드
+>- 대부분의 기능이 비동기적인 사이드 이펙트를 포함하고 있어 TestStore 또한 이런 이펙트를 추적하기 위해 비동기 문맥을 사용
+
+# Step4. 테스트 실행하기 
