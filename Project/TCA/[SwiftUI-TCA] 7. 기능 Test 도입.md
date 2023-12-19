@@ -81,4 +81,77 @@ final class CounterFeatureTests: XCTestCase {
 >- 테스트스토어의 `send(_:assert:file:line:)`메서드는 비동기 코드
 >- 대부분의 기능이 비동기적인 사이드 이펙트를 포함하고 있어 TestStore 또한 이런 이펙트를 추적하기 위해 비동기 문맥을 사용
 
-# Step4. 테스트 실행하기 
+# Step4. 테스트 실행하기
+```swift
+import ComposableArchitecture
+import XCTest
+
+
+@MainActor
+final class CounterFeatureTests: XCTestCase {
+  func testCounter() async {
+    let store = TestStore(initialState: CounterFeature.State()) {
+      CounterFeature()
+    }
+
+
+    await store.send(.incrementButtonTapped)
+    // ❌ State was not expected to change, but a change occurred: …
+    //
+    //       CounterFeature.State(
+    //     −   count: 0,
+    //     +   count: 1,
+    //         fact: nil,
+    //         isLoading: false,
+    //         isTimerRunning: false
+    //       )
+    //
+    // (Expected: −, Actual: +)
+    await store.send(.decrementButtonTapped)
+    // ❌ State was not expected to change, but a change occurred: …
+    //
+    //       CounterFeature.State(
+    //     −   count: 1,
+    //     +   count: 0,
+    //         fact: nil,
+    //         isLoading: false,
+    //         isTimerRunning: false
+    //       )
+    //
+    // (Expected: −, Actual: +)
+  }
+}
+```
+- cmd+U를 눌러서 테스트 실행 혹은 테스트 메서드 옆에 버튼을 누름 
+- 테스트가 실패하는데 그 이유는 액션이 스토어에 보내지고 나서 후에 state의 상태를 체크하는 부분이 선언되어있어야함
+- 실패 메시지를 친절하게 보여줌 
+- 상태가 당신의 예상에서 어떻게 벗어났는지 그리고 실제 값은 어떤지 알려줌
+
+# Step5. 후행 클로저에 상태 검증
+```swift
+import ComposableArchitecture
+import XCTest
+
+
+@MainActor
+final class CounterFeatureTests: XCTestCase {
+  func testCounter() async {
+    let store = TestStore(initialState: CounterFeature.State()) {
+      CounterFeature()
+    }
+
+
+    await store.send(.incrementButtonTapped) {
+      $0.count = 1
+    }
+    await store.send(.decrementButtonTapped) {
+      $0.count = 0
+    }
+  }
+}
+```
+- 각각 액션을 보낸 후에 상태가 어떻게 변화하는지 assert를 추가
+- 후행 클로저에 선언만 하면 끝
+- 여기서 이 클로저는 액션에 의해 상태의 변화 전 버전을 건내 받음 
+- 여기서 액션이 수행되고 난 다음의 상태와 같게 변형 해줘야함
+	- 더하기 버튼을 눌렀을 때 상태(count)는 1, 빼기는 다시 0
