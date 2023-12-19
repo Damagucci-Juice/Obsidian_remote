@@ -486,9 +486,9 @@ A collection of notes and solutions on various mathematical topics.
 - [info/exclude]("./.git/info/exclude") - Tue Dec 19 2023
 - [description]("./.git/description") - Tue Dec 19 2023
 - [objects/pack]("./.git/objects/pack")
-  - [pack-dc71baf9a0f1bb62fc20fb40c86f29961309bb43.idx]("./.git/objects/pack/pack-dc71baf9a0f1bb62fc20fb40c86f29961309bb43.idx") - Tue Dec 19 2023
-  - [pack-dc71baf9a0f1bb62fc20fb40c86f29961309bb43.rev]("./.git/objects/pack/pack-dc71baf9a0f1bb62fc20fb40c86f29961309bb43.rev") - Tue Dec 19 2023
-  - [pack-dc71baf9a0f1bb62fc20fb40c86f29961309bb43.pack]("./.git/objects/pack/pack-dc71baf9a0f1bb62fc20fb40c86f29961309bb43.pack") - Tue Dec 19 2023
+  - [pack-03fafaa72c3acb55ae04611c2531b3521c57f515.idx]("./.git/objects/pack/pack-03fafaa72c3acb55ae04611c2531b3521c57f515.idx") - Tue Dec 19 2023
+  - [pack-03fafaa72c3acb55ae04611c2531b3521c57f515.pack]("./.git/objects/pack/pack-03fafaa72c3acb55ae04611c2531b3521c57f515.pack") - Tue Dec 19 2023
+  - [pack-03fafaa72c3acb55ae04611c2531b3521c57f515.rev]("./.git/objects/pack/pack-03fafaa72c3acb55ae04611c2531b3521c57f515.rev") - Tue Dec 19 2023
 - [HEAD]("./.git/HEAD") - Tue Dec 19 2023
 
 ### [Obsidian Vault.md](#Obsidian Vault.md)
@@ -591,11 +591,12 @@ A collection of notes and solutions on various mathematical topics.
 - [Project.md]("./Project/Project.md") - Tue Dec 19 2023
 - [TCA]("./Project/TCA")
   - [[SwiftUI-TCA] 5. 네트워크 요청 수행.md]("./Project/TCA/[SwiftUI-TCA]_5._네트워크_요청_수행.md") - Tue Dec 19 2023
+  - [[SwiftUI-TCA] 10. Testing Network Requests - 2.md]("./Project/TCA/[SwiftUI-TCA]_10._Testing_Network_Requests_-_2.md") - Tue Dec 19 2023
   - [TCA.md]("./Project/TCA/TCA.md") - Tue Dec 19 2023
   - [[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md]("./Project/TCA/[SwiftUI-TCA]_2._SwiftUI의_View와_통합.md") - Tue Dec 19 2023
+  - [[SwiftUI-TCA] 9. Testing Network Requests - 1.md]("./Project/TCA/[SwiftUI-TCA]_9._Testing_Network_Requests_-_1.md") - Tue Dec 19 2023
   - [.space/context.mdb]("./Project/TCA/.space/context.mdb") - Tue Dec 19 2023
   - [[swiftUI-TCA] TCA 톺아보기.md]("./Project/TCA/[swiftUI-TCA]_TCA_톺아보기.md") - Tue Dec 19 2023
-  - [[SwiftUI-TCA] 9. Testing Network Requests.md]("./Project/TCA/[SwiftUI-TCA]_9._Testing_Network_Requests.md") - Tue Dec 19 2023
   - [[SwiftUI-TCA] 4. Side effects 추가.md]("./Project/TCA/[SwiftUI-TCA]_4._Side_effects_추가.md") - Tue Dec 19 2023
   - [TCA 구조의 정수.png]("./Project/TCA/TCA_구조의_정수.png") - Tue Dec 19 2023
   - [[SwiftUI-TCA] 7. State를 Test 하기.md]("./Project/TCA/[SwiftUI-TCA]_7._State를_Test_하기.md") - Tue Dec 19 2023
