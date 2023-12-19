@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5024719238281
+    "width": 307.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "c81d8af55f079df0",
@@ -166,7 +167,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fe92dc15cec97e5",
+  "active": "8170cff780fd06eb",
   "lastOpenFiles": [
     "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
     "Project/TCA/[SwiftUI-TCA] 9. Testing Network Requests.md",
