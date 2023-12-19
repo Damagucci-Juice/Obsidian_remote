@@ -11,9 +11,11 @@
             "id": "3fe92dc15cec97e5",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Resource/Design"
+                "file": "Resource/Design/[창우(CW)] Design Challenge.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resource/Design/[창우(CW)] Design Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Resource/Design/[창우(CW)] Design Challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Resource/Design/[창우(CW)] Design Challenge.md"
+              }
             }
           },
           {
@@ -162,6 +168,7 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
+    "Resource/Design/[창우(CW)] Design Challenge.md",
     "Resource/Design/Design.md",
     "Resource/Resource.md",
     "Project/TCA/[SwiftUI-TCA] 8. Effect(Timer)를  Test 하기.md",
@@ -202,7 +209,6 @@
     "Resource/Xcode/여러 앱 타겟 단일 info.plist.md",
     "Resource/Xcode/CoreLocation, 위치.md",
     "Resource/개발일반/읽기 좋은 코드 - 변수명.md",
-    "Resource/자기개발/북적북적 개발자 박성은.md",
     "Resource/칭찬박스/동기부여.canvas",
     "Project/Resume/장영진 이력서.pdf",
     "Project/Resume/장영진_노션이력서.pdf",
