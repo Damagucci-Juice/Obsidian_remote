@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
+                "file": "Spaces/Home/CheckList/Weekly/12월 3째주 목표 설정(12.17-12.24).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
+                "file": "Spaces/Home/CheckList/Weekly/12월 3째주 목표 설정(12.17-12.24).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
+                "file": "Spaces/Home/CheckList/Weekly/12월 3째주 목표 설정(12.17-12.24).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md"
+                "file": "Spaces/Home/CheckList/Weekly/12월 3째주 목표 설정(12.17-12.24).md"
               }
             }
           },
@@ -167,7 +167,12 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
+    "Spaces/Home/CheckList/Monthly/12월 목표.md",
+    "Spaces/Home/CheckList/Weekly/12월 3째주 목표 설정(12.17-12.24).md",
+    "Spaces/Home/CheckList/Daily/2023-12-19.md",
     "Spaces/Home/CheckList/Daily/2023-12-18.md",
+    "Spaces/Home/CheckList/Weekly/Weekly.md",
+    "Spaces/Home/CheckList/CheckList.md",
     "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
     "Archive/TravelTalk/result2.png",
     "Archive/TravelTalk/result.png",
@@ -208,11 +213,6 @@
     "Spaces/Home/CheckList/Daily/2023-12-14.md",
     "Spaces/Home/CheckList/Daily/Daily.md",
     "Project/Project.md",
-    "Obsidian Vault.md",
-    "Inbox/Inbox.md",
-    "Inbox/2023-12-14.md",
-    "Spaces/Home/CheckList/Weekly/Weekly.md",
-    "Spaces/Home/CheckList/CheckList.md",
     "Spaces/Home/CheckList/Monthly",
     "Spaces/Home/CheckList/Daily",
     "Resource/Algorithm/Algorithm.canvas",

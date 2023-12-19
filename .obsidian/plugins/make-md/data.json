@@ -52,11 +52,12 @@
     "Spaces/Home///Spaces/Spaces/Home",
     "Spaces/Home///Spaces/Spaces/Home/Spaces/Home/TodayILearned",
     "Spaces/Home///Spaces/Spaces/Home/Spaces/Home/TodayILearned",
-    "Spaces/Home/Spaces/Home/CheckList/Spaces/Home/CheckList/Weekly",
-    "Spaces/Home///Inbox",
     "Spaces/Home//",
-    "Spaces/Home///Project",
-    "Spaces/Home///Project/Project/TCA"
+    "Spaces/Home///Project/Project/TCA",
+    "Spaces/Home/Spaces/Home/CheckList",
+    "Spaces/Home/Spaces/Home/CheckList/Spaces/Home/CheckList/Daily",
+    "Spaces/Home/Spaces/Home/CheckList/Spaces/Home/CheckList/Monthly",
+    "Spaces/Home/Spaces/Home/CheckList/Spaces/Home/CheckList/Weekly"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
