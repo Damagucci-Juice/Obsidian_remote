@@ -486,9 +486,9 @@ A collection of notes and solutions on various mathematical topics.
 - [info/exclude]("./.git/info/exclude") - Tue Dec 19 2023
 - [description]("./.git/description") - Tue Dec 19 2023
 - [objects/pack]("./.git/objects/pack")
-  - [pack-217bb65998be628e12617ec7098c4e24d549a4fb.rev]("./.git/objects/pack/pack-217bb65998be628e12617ec7098c4e24d549a4fb.rev") - Tue Dec 19 2023
-  - [pack-217bb65998be628e12617ec7098c4e24d549a4fb.pack]("./.git/objects/pack/pack-217bb65998be628e12617ec7098c4e24d549a4fb.pack") - Tue Dec 19 2023
-  - [pack-217bb65998be628e12617ec7098c4e24d549a4fb.idx]("./.git/objects/pack/pack-217bb65998be628e12617ec7098c4e24d549a4fb.idx") - Tue Dec 19 2023
+  - [pack-01380e4f3828f09d415f9b4c3a356babc065bd68.rev]("./.git/objects/pack/pack-01380e4f3828f09d415f9b4c3a356babc065bd68.rev") - Tue Dec 19 2023
+  - [pack-01380e4f3828f09d415f9b4c3a356babc065bd68.pack]("./.git/objects/pack/pack-01380e4f3828f09d415f9b4c3a356babc065bd68.pack") - Tue Dec 19 2023
+  - [pack-01380e4f3828f09d415f9b4c3a356babc065bd68.idx]("./.git/objects/pack/pack-01380e4f3828f09d415f9b4c3a356babc065bd68.idx") - Tue Dec 19 2023
 - [HEAD]("./.git/HEAD") - Tue Dec 19 2023
 
 ### [Obsidian Vault.md](#Obsidian Vault.md)
