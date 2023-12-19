@@ -10,5 +10,9 @@
   "obsidian-kanban",
   "obsidian-tasks-plugin",
   "obsius-publish",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "obsidian-outliner",
+  "obsidian-minimal-settings",
+  "obsidian-plugin-toc",
+  "url-into-selection"
 ]
