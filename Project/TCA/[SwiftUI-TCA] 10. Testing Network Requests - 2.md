@@ -184,4 +184,46 @@ struct CounterFeature {
 ```
 - `CounterFeature.swift`에 `@Dependency` 프로퍼티 래퍼를 이용해 새로운 의존성을 추가
 - 여기선 number fact client
-- 
+- 그러고 나서 `factButtonTapped`로부터 반환되는 effect에서 살아있는 네트워크 요청을 만들기 위해 URLSession에 접근하는 대신  `numberFact` 의존성을 사용
+- 이를 통해 기능에서 행태에 대해 즉각적이고 쉽게 유닛테스트를 작성 가능 
+	- 네트워크 이용을 피하면서 즉각적이고 결정론적으로 시험을 통과
+
+# Step5. 테스트 실행
+```swift
+import ComposableArchitecture
+import XCTest
+
+
+@MainActor
+final class CounterFeatureTests: XCTestCase {
+  func testNumberFact() async {
+    let store = TestStore(initialState: CounterFeature.State()) {
+      CounterFeature()
+    }
+
+
+    await store.send(.factButtonTapped) {
+      $0.isLoading = true
+    }
+    await store.receive(\.factResponse, timeout: .seconds(1)) {
+      $0.isLoading = false
+      $0.fact = "???"
+    }
+    // ❌ @Dependency(\.numberFact) has no test implementation, but was
+    //    accessed from a test context:
+    //
+    //   Location:
+    //     TCATest/CounterFeature.swift:70
+    //   Dependency:
+    //     NumberFactClient
+    //
+    // Dependencies registered with the library are not allowed to use
+    // their default, live implementations when run from tests.
+  }
+}
+```
+- 별다른 변경 사항 없이 테스트를 돌려도 돌려짐
+- 단 테스트 실패가 뜸
+- 실패 메시지가 재밌는데 "이 기능이 살아있는 의존성을 사용한다"라고 알려줌
+- 우연히 실수로 네트워크 요청(디스크에 파일 쓰기, 분석을 추적)을 만들때마다 테스트에서 그러지 말라고 알려줌
+- 우리는 테스트에서 
