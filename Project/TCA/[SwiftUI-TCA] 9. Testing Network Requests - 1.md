@@ -3,17 +3,19 @@
 - [[#이전 아티클|이전 아티클]]
 - [[#Step0. 들어가기 전에|Step0. 들어가기 전에]]
 - [[#Step1. 테스트 메서드 선언|Step1. 테스트 메서드 선언]]
-- [[#Step2.|Step2.]]
+- [[#Step2. `.factButtonTapped` 으로 액션을 보내 사용자가 버튼을 누른 것을 가정|Step2. `.factButtonTapped` 으로 액션을 보내 사용자가 버튼을 누른 것을 가정]]
+- [[#Step3. 테스트 수정|Step3. 테스트 수정]]
+- [[#Step4. 테스트 실행|Step4. 테스트 실행]]
 
 # 이전 아티클
-[[[SwiftUI-TCA] 1. Reducer 생성]]
-[[[SwiftUI-TCA] 2. SwiftUI의 View와 통합]]
-[[[SwiftUI-TCA] 3. 앱과 연결]]
-[[[SwiftUI-TCA] 4. Side effects 추가]]
-[[[SwiftUI-TCA] 5. 네트워크 요청 수행]]
-[[[SwiftUI-TCA] 6. 타이머 관리]]
-[[[SwiftUI-TCA] 7. State를 Test 하기]]
-[[[SwiftUI-TCA] 8. Effect(Timer)를  Test 하기]]
+- [[[SwiftUI-TCA] 1. Reducer 생성]]
+- [[[SwiftUI-TCA] 2. SwiftUI의 View와 통합]]
+- [[[SwiftUI-TCA] 3. 앱과 연결]]
+- [[[SwiftUI-TCA] 4. Side effects 추가]]
+- [[[SwiftUI-TCA] 5. 네트워크 요청 수행]]
+- [[[SwiftUI-TCA] 6. 타이머 관리]]
+- [[[SwiftUI-TCA] 7. State를 Test 하기]]
+- [[[SwiftUI-TCA] 8. Effect(Timer)를  Test 하기]]
 
 
 
@@ -116,4 +118,4 @@ final class CounterFeatureTests: XCTestCase {
   }
 ```
 - 테스트를 실행하면 fact값을 우리가 예측할 수 없어서 테스트가 실패됨
-- 
+- 또 다른 요소로는 네트워크 연결이나 서버 상태에 따라 테스트가 좌우되기 때문에 이런 테스트 방법은 권장되지 않음
