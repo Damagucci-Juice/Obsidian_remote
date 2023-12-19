@@ -10,5 +10,23 @@
 
 > - 이전 장에서 살펴본 State를 테스트는 테스트 영역 중에서 가장 간단한 구조였음
 > - 스토어에 의해서 처리되고 난 다음에 Effect를 검증하는 법을 배움
-> - 외부에 의존성을 가진 테스트(Network Request)는 하기 어려우니 이번 장에선 Timer를 테스트 해보기(어쨌든 Effect)
+> - 외부에 의존성을 가진 테스트(Network Request)는 하기 어려우니 이번 장에선 Timer를 테스트 해보기(타이머도 Effect의 일종)
 
+
+# Step1. 타이머 테스트 메서드 선언
+```swift
+import ComposableArchitecture
+import XCTest
+
+
+@MainActor
+final class CounterFeatureTests: XCTestCase {
+  func testTimer() async {
+    let store = TestStore(initialState: CounterFeature.State()) {
+      CounterFeature()
+    }
+  }
+}
+```
+- 마찬가지로 TestStore를 통해 얼개를 짬
+- 
