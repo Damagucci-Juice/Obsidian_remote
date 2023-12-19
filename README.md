@@ -486,9 +486,9 @@ A collection of notes and solutions on various mathematical topics.
 - [info/exclude]("./.git/info/exclude") - Tue Dec 19 2023
 - [description]("./.git/description") - Tue Dec 19 2023
 - [objects/pack]("./.git/objects/pack")
-  - [pack-008eac93c3bdc04565057d2f32c131d9cda6bb80.pack]("./.git/objects/pack/pack-008eac93c3bdc04565057d2f32c131d9cda6bb80.pack") - Tue Dec 19 2023
-  - [pack-008eac93c3bdc04565057d2f32c131d9cda6bb80.rev]("./.git/objects/pack/pack-008eac93c3bdc04565057d2f32c131d9cda6bb80.rev") - Tue Dec 19 2023
-  - [pack-008eac93c3bdc04565057d2f32c131d9cda6bb80.idx]("./.git/objects/pack/pack-008eac93c3bdc04565057d2f32c131d9cda6bb80.idx") - Tue Dec 19 2023
+  - [pack-84f9d8979f684bb13c229acf90f21c7a070b7815.idx]("./.git/objects/pack/pack-84f9d8979f684bb13c229acf90f21c7a070b7815.idx") - Tue Dec 19 2023
+  - [pack-84f9d8979f684bb13c229acf90f21c7a070b7815.rev]("./.git/objects/pack/pack-84f9d8979f684bb13c229acf90f21c7a070b7815.rev") - Tue Dec 19 2023
+  - [pack-84f9d8979f684bb13c229acf90f21c7a070b7815.pack]("./.git/objects/pack/pack-84f9d8979f684bb13c229acf90f21c7a070b7815.pack") - Tue Dec 19 2023
 - [HEAD]("./.git/HEAD") - Tue Dec 19 2023
 
 ### [Obsidian Vault.md](#Obsidian Vault.md)
@@ -591,7 +591,6 @@ A collection of notes and solutions on various mathematical topics.
 - [TCA]("./Project/TCA")
   - [[SwiftUI-TCA] 5. 네트워크 요청 수행.md]("./Project/TCA/[SwiftUI-TCA]_5._네트워크_요청_수행.md") - Tue Dec 19 2023
   - [TCA.md]("./Project/TCA/TCA.md") - Tue Dec 19 2023
-  - [[SwiftUI-TCA] 8. Effect를  Test 하기.md]("./Project/TCA/[SwiftUI-TCA]_8._Effect를__Test_하기.md") - Tue Dec 19 2023
   - [[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md]("./Project/TCA/[SwiftUI-TCA]_2._SwiftUI의_View와_통합.md") - Tue Dec 19 2023
   - [.space/context.mdb]("./Project/TCA/.space/context.mdb") - Tue Dec 19 2023
   - [[swiftUI-TCA] TCA 톺아보기.md]("./Project/TCA/[swiftUI-TCA]_TCA_톺아보기.md") - Tue Dec 19 2023
@@ -602,6 +601,7 @@ A collection of notes and solutions on various mathematical topics.
   - [[ToyProject] 나만의 핀터레스트, 무드보드.md]("./Project/TCA/[ToyProject]_나만의_핀터레스트,_무드보드.md") - Tue Dec 19 2023
   - [[SwiftUI-TCA] 1. Reducer 생성.md]("./Project/TCA/[SwiftUI-TCA]_1._Reducer_생성.md") - Tue Dec 19 2023
   - [[SwiftUI-TCA] 3. 앱과 연결.md]("./Project/TCA/[SwiftUI-TCA]_3._앱과_연결.md") - Tue Dec 19 2023
+  - [[SwiftUI-TCA] 8. Effect(Timer)를  Test 하기.md]("./Project/TCA/[SwiftUI-TCA]_8._Effect(Timer)를__Test_하기.md") - Tue Dec 19 2023
 
 ### [Area](#Area)
 - [Area.md]("./Area/Area.md") - Tue Dec 19 2023
