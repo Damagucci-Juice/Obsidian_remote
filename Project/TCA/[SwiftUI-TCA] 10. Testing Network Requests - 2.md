@@ -226,4 +226,72 @@ final class CounterFeatureTests: XCTestCase {
 - 단 테스트 실패가 뜸
 - 실패 메시지가 재밌는데 "이 기능이 살아있는 의존성을 사용한다"라고 알려줌
 - 우연히 실수로 네트워크 요청(디스크에 파일 쓰기, 분석을 추적)을 만들때마다 테스트에서 그러지 말라고 알려줌
-- 우리는 테스트에서 
+- 우리는 테스트에서 "살아있는 네트워크 요청"을 만들기를 원하지 않기 때문에 수정해야함
+- 한가지 작은 수정을 하면 완벽하게 통과함
+
+# Step6. 약간의 수정
+```swift
+import ComposableArchitecture
+import XCTest
+
+
+@MainActor
+final class CounterFeatureTests: XCTestCase {
+  func testNumberFact() async {
+    let store = TestStore(initialState: CounterFeature.State()) {
+      CounterFeature()
+    } withDependencies: {
+      $0.numberFact.fetch = { "\($0) is a good number." }
+    }
+
+
+    await store.send(.factButtonTapped) {
+      $0.isLoading = true
+    }
+    await store.receive(\.factResponse, timeout: .seconds(1)) {
+      $0.isLoading = false
+      $0.fact = "???"
+    }
+  }
+}
+```
+- [TestStore](https://pointfreeco.github.io/swift-composable-architecture/main/documentation/composablearchitecture/teststore)에서 `withDependencies`라는 후행 클로저를 열므로써 의존성을 override해야함
+- 이 클로저는 현재 의존성을 나타내는 인자를 전달
+- 특히, 원하는 방식으로 의존성을 변화시킬 수 있음
+- 여기서 `numberFact.fetch` 엔드포인트를 즉각적으로 하드 코딩된 스트링을 반환하도록 override 함
+- 여기서 실제 네트워크를 이용하는 비동기 작업은 없음
+
+# Step7. NumberFact 클라이언트를 override하기
+```swift 
+import ComposableArchitecture
+import XCTest
+
+
+@MainActor
+final class CounterFeatureTests: XCTestCase {
+  func testNumberFact() async {
+    let store = TestStore(initialState: CounterFeature.State()) {
+      CounterFeature()
+    } withDependencies: {
+      $0.numberFact.fetch = { "\($0) is a good number." }
+    }
+
+
+    await store.send(.factButtonTapped) {
+      $0.isLoading = true
+    }
+    await store.receive(\.factResponse) {
+      $0.isLoading = false
+      $0.fact = "0 is a good number."
+    }
+  }
+}
+```
+- 의존성으로 주입받은 numberFact 클라이언트가 항상 예상 가능한 문자열을 반환
+- receive로부터 timeout도 제거하고 상태가 적절하게 변화하는지 테스트 가능
+- 몇 가지 사전 단계가 필요하지만 완료되면 모든 기능에서 종속성을 즉시 사용 가능
+- 종속성을 제어하면 얻는 이점
+	-  테스트 작성
+	- 통제된 환경에서 Xcode 미리 보기를 실행
+	- 샌드박스에서 기능을 실행하는 사용자에게 온보딩을 제공
+	- 실수로 예상치 못한 외부 환경을 변경하는 일이 없도록 함

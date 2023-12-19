@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,15 +167,15 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
-    "Area/Obsidian/Callouts.md",
+    "Project/TCA/[SwiftUI-TCA] 9. Testing Network Requests - 1.md",
     "Project/TCA/[SwiftUI-TCA] 10. Testing Network Requests - 2.md",
+    "Area/Obsidian/Callouts.md",
     "README.md",
     "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
     "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
     "Project/TCA/TCA 구조의 정수.png",
     "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
     "Project/TCA/[SwiftUI-TCA] 8. Effect(Timer)를  Test 하기.md",
-    "Project/TCA/[SwiftUI-TCA] 9. Testing Network Requests - 1.md",
     "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
     "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
     "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
