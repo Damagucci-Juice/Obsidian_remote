@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/TCA/Untitled.md",
+                "file": "Project/TCA/[SwiftUI-TCA] 8. Effect를  Test 하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/TCA/Untitled.md",
+                "file": "Project/TCA/[SwiftUI-TCA] 8. Effect를  Test 하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/TCA/Untitled.md",
+                "file": "Project/TCA/[SwiftUI-TCA] 8. Effect를  Test 하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TCA/Untitled.md"
+                "file": "Project/TCA/[SwiftUI-TCA] 8. Effect를  Test 하기.md"
               }
             }
           },
@@ -168,9 +168,9 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
+    "Project/TCA/[SwiftUI-TCA] 7. State를 Test 하기.md",
+    "Project/TCA/[SwiftUI-TCA] 8. Effect를  Test 하기.md",
     "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
-    "Project/TCA/Untitled.md",
-    "Project/TCA/[SwiftUI-TCA] 7. 간단한 Test 도입.md",
     "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
     "Project/TCA/[SwiftUI-TCA] 6. 타이머 관리.md",
     "Spaces/Home/CheckList/Daily/2023-12-19.md",
