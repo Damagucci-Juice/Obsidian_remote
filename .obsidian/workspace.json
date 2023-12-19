@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 7. 기능 Test 도입.md",
+                "file": "Project/TCA/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5024719238281,
-    "collapsed": true
+    "width": 307.5024719238281
   },
   "right": {
     "id": "c81d8af55f079df0",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 7. 기능 Test 도입.md",
+                "file": "Project/TCA/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 7. 기능 Test 도입.md",
+                "file": "Project/TCA/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 7. 기능 Test 도입.md"
+                "file": "Project/TCA/Untitled.md"
               }
             }
           },
@@ -169,8 +168,10 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
+    "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
+    "Project/TCA/Untitled.md",
+    "Project/TCA/[SwiftUI-TCA] 7. 간단한 Test 도입.md",
     "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
-    "Project/TCA/[SwiftUI-TCA] 7. 기능 Test 도입.md",
     "Project/TCA/[SwiftUI-TCA] 6. 타이머 관리.md",
     "Spaces/Home/CheckList/Daily/2023-12-19.md",
     "Spaces/Home/CheckList/Daily/2023-12-14.md",
@@ -198,7 +199,6 @@
     "Project/TCA/[SwiftUI-TCA] TCA 톺아보기.md",
     "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
     "Project/TCA/TCA.md",
-    "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
     "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
     "Resource/Xcode/여러 앱 타겟 단일 info.plist.md",
     "Resource/Xcode/CoreLocation, 위치.md",
@@ -214,7 +214,6 @@
     "Project/Resume/Resume Map.canvas",
     "Project/Resume/Resume.md",
     "Area/Area.md",
-    "Spaces/Home/CheckList/Daily/Daily.md",
     "Spaces/Home/CheckList/Monthly",
     "Spaces/Home/CheckList/Daily",
     "Resource/Algorithm/Algorithm.canvas",
