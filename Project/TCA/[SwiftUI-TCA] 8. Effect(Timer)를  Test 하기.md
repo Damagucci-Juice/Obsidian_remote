@@ -61,5 +61,61 @@ final class CounterFeatureTests: XCTestCase {
 	- 이러는 이유는 예상치 못한 effect가 버그를 반환하는 경우
 	- 예상 못한 상태나 액션이 버그를 지니고 있을 수도 있어서
 # Step3. 타이머 테스트 로직 완성
-```swift 
+```swift
+import ComposableArchitecture
+import XCTest
+
+
+@MainActor
+final class CounterFeatureTests: XCTestCase {
+  func testTimer() async {
+    let store = TestStore(initialState: CounterFeature.State()) {
+      CounterFeature()
+    }
+
+
+    await store.send(.toggleTimerButtonTapped) {
+      $0.isTimerRunning = true
+    }
+    await store.send(.toggleTimerButtonTapped) {
+      $0.isTimerRunning = false
+    }
+  }
+}
 ```
+- 시작된 effect가 종료되는 것까지 확인하면 테스트가 완료됨 
+- 상태를 확인하는 것뿐 아니라 실질적으로 시간이 지남에 따라서 counter가 증가하는 것을 확인해야함
+	- `receive(_:timeout:assert:file:line:)`을 통해서 확인
+	- 액션을 받고 그 안에서 상태가 어떻게 변화하는지 검증하는 도구 
+
+# Step4. 시간 경과를 테스트 
+```swift
+import ComposableArchitecture
+import XCTest
+
+
+@MainActor
+final class CounterFeatureTests: XCTestCase {
+  func testTimer() async {
+    let store = TestStore(initialState: CounterFeature.State()) {
+      CounterFeature()
+    }
+
+
+    await store.send(.toggleTimerButtonTapped) {
+      $0.isTimerRunning = true
+    }
+    await store.receive(\.timerTick) {
+      $0.count = 1
+    }
+    await store.send(.toggleTimerButtonTapped) {
+      $0.isTimerRunning = false
+    }
+  }
+}
+```
+- timerTick을 받는 새로운 assertion을 추가
+- counter 가 1로 증가할 것을 검증
+>[!note]
+> key path를 사용해 이펙트에서 받을 액션 열거형의 케이스를 구분 
+
