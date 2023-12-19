@@ -46,16 +46,13 @@
     "Spaces/Home/Spaces/Home/TodayILearned",
     "Spaces/Home///Area/Area/Design",
     "Spaces/Home///Area/Area/Design",
-    "Spaces/Home///Resource/Resource/칭찬박스",
-    "Spaces/Home///Resource/Resource/칭찬박스",
-    "Spaces/Home///Resource/Resource/칭찬박스",
     "Spaces/Home///Spaces/Spaces/Home",
     "Spaces/Home///Spaces/Spaces/Home/Spaces/Home/TodayILearned",
     "Spaces/Home///Spaces/Spaces/Home/Spaces/Home/TodayILearned",
     "Spaces/Home//",
-    "Spaces/Home///Project/Project/TCA",
     "Spaces/Home/Spaces/Home/CheckList",
-    "Spaces/Home///Project"
+    "Spaces/Home///Resource",
+    "Spaces/Home///Resource/Resource/Design"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -94,7 +91,8 @@
     "Spaces/Home/TodayILearned",
     "Spaces/Home/CheckList/Weekly",
     "Spaces/Home/CheckList/Daily",
-    "Spaces/Home/CheckList/Monthly"
+    "Spaces/Home/CheckList/Monthly",
+    "Resource/Design"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
