@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 8. Effect(Timer)를  Test 하기.md",
+                "file": "Project/TCA/[SwiftUI-TCA] 9. Testing Network Requests.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5024719238281,
-    "collapsed": true
+    "width": 307.5024719238281
   },
   "right": {
     "id": "c81d8af55f079df0",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 8. Effect(Timer)를  Test 하기.md",
+                "file": "Project/TCA/[SwiftUI-TCA] 9. Testing Network Requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 8. Effect(Timer)를  Test 하기.md",
+                "file": "Project/TCA/[SwiftUI-TCA] 9. Testing Network Requests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TCA/[SwiftUI-TCA] 8. Effect(Timer)를  Test 하기.md"
+                "file": "Project/TCA/[SwiftUI-TCA] 9. Testing Network Requests.md"
               }
             }
           },
@@ -169,20 +168,22 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
+    "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
+    "Project/TCA/[SwiftUI-TCA] 9. Testing Network Requests.md",
+    "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
+    "Project/TCA/[SwiftUI-TCA] 8. Effect(Timer)를  Test 하기.md",
     "Resource/SwiftUI Architecture/확장 가능하고 테스트 가능한 아키텍쳐.md",
     "Resource/SwiftUI Architecture/SwiftUI Architecture.md",
     "Resource/Design/[창우(CW)] Design Challenge 2.md",
     "Resource/Design/[창우(CW)] Design Challenge 1.md",
     "Resource/Design/Design.md",
     "Resource/Resource.md",
-    "Project/TCA/[SwiftUI-TCA] 8. Effect(Timer)를  Test 하기.md",
     "Project/TCA/[SwiftUI-TCA] 7. State를 Test 하기.md",
     "Project/TCA/TCA.md",
     "Project/Project.md",
     "Area/Area.md",
     "Resource/Design",
     "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
-    "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
     "Project/TCA/[SwiftUI-TCA] 6. 타이머 관리.md",
     "Spaces/Home/CheckList/Daily/2023-12-19.md",
     "Spaces/Home/CheckList/Daily/2023-12-14.md",
@@ -206,10 +207,8 @@
     "Area/Macro/ImageBox/앱스토어 30.png",
     "Archive/TravelTalk",
     "Area/Macro/ImageBox/앱 대표 사진.zip",
-    "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
     "Project/TCA/[SwiftUI-TCA] TCA 톺아보기.md",
     "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
-    "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
     "Resource/칭찬박스/동기부여.canvas",
     "Project/Resume/장영진 이력서.pdf",
     "Project/Resume/장영진_노션이력서.pdf",
