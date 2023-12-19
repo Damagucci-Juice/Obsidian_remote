@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "아이작",
+                "query": "call out",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,8 +168,9 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
-    "README.md",
+    "Area/Obsidian/Callouts.md",
     "Project/TCA/[SwiftUI-TCA] 10. Testing Network Requests - 2.md",
+    "README.md",
     "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
     "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
     "Project/TCA/TCA 구조의 정수.png",
@@ -194,7 +196,6 @@
     "Spaces/Home/CheckList/Daily/2023-12-14.md",
     "Spaces/Home/CheckList/Daily/2023-12-18.md",
     "Spaces/Home/CheckList/Weekly/2023년 12월 3째주 목표 설정(12.17-12.24).md",
-    "Spaces/Home/CheckList/Monthly/2023년 12월 목표.md",
     "Archive/TravelTalk/result2.png",
     "Archive/TravelTalk/result.png",
     "Archive/TravelTalk/listening.png",

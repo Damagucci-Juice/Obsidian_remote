@@ -62,4 +62,126 @@ extension NumberFactClient: DependencyKey {
 
 > [!note]
 > - TCA에서 의존성 관리 시스템은 기술적으로 다른 swift-dependencies라는 라이브러리에 의해서 제공됨
-> - 
+> - 분리되어서 UIKit과 SwiftUI에서도 사용하기 편리하게 되어 더 분명해짐
+
+# Step3. 
+```swift
+import ComposableArchitecture
+import Foundation
+
+
+struct NumberFactClient {
+  var fetch: (Int) async throws -> String
+}
+
+
+extension NumberFactClient: DependencyKey {
+  static let liveValue = Self(
+    fetch: { number in
+      let (data, _) = try await URLSession.shared
+        .data(from: URL(string: "http://numbersapi.com/\(number)")!)
+      return String(decoding: data, as: UTF8.self)
+    }
+  )
+}
+
+
+extension DependencyValues {
+  var numberFact: NumberFactClient {
+    get { self[NumberFactClient.self] }
+    set { self[NumberFactClient.self] = newValue }
+  }
+}
+```
+- 라이브러리에 의존성을 등록하는 두번째 스텝은 getter와 setter가 있는 `DependencyValues`에 연산 프로퍼티를 추가하는 것
+- 이는 리듀서에서 `@Dependency(\.numberFact)` 와 같은 문법을 사용할 수 있게 해줌 
+- 이것이 의존성 앞에 조절 가능한 인터페이스를 넣는데 필요한 모든것임
+- 이런 앞선 작업들로 기능에 의존성을 사용할 수 있음
+- 테스트안에서 테스트 친화적인 의존성의 버전을 사용하기 시작함
+
+>[!note]
+> - 라이브러리에 의존성을 등록하는 것은 SwiftUI에 환경 변수값을 등록하는 것과 다름
+> - defaultValue를 제공하는 `EnvironmentKey`를 채택하길 요구하고 EnvironmentValues에 extension을 통해서 연산 프로퍼티를 제공해야함
+
+# Step4.리듀서에 생성한 의존성 추가
+```swift
+import ComposableArchitecture
+
+
+@Reducer
+struct CounterFeature {
+  struct State: Equatable {
+    var count = 0
+    var fact: String?
+    var isLoading = false
+    var isTimerRunning = false
+  }
+
+
+  enum Action {
+    case decrementButtonTapped
+    case factButtonTapped
+    case factResponse(String)
+    case incrementButtonTapped
+    case timerTick
+    case toggleTimerButtonTapped
+  }
+
+
+  enum CancelID { case timer }
+
+
+  @Dependency(\.continuousClock) var clock
+  @Dependency(\.numberFact) var numberFact
+
+
+  var body: some ReducerOf<Self> {
+    Reduce { state, action in
+      switch action {
+      case .decrementButtonTapped:
+        state.count -= 1
+        state.fact = nil
+        return .none
+        
+      case .factButtonTapped:
+        state.fact = nil
+        state.isLoading = true
+        return .run { [count = state.count] send in
+          try await send(.factResponse(self.numberFact.fetch(count)))
+        }
+        
+      case let .factResponse(fact):
+        state.fact = fact
+        state.isLoading = false
+        return .none
+        
+      case .incrementButtonTapped:
+        state.count += 1
+        state.fact = nil
+        return .none
+        
+      case .timerTick:
+        state.count += 1
+        state.fact = nil
+        return .none
+        
+      case .toggleTimerButtonTapped:
+        state.isTimerRunning.toggle()
+        if state.isTimerRunning {
+          return .run { send in
+            for await _ in self.clock.timer(interval: .seconds(1)) {
+              await send(.timerTick)
+            }
+          }
+          .cancellable(id: CancelID.timer)
+        } else {
+          return .cancel(id: CancelID.timer)
+        }
+      }
+    }
+  }
+}
+```
+- `CounterFeature.swift`에 `@Dependency` 프로퍼티 래퍼를 이용해 새로운 의존성을 추가
+- 여기선 number fact client
+- 
