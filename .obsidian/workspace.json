@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/Design/[창우(CW)] Design Challenge.md",
+                "file": "Resource/Design/[창우(CW)] Design Challenge 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/Design/[창우(CW)] Design Challenge.md",
+                "file": "Resource/Design/[창우(CW)] Design Challenge 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/Design/[창우(CW)] Design Challenge.md",
+                "file": "Resource/Design/[창우(CW)] Design Challenge 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Design/[창우(CW)] Design Challenge.md"
+                "file": "Resource/Design/[창우(CW)] Design Challenge 1.md"
               }
             }
           },
@@ -168,7 +168,8 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
-    "Resource/Design/[창우(CW)] Design Challenge.md",
+    "Resource/Design/[창우(CW)] Design Challenge 2.md",
+    "Resource/Design/[창우(CW)] Design Challenge 1.md",
     "Resource/Design/Design.md",
     "Resource/Resource.md",
     "Project/TCA/[SwiftUI-TCA] 8. Effect(Timer)를  Test 하기.md",
@@ -208,7 +209,6 @@
     "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
     "Resource/Xcode/여러 앱 타겟 단일 info.plist.md",
     "Resource/Xcode/CoreLocation, 위치.md",
-    "Resource/개발일반/읽기 좋은 코드 - 변수명.md",
     "Resource/칭찬박스/동기부여.canvas",
     "Project/Resume/장영진 이력서.pdf",
     "Project/Resume/장영진_노션이력서.pdf",
