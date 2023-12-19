@@ -486,9 +486,9 @@ A collection of notes and solutions on various mathematical topics.
 - [info/exclude]("./.git/info/exclude") - Tue Dec 19 2023
 - [description]("./.git/description") - Tue Dec 19 2023
 - [objects/pack]("./.git/objects/pack")
-  - [pack-ca369c8bbaff4c0964a765220bf9759801035fb0.idx]("./.git/objects/pack/pack-ca369c8bbaff4c0964a765220bf9759801035fb0.idx") - Tue Dec 19 2023
-  - [pack-ca369c8bbaff4c0964a765220bf9759801035fb0.rev]("./.git/objects/pack/pack-ca369c8bbaff4c0964a765220bf9759801035fb0.rev") - Tue Dec 19 2023
-  - [pack-ca369c8bbaff4c0964a765220bf9759801035fb0.pack]("./.git/objects/pack/pack-ca369c8bbaff4c0964a765220bf9759801035fb0.pack") - Tue Dec 19 2023
+  - [pack-ac663e30863d90e5d76b59d30d1012729cb7022d.pack]("./.git/objects/pack/pack-ac663e30863d90e5d76b59d30d1012729cb7022d.pack") - Tue Dec 19 2023
+  - [pack-ac663e30863d90e5d76b59d30d1012729cb7022d.idx]("./.git/objects/pack/pack-ac663e30863d90e5d76b59d30d1012729cb7022d.idx") - Tue Dec 19 2023
+  - [pack-ac663e30863d90e5d76b59d30d1012729cb7022d.rev]("./.git/objects/pack/pack-ac663e30863d90e5d76b59d30d1012729cb7022d.rev") - Tue Dec 19 2023
 - [HEAD]("./.git/HEAD") - Tue Dec 19 2023
 
 ### [Obsidian Vault.md](#Obsidian Vault.md)
@@ -548,7 +548,9 @@ A collection of notes and solutions on various mathematical topics.
   - [확장 가능하고 테스트 가능한 아키텍쳐.md]("./Resource/SwiftUI_Architecture/확장_가능하고_테스트_가능한_아키텍쳐.md") - Tue Dec 19 2023
   - [CleanArchitecture.md]("./Resource/SwiftUI_Architecture/CleanArchitecture.md") - Tue Dec 19 2023
   - [SwiftUI Architecture.md]("./Resource/SwiftUI_Architecture/SwiftUI_Architecture.md") - Tue Dec 19 2023
-- [Design/Design.md]("./Resource/Design/Design.md") - Tue Dec 19 2023
+- [Design]("./Resource/Design")
+  - [[창우(CW)] Design Challenge.md]("./Resource/Design/[창우(CW)]_Design_Challenge.md") - Tue Dec 19 2023
+  - [Design.md]("./Resource/Design/Design.md") - Tue Dec 19 2023
 - [Book/SecondBrain.canvas]("./Resource/Book/SecondBrain.canvas") - Tue Dec 19 2023
 - [CICD]("./Resource/CICD")
   - [앱 제출 - Provisioning.md]("./Resource/CICD/앱_제출_-_Provisioning.md") - Tue Dec 19 2023
