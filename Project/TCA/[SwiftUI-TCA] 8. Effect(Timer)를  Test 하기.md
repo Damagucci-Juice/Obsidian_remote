@@ -118,4 +118,73 @@ final class CounterFeatureTests: XCTestCase {
 - counter 가 1로 증가할 것을 검증
 >[!note]
 > key path를 사용해 이펙트에서 받을 액션 열거형의 케이스를 구분 
+- 테스트를 실행하면 1초 이상 걸리면서, 어떨 때는 통과하고 어떨 때는 떨어지는 것을 확인
 
+# Step5. 타이머 테스트가 실패하는 이유
+```swift 
+import ComposableArchitecture
+import XCTest
+
+
+@MainActor
+final class CounterFeatureTests: XCTestCase {
+  func testTimer() async {
+    let store = TestStore(initialState: CounterFeature.State()) {
+      CounterFeature()
+    }
+
+
+    await store.send(.toggleTimerButtonTapped) {
+      $0.isTimerRunning = true
+    }
+    await store.receive(\.timerTick) {
+      $0.count = 1
+    }
+    // ✅ Test Suite 'Selected tests' passed at 2023-08-04 11:17:44.823.
+    //        Executed 1 test, with 0 failures (0 unexpected) in 1.044 (1.046) seconds
+    //    or:
+    // ❌ Expected to receive an action, but received none after 0.1 seconds.
+    await store.send(.toggleTimerButtonTapped) {
+      $0.isTimerRunning = false
+    }
+  }
+}
+
+
+```
+- 이게 발생하는 이유는 타이머는 액션을 방출하기 위해 온전한 1초가 걸림
+- test store는 단지 액션을 받든지 말든지 약간의 시간만을 기다리기 때문
+- 테스트가 1초를 온전히 기다리는 경우도 있고 그렇지 않은 경우도 있다는 말
+
+# Step6. TestStore가 더 기다리게 하는 방법
+```swift
+import ComposableArchitecture
+import XCTest
+
+
+@MainActor
+final class CounterFeatureTests: XCTestCase {
+  func testTimer() async {
+    let store = TestStore(initialState: CounterFeature.State()) {
+      CounterFeature()
+    }
+
+
+    await store.send(.toggleTimerButtonTapped) {
+      $0.isTimerRunning = true
+    }
+    await store.receive(\.timerTick, timeout: .seconds(2)) {
+      $0.count = 1
+    }
+    await store.send(.toggleTimerButtonTapped) {
+      $0.isTimerRunning = false
+    }
+  }
+}
+```
+- `timeout`을 이용해 온전히 기다리게 하는 방법
+- Test.sleep이 엄밀한 도구가 아니라 1초 이상을 기다려야 함
+- 이렇게 하면 테스트를 통과할 것
+- 만약에 10초 뒤에를 테스트하고 싶다면 우리는 꼼짝없이 10초를 기다려야함
+- 이게 진짜 원하는게 맞는가? 
+- 전역적이고 조정 불가능한 `Task.sleep` 함수 대신 
