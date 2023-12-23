@@ -51,7 +51,7 @@
     "Spaces/Home///Spaces/Spaces/Home/Spaces/Home/TodayILearned",
     "Spaces/Home//",
     "Spaces/Home/Spaces/Home/CheckList",
-    "Spaces/Home///Project"
+    "Spaces/Home/Spaces/Home/CheckList/Spaces/Home/CheckList/Weekly"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -91,7 +91,8 @@
     "Spaces/Home/CheckList/Weekly",
     "Spaces/Home/CheckList/Daily",
     "Spaces/Home/CheckList/Monthly",
-    "Resource/Design"
+    "Resource/Design",
+    "Resource/Github"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",

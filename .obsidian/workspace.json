@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "call out",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,6 +168,11 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
+    "Resource/Github/Git PassCode Update.md",
+    "Resource/Github/Github.md",
+    "Resource/Github",
+    "Resource/CICD/GitHub - Discord Connection 디스코드 알림봇, 웹훅 webhook.md",
+    "Spaces/Home/CheckList/Weekly/2023년 12월 3째주 목표 설정(12.17-12.24).md",
     "Spaces/Home/CheckList/Weekly/Weekly.md",
     "Project/TCA/[SwiftUI-TCA] 10. Testing Network Requests - 2.md",
     "Project/Resume/장영진 iOS 개발자 _20231220.pdf",
@@ -199,10 +205,6 @@
     "Project/Project.md",
     "Area/Area.md",
     "Resource/Design",
-    "Project/TCA/[SwiftUI-TCA] 6. 타이머 관리.md",
-    "Spaces/Home/CheckList/Daily/2023-12-19.md",
-    "Spaces/Home/CheckList/Daily/2023-12-14.md",
-    "Spaces/Home/CheckList/Daily/2023-12-18.md",
     "Archive/TravelTalk/result2.png",
     "Archive/TravelTalk/result.png",
     "Archive/TravelTalk/listening.png",
@@ -212,7 +214,6 @@
     "Archive/TravelTalk/onboarding.png",
     "Area/Macro/ImageBox/App Main Images On AppStore.zip",
     "Area/Macro/ImageBox/Archive.zip",
-    "Archive/TravelTalk",
     "Resource/칭찬박스/동기부여.canvas",
     "Project/Resume/Resume Map.canvas",
     "Resource/Algorithm/Algorithm.canvas",
