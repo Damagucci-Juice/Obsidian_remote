@@ -486,9 +486,9 @@ A collection of notes and solutions on various mathematical topics.
 - [info/exclude]("./.git/info/exclude") - Sat Dec 23 2023
 - [description]("./.git/description") - Sat Dec 23 2023
 - [objects/pack]("./.git/objects/pack")
-  - [pack-b6c765aacd0b202bbc7432f17c9e903612e0621d.idx]("./.git/objects/pack/pack-b6c765aacd0b202bbc7432f17c9e903612e0621d.idx") - Sat Dec 23 2023
-  - [pack-b6c765aacd0b202bbc7432f17c9e903612e0621d.rev]("./.git/objects/pack/pack-b6c765aacd0b202bbc7432f17c9e903612e0621d.rev") - Sat Dec 23 2023
-  - [pack-b6c765aacd0b202bbc7432f17c9e903612e0621d.pack]("./.git/objects/pack/pack-b6c765aacd0b202bbc7432f17c9e903612e0621d.pack") - Sat Dec 23 2023
+  - [pack-6e5932a52d5ac6734aacba3bc12e834c4250f90f.rev]("./.git/objects/pack/pack-6e5932a52d5ac6734aacba3bc12e834c4250f90f.rev") - Sat Dec 23 2023
+  - [pack-6e5932a52d5ac6734aacba3bc12e834c4250f90f.idx]("./.git/objects/pack/pack-6e5932a52d5ac6734aacba3bc12e834c4250f90f.idx") - Sat Dec 23 2023
+  - [pack-6e5932a52d5ac6734aacba3bc12e834c4250f90f.pack]("./.git/objects/pack/pack-6e5932a52d5ac6734aacba3bc12e834c4250f90f.pack") - Sat Dec 23 2023
 - [HEAD]("./.git/HEAD") - Sat Dec 23 2023
 
 ### [Obsidian Vault.md](#Obsidian Vault.md)
@@ -544,6 +544,9 @@ A collection of notes and solutions on various mathematical topics.
   - [아이작 swift Syntax.md]("./Resource/Swift/아이작_swift_Syntax.md") - Sat Dec 23 2023
   - [SwiftMap.canvas]("./Resource/Swift/SwiftMap.canvas") - Sat Dec 23 2023
 - [개발일반/읽기 좋은 코드 - 변수명.md]("./Resource/개발일반/읽기_좋은_코드_-_변수명.md") - Sat Dec 23 2023
+- [Github]("./Resource/Github")
+  - [Github.md]("./Resource/Github/Github.md") - Sat Dec 23 2023
+  - [Git PassCode Update.md]("./Resource/Github/Git_PassCode_Update.md") - Sat Dec 23 2023
 - [SwiftUI Architecture]("./Resource/SwiftUI_Architecture")
   - [확장 가능하고 테스트 가능한 아키텍쳐.md]("./Resource/SwiftUI_Architecture/확장_가능하고_테스트_가능한_아키텍쳐.md") - Sat Dec 23 2023
   - [CleanArchitecture.md]("./Resource/SwiftUI_Architecture/CleanArchitecture.md") - Sat Dec 23 2023
