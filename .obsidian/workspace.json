@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/CheckList/Weekly/2023년 12월 4째주 (12.24-12.30).md",
+                "file": "Resource/자기개발/습관을 형성하는 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/CheckList/Weekly/2023년 12월 4째주 (12.24-12.30).md",
+                "file": "Resource/자기개발/습관을 형성하는 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/CheckList/Weekly/2023년 12월 4째주 (12.24-12.30).md",
+                "file": "Resource/자기개발/습관을 형성하는 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/CheckList/Weekly/2023년 12월 4째주 (12.24-12.30).md"
+                "file": "Resource/자기개발/습관을 형성하는 방법.md"
               }
             }
           },
@@ -167,8 +167,12 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
-    "Spaces/Home/CheckList/Weekly/2023년 12월 3째주 목표 설정(12.17-12.23).md",
+    "Resource/자기개발/파인만 기법.md",
+    "Resource/자기개발/습관을 형성하는 방법.md",
+    "Resource/자기개발/북적북적 개발자 박성은.md",
     "Spaces/Home/CheckList/Weekly/2023년 12월 4째주 (12.24-12.30).md",
+    "Resource/자기개발/Pasted image 20231223235615.png",
+    "Spaces/Home/CheckList/Weekly/2023년 12월 3째주 목표 설정(12.17-12.23).md",
     "Spaces/Home/CheckList/Weekly/Weekly.md",
     "Spaces/Home/CheckList/Monthly/2023년 12월 목표.md",
     "Spaces/Home/CheckList/Monthly/Monthly.md",
@@ -199,10 +203,6 @@
     "Resource/SwiftUI Architecture/확장 가능하고 테스트 가능한 아키텍쳐.md",
     "Resource/SwiftUI Architecture/SwiftUI Architecture.md",
     "Resource/Design/[창우(CW)] Design Challenge 2.md",
-    "Resource/Design/[창우(CW)] Design Challenge 1.md",
-    "Resource/Design/Design.md",
-    "Resource/Resource.md",
-    "Project/TCA/[SwiftUI-TCA] 7. State를 Test 하기.md",
     "Resource/Design",
     "Archive/TravelTalk/result2.png",
     "Archive/TravelTalk/result.png",
@@ -210,7 +210,6 @@
     "Archive/TravelTalk/main1.png",
     "Archive/TravelTalk/onboarding2.png",
     "Archive/TravelTalk/onboarding1.png",
-    "Archive/TravelTalk/onboarding.png",
     "Area/Macro/ImageBox/App Main Images On AppStore.zip",
     "Area/Macro/ImageBox/Archive.zip",
     "Resource/칭찬박스/동기부여.canvas",
