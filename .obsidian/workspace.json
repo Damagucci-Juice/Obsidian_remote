@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/CheckList/Weekly/2023년 12월 3째주 목표 설정(12.17-12.24).md",
+                "file": "Spaces/Home/CheckList/Weekly/2023년 12월 4째주 (12.24-12.30).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/CheckList/Weekly/2023년 12월 3째주 목표 설정(12.17-12.24).md",
+                "file": "Spaces/Home/CheckList/Weekly/2023년 12월 4째주 (12.24-12.30).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/CheckList/Weekly/2023년 12월 3째주 목표 설정(12.17-12.24).md",
+                "file": "Spaces/Home/CheckList/Weekly/2023년 12월 4째주 (12.24-12.30).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/CheckList/Weekly/2023년 12월 3째주 목표 설정(12.17-12.24).md"
+                "file": "Spaces/Home/CheckList/Weekly/2023년 12월 4째주 (12.24-12.30).md"
               }
             }
           },
@@ -147,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,12 +167,15 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
+    "Spaces/Home/CheckList/Weekly/2023년 12월 3째주 목표 설정(12.17-12.23).md",
+    "Spaces/Home/CheckList/Weekly/2023년 12월 4째주 (12.24-12.30).md",
+    "Spaces/Home/CheckList/Weekly/Weekly.md",
+    "Spaces/Home/CheckList/Monthly/2023년 12월 목표.md",
+    "Spaces/Home/CheckList/Monthly/Monthly.md",
     "Resource/Github/Git PassCode Update.md",
     "Resource/Github/Github.md",
     "Resource/Github",
     "Resource/CICD/GitHub - Discord Connection 디스코드 알림봇, 웹훅 webhook.md",
-    "Spaces/Home/CheckList/Weekly/2023년 12월 3째주 목표 설정(12.17-12.24).md",
-    "Spaces/Home/CheckList/Weekly/Weekly.md",
     "Project/TCA/[SwiftUI-TCA] 10. Testing Network Requests - 2.md",
     "Project/Resume/장영진 iOS 개발자 _20231220.pdf",
     "Project/Resume/0ec01154-e77e-4563-888d-0185f051aa17_Export-5f098c05-22b2-4ab0-af06-fe6d3ca29e87/장영진 iOS 개발자 _20231220.pdf",
@@ -201,9 +203,6 @@
     "Resource/Design/Design.md",
     "Resource/Resource.md",
     "Project/TCA/[SwiftUI-TCA] 7. State를 Test 하기.md",
-    "Project/TCA/TCA.md",
-    "Project/Project.md",
-    "Area/Area.md",
     "Resource/Design",
     "Archive/TravelTalk/result2.png",
     "Archive/TravelTalk/result.png",
