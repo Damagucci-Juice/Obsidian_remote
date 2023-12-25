@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-25.md",
+                "file": "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-25.md",
+                "file": "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-25.md",
+                "file": "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-25.md"
+                "file": "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
-    "Resource/자기개발/습관을 형성하는 방법.md",
     "Spaces/Home/CheckList/Daily/2023-12-25.md",
+    "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
+    "Resource/자기개발/습관을 형성하는 방법.md",
     "Spaces/Home/CheckList/Daily/2023-12-24.md",
     "Spaces/Home/CheckList/Weekly/2023년 12월 4째주(12.24-12.30).md",
     "Spaces/Home/CheckList/Weekly/2023년 12월 3째주(12.17-12.23).md",
@@ -196,7 +197,6 @@
     "Project/TCA/[SwiftUI-TCA] 9. Testing Network Requests - 1.md",
     "Area/Obsidian/Callouts.md",
     "README.md",
-    "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
     "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
     "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
     "Project/TCA/[SwiftUI-TCA] 8. Effect(Timer)를  Test 하기.md",

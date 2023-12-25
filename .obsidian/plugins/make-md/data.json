@@ -55,10 +55,9 @@
     "Spaces/Home/Spaces/Home/CheckList/Spaces/Home/CheckList/Monthly",
     "Spaces/Home/Spaces/Home/CheckList/Spaces/Home/CheckList/Weekly",
     "Spaces/Home/Spaces/Home/CheckList/Spaces/Home/CheckList/Weekly",
-    "Spaces/Home///Resource",
-    "Spaces/Home///Resource/Resource/자기개발",
-    "Spaces/Home///Resource/Resource/자기개발",
-    "Spaces/Home/Spaces/Home/CheckList/Spaces/Home/CheckList/Daily"
+    "Spaces/Home/Spaces/Home/CheckList/Spaces/Home/CheckList/Daily",
+    "Spaces/Home///Project",
+    "Spaces/Home///Project/Project/TCA"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
