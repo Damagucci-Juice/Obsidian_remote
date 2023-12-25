@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-24.md",
+                "file": "Spaces/Home/CheckList/Daily/2023-12-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-24.md",
+                "file": "Spaces/Home/CheckList/Daily/2023-12-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-24.md",
+                "file": "Spaces/Home/CheckList/Daily/2023-12-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/CheckList/Daily/2023-12-24.md"
+                "file": "Spaces/Home/CheckList/Daily/2023-12-25.md"
               }
             }
           },
@@ -167,11 +167,12 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
+    "Resource/자기개발/습관을 형성하는 방법.md",
+    "Spaces/Home/CheckList/Daily/2023-12-25.md",
+    "Spaces/Home/CheckList/Daily/2023-12-24.md",
     "Spaces/Home/CheckList/Weekly/2023년 12월 4째주(12.24-12.30).md",
     "Spaces/Home/CheckList/Weekly/2023년 12월 3째주(12.17-12.23).md",
-    "Spaces/Home/CheckList/Daily/2023-12-24.md",
     "Spaces/Home/CheckList/Daily/Daily.md",
-    "Resource/자기개발/습관을 형성하는 방법.md",
     "Resource/자기개발/파인만 기법.md",
     "Resource/자기개발/북적북적 개발자 박성은.md",
     "Resource/자기개발/Pasted image 20231223235615.png",
@@ -203,7 +204,6 @@
     "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
     "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
     "Resource/SwiftUI Architecture/확장 가능하고 테스트 가능한 아키텍쳐.md",
-    "Resource/SwiftUI Architecture/SwiftUI Architecture.md",
     "Resource/Design",
     "Archive/TravelTalk/result2.png",
     "Archive/TravelTalk/result.png",
