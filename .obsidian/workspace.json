@@ -11,9 +11,11 @@
             "id": "3fe92dc15cec97e5",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces"
+                "file": "Spaces/Home/CheckList/Daily/2023-12-27.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/CheckList/Daily/2023-12-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/CheckList/Daily/2023-12-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/CheckList/Daily/2023-12-27.md"
+              }
             }
           },
           {
@@ -161,8 +167,11 @@
   },
   "active": "3fe92dc15cec97e5",
   "lastOpenFiles": [
-    "Spaces/Home/CheckList/Daily/2023-12-26.md",
     "Spaces/Home/CheckList/Daily/2023-12-25.md",
+    "Spaces/Home/CheckList/Daily/2023-12-26.md",
+    "Spaces/Home/CheckList/Daily/2023-12-18.md",
+    "Spaces/Home/CheckList/Daily/2023-12-14.md",
+    "Spaces/Home/CheckList/Daily/2023-12-27.md",
     "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
     "Resource/자기개발/습관을 형성하는 방법.md",
     "Spaces/Home/CheckList/Daily/2023-12-24.md",
@@ -195,9 +204,6 @@
     "Project/TCA/[SwiftUI-TCA] 1. Reducer 생성.md",
     "Project/TCA/[SwiftUI-TCA] 2. SwiftUI의 View와 통합.md",
     "Project/TCA/[SwiftUI-TCA] 8. Effect(Timer)를  Test 하기.md",
-    "Project/TCA/[SwiftUI-TCA] 3. 앱과 연결.md",
-    "Project/TCA/[SwiftUI-TCA] 4. Side effects 추가.md",
-    "Project/TCA/[SwiftUI-TCA] 5. 네트워크 요청 수행.md",
     "Resource/Design",
     "Archive/TravelTalk/result2.png",
     "Archive/TravelTalk/result.png",
