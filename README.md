@@ -486,9 +486,9 @@ A collection of notes and solutions on various mathematical topics.
 - [info/exclude]("./.git/info/exclude") - Wed Jan 03 2024
 - [description]("./.git/description") - Wed Jan 03 2024
 - [objects/pack]("./.git/objects/pack")
-  - [pack-3f1db8127f73330ae048a1719686f8d2fd0b352d.idx]("./.git/objects/pack/pack-3f1db8127f73330ae048a1719686f8d2fd0b352d.idx") - Wed Jan 03 2024
-  - [pack-3f1db8127f73330ae048a1719686f8d2fd0b352d.pack]("./.git/objects/pack/pack-3f1db8127f73330ae048a1719686f8d2fd0b352d.pack") - Wed Jan 03 2024
-  - [pack-3f1db8127f73330ae048a1719686f8d2fd0b352d.rev]("./.git/objects/pack/pack-3f1db8127f73330ae048a1719686f8d2fd0b352d.rev") - Wed Jan 03 2024
+  - [pack-b10addb5597f885aea9bc4068142edbab257c1f1.pack]("./.git/objects/pack/pack-b10addb5597f885aea9bc4068142edbab257c1f1.pack") - Wed Jan 03 2024
+  - [pack-b10addb5597f885aea9bc4068142edbab257c1f1.idx]("./.git/objects/pack/pack-b10addb5597f885aea9bc4068142edbab257c1f1.idx") - Wed Jan 03 2024
+  - [pack-b10addb5597f885aea9bc4068142edbab257c1f1.rev]("./.git/objects/pack/pack-b10addb5597f885aea9bc4068142edbab257c1f1.rev") - Wed Jan 03 2024
 - [HEAD]("./.git/HEAD") - Wed Jan 03 2024
 
 ### [Obsidian Vault.md](#Obsidian Vault.md)
@@ -504,6 +504,7 @@ A collection of notes and solutions on various mathematical topics.
   - [.fullScreenCover, .Sheet에서 Cancel 버튼 없애는 방법.md]("./Resource/SwiftUI/.fullScreenCover,_.Sheet에서_Cancel_버튼_없애는_방법.md") - Wed Jan 03 2024
   - [버전 별로 다른 도형 색칠.md]("./Resource/SwiftUI/버전_별로_다른_도형_색칠.md") - Wed Jan 03 2024
   - [Text Border, Text Stroke.md]("./Resource/SwiftUI/Text_Border,_Text_Stroke.md") - Wed Jan 03 2024
+  - [SwiftUI 뷰 라이프 사이클.md]("./Resource/SwiftUI/SwiftUI_뷰_라이프_사이클.md") - Wed Jan 03 2024
   - [Gradation 퍼센트로 나누기.md]("./Resource/SwiftUI/Gradation_퍼센트로_나누기.md") - Wed Jan 03 2024
   - [Canvas, TimeLineView.md]("./Resource/SwiftUI/Canvas,_TimeLineView.md") - Wed Jan 03 2024
   - [.fullScreenCover, .sheet 문제.md]("./Resource/SwiftUI/.fullScreenCover,_.sheet_문제.md") - Wed Jan 03 2024
