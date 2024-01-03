@@ -58,7 +58,8 @@
     "Spaces/Home/Spaces/Home/CheckList/Spaces/Home/CheckList/Daily",
     "Spaces/Home///Project",
     "Spaces/Home///Spaces",
-    "Spaces/Home///Project/Project/TCA"
+    "Spaces/Home///Resource",
+    "Spaces/Home///Resource/Resource/SwiftUI"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
