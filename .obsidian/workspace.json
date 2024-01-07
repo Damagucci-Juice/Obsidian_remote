@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1fd76e675d787e0c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fe92dc15cec97e5",
+  "active": "1fd76e675d787e0c",
   "lastOpenFiles": [
     "Project/TCA/[SwiftUI-TCA] TCA 톺아보기.md",
     "Spaces/Home/CheckList/Daily/2024-01-04.md",
