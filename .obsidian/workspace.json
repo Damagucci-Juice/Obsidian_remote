@@ -23,9 +23,11 @@
             "id": "1fd76e675d787e0c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Spaces/Home/CheckList/Daily/2024-01-09.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
+                "file": "Spaces/Home/CheckList/Daily/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md",
+                "file": "Spaces/Home/CheckList/Daily/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/TCA/[ToyProject] 나만의 핀터레스트, 무드보드.md"
+                "file": "Spaces/Home/CheckList/Daily/2024-01-09.md"
               }
             }
           },
@@ -178,6 +180,7 @@
   },
   "active": "1fd76e675d787e0c",
   "lastOpenFiles": [
+    "Spaces/Home/CheckList/Daily/2024-01-09.md",
     "Project/TCA/[SwiftUI-TCA] TCA 톺아보기.md",
     "Spaces/Home/CheckList/Daily/2024-01-04.md",
     "Spaces/Home/CheckList/Daily/2024-01-03.md",
@@ -205,7 +208,6 @@
     "Resource/자기개발/파인만 기법.md",
     "Resource/자기개발/북적북적 개발자 박성은.md",
     "Resource/자기개발/Pasted image 20231223235615.png",
-    "Spaces/Home/CheckList/Weekly/Weekly.md",
     "Resource/Github",
     "Project/Resume/장영진 iOS 개발자 _20231220.pdf",
     "Project/Resume/0ec01154-e77e-4563-888d-0185f051aa17_Export-5f098c05-22b2-4ab0-af06-fe6d3ca29e87/장영진 iOS 개발자 _20231220.pdf",
